@@ -112,27 +112,13 @@ Bias Detection & Fairness Evaluation
 
 ## Dashboard Preview
 
-<p align="center">
-    <img src="Images/dashboard.png" alt="Main Dashboard" width="900">
-</p>
 
-<p align="center">
-    <img src="Images/fairness-metrics.png" alt="Fairness Metrics" width="900">
-</p>
 
-<p align="center">
-    <img src="Images/bias-analysis.png" alt="Bias Analysis" width="900">
-</p>
-
-<p align="center">
-    <img src="Images/shap-analysis.png" alt="SHAP Explainability" width="900">
-</p>
-
-<p align="center">
+<p align="Left">
     <img src="Images/Screenshot%202026-07-08%20220339.png" alt="FairWatch Dashboard" width="900">
 </p>
 
-<p align="center">
+<p align="Left">
     <img src="Images/Screenshot%202026-07-08%20220347.png" alt="Candidate Analysis" width="900">
 </p>
 
