@@ -10,7 +10,7 @@ An AI-powered fairness monitoring platform that detects, analyzes, and visualize
 
 FairWatch is an AI-driven hiring fairness monitoring system designed to identify and mitigate bias in recruitment processes. The platform evaluates hiring decisions using fairness metrics, explainable AI techniques, and interactive visualizations to promote transparency, accountability, and ethical AI practices.
 
-The system combines a **FastAPI backend**, **React frontend**, **Machine Learning models**, and **SHAP explainability** to help organizations build fair and trustworthy AI-assisted recruitment systems.
+The system combines a **FastAPI backend**, **React frontend**, **Machine Learning models**, and **SHAP Explainability** to help organizations build fair and trustworthy AI-assisted recruitment systems.
 
 ---
 
@@ -117,7 +117,7 @@ Bias Detection & Fairness Evaluation
 </p>
 
 <p align="Left">
-    <img src="Images/Screenshot%202026-07-08%20220347.png" alt="Candidate Analysis" width="900">
+    <img src="Images/Screenshot%202026-07-08%20220347.png" alt="Bias Detection Dashboard" width="900">
 </p>
 
 ---
@@ -145,10 +145,6 @@ FairWatch – AI Hiring Bias Detection System
 │
 ├── Images
 │   ├── architecture.png
-│   ├── dashboard.png
-│   ├── fairness-metrics.png
-│   ├── bias-analysis.png
-│   ├── shap-analysis.png
 │   ├── Screenshot 2026-07-08 220339.png
 │   └── Screenshot 2026-07-08 220347.png
 │
