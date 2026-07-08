@@ -1,0 +1,1001 @@
+Resume_ID,Name,Gender,Ethnicity,Age_Group,Skills,Experience (Years),Education,Certifications,Job Role,Salary Expectation ($),Projects Count,AI Score (0-100),Region,Timestamp,Month,Drift_Fraction,AI_Score_Original,Recruiter_Decision_Original,Recruiter Decision,hired
+1,Arjun Agarwal,Male,OBC,22-27,"Deep Learning, Computer Vision",3,MBA,Google ML,Software Engineer,68657,10,64.47,North,2024-01-08,1,0.0,64.47,Hire,Hire,True
+2,Daniel Das,Male,SC,22-27,"Pytorch, Python",10,M.Tech,AWS Certified,Cybersecurity Analyst,95392,7,92.68,West,2024-01-11,1,0.0,92.68,Hire,Hire,True
+3,Divya Chatterjee,Female,SC,28-33,"NLP, Pytorch, TensorFlow",5,B.Sc,AWS Certified,Data Scientist,89615,5,52.13,East,2024-01-03,1,0.0,52.13,Hire,Hire,True
+4,Karen Chandra,Female,ST,40-45,"SQL, Python",9,B.Sc,Deep Learning Specialization,Data Scientist,89823,10,98.13,West,2024-01-09,1,0.0,98.13,Hire,Hire,True
+5,Jyoti Iyer,Female,OBC,22-27,"AWS, Docker, Kubernetes",5,MBA,Google ML,AI Researcher,100589,10,65.74,East,2024-01-13,1,0.0,65.74,Hire,Hire,True
+6,Jennifer Bose,Female,OBC,22-27,"SQL, Python",10,MBA,Google ML,Software Engineer,114341,0,63.29,East,2024-01-23,1,0.0,63.29,Hire,Hire,True
+7,Aditi Miller,Female,OBC,34-39,"Java, SQL",6,PhD,Google ML,AI Researcher,96155,2,61.94,East,2024-01-19,1,0.0,61.94,Hire,Hire,True
+8,Jyoti Bose,Female,SC,28-33,"Ethical Hacking, Linux, Networking",2,B.Tech,Deep Learning Specialization,AI Researcher,90432,0,17.2,North,2024-01-13,1,0.0,17.2,Reject,Reject,False
+9,Laura Tiwari,Female,SC,22-27,"Java, Spring, Microservices",8,PhD,Deep Learning Specialization,Software Engineer,78469,1,60.4,East,2024-01-14,1,0.0,60.4,Hire,Hire,True
+10,Siddarth Sharma,Male,OBC,28-33,"Ethical Hacking, Linux, Networking",4,PhD,Google ML,Software Engineer,60032,8,58.74,North,2024-01-12,1,0.0,58.74,Hire,Hire,True
+11,William Taylor,Male,General,22-27,"NLP, Pytorch, TensorFlow",0,B.Tech,AWS Certified,Software Engineer,114364,1,35.23,West,2024-01-03,1,0.0,35.23,Reject,Reject,False
+12,Michael Patel,Male,OBC,46+,"TensorFlow, NLP",8,M.Tech,Deep Learning Specialization,AI Researcher,110686,7,80.04,South,2024-01-25,1,0.0,80.04,Hire,Hire,True
+13,Aditya Menon,Male,General,28-33,"SQL, Machine Learning",10,M.Tech,AWS Certified,AI Researcher,70161,8,85.64,North,2024-01-19,1,0.0,85.64,Hire,Hire,True
+14,Aarav Patel,Male,OBC,22-27,"Cybersecurity, Networking",10,B.Sc,Deep Learning Specialization,AI Researcher,57342,0,55.79,North,2024-01-24,1,0.0,55.79,Hire,Hire,True
+15,Simran Davis,Female,SC,34-39,"NLP, Pytorch, TensorFlow",6,B.Sc,Deep Learning Specialization,Cybersecurity Analyst,52899,6,57.19,South,2024-01-02,1,0.0,57.19,Hire,Hire,True
+16,Megha Mehta,Female,ST,22-27,"C++, React",3,B.Sc,AWS Certified,AI Researcher,112132,2,32.69,South,2024-01-04,1,0.0,32.69,Reject,Reject,False
+17,William Sharma,Male,OBC,22-27,"C++, React",1,PhD,,Cybersecurity Analyst,89672,2,29.39,North,2024-01-01,1,0.0,29.39,Reject,Reject,False
+18,Deepika Johnson,Female,General,46+,"Java, Spring, Microservices",4,B.Tech,,Data Scientist,115914,8,56.58,North,2024-01-24,1,0.0,56.58,Hire,Hire,True
+19,Yash Kumar,Male,ST,22-27,"Pytorch, TensorFlow",0,B.Tech,AWS Certified,AI Researcher,48907,8,42.67,South,2024-01-22,1,0.0,42.67,Hire,Hire,True
+20,Shubham Joshi,Male,OBC,40-45,"React, C++, Java, SQL",9,MBA,Google ML,Cybersecurity Analyst,66772,9,74.37,East,2024-01-22,1,0.0,74.37,Hire,Hire,True
+21,Simran Tiwari,Female,General,28-33,"Cybersecurity, Networking",6,B.Sc,Google ML,Software Engineer,113792,7,68.41,West,2024-01-04,1,0.0,68.41,Hire,Hire,True
+22,William Chatterjee,Male,ST,34-39,"SQL, Python",8,MBA,,Cybersecurity Analyst,109329,1,51.57,North,2024-01-01,1,0.0,51.57,Hire,Hire,True
+23,Riya Rao,Female,SC,22-27,"TensorFlow, NLP, Python",4,B.Sc,Deep Learning Specialization,Cybersecurity Analyst,74600,8,46.17,East,2024-01-17,1,0.0,46.17,Hire,Hire,True
+24,Deepika Kumar,Female,Minority,22-27,"Python, Machine Learning",1,M.Tech,,Cybersecurity Analyst,97912,0,16.81,North,2024-01-18,1,0.0,16.81,Reject,Reject,False
+25,Jennifer Sharma,Female,OBC,28-33,"TensorFlow, NLP",1,B.Sc,,AI Researcher,45482,2,22.25,South,2024-01-10,1,0.0,22.25,Reject,Reject,False
+26,Kavya Kapoor,Female,OBC,22-27,"TensorFlow, NLP",3,M.Tech,Google ML,Software Engineer,71029,5,52.59,South,2024-01-28,1,0.0,52.59,Hire,Hire,True
+27,Suresh Rajan,Male,General,34-39,"Java, Spring, Microservices",0,B.Sc,,Software Engineer,54168,6,19.58,West,2024-01-13,1,0.0,19.58,Reject,Reject,False
+28,James Bose,Male,General,22-27,"SQL, Python",3,PhD,AWS Certified,AI Researcher,49099,4,60.75,East,2024-01-25,1,0.0,60.75,Hire,Hire,True
+29,Preeti Anderson,Female,General,46+,"Python, Machine Learning",6,M.Tech,,AI Researcher,74795,5,48.79,West,2024-01-02,1,0.0,48.79,Hire,Hire,True
+30,Andrew Brown,Male,General,22-27,"Cybersecurity, Ethical Hacking, Networking, Linux",5,M.Tech,AWS Certified,AI Researcher,97154,9,72.65,West,2024-01-01,1,0.0,72.65,Hire,Hire,True
+31,Rishabh Brown,Male,ST,28-33,"Cybersecurity, Networking",1,PhD,,Data Scientist,93528,9,43.17,North,2024-01-11,1,0.0,43.17,Reject,Reject,False
+32,Ishita Jackson,Female,OBC,28-33,"Java, Spring, Microservices",2,B.Sc,Google ML,Data Scientist,40053,6,33.15,North,2024-01-10,1,0.0,33.15,Reject,Reject,False
+33,Aditi Brown,Female,SC,46+,"SQL, Machine Learning",9,B.Tech,AWS Certified,Data Scientist,62241,7,85.5,South,2024-01-22,1,0.0,85.5,Hire,Hire,True
+34,Deepak Anderson,Male,General,22-27,"Java, Spring, Microservices",10,M.Tech,AWS Certified,Cybersecurity Analyst,102277,3,76.92,East,2024-01-20,1,0.0,76.92,Hire,Hire,True
+35,Siddarth Rajan,Male,SC,40-45,"Linux, Ethical Hacking",10,B.Tech,Google ML,Cybersecurity Analyst,53970,6,82.89,North,2024-01-25,1,0.0,82.89,Hire,Hire,True
+36,Nidhi Reddy,Female,OBC,28-33,"SQL, Machine Learning",8,B.Tech,Google ML,AI Researcher,81588,1,61.39,South,2024-01-25,1,0.0,61.39,Hire,Hire,True
+37,Karen Anderson,Female,SC,34-39,"Deep Learning, Computer Vision",6,PhD,AWS Certified,Software Engineer,76347,2,60.71,South,2024-01-25,1,0.0,60.71,Hire,Hire,True
+38,Simran Agarwal,Female,General,22-27,"Cybersecurity, Networking",7,B.Sc,AWS Certified,Cybersecurity Analyst,60028,4,39.54,South,2024-01-23,1,0.0,39.54,Reject,Reject,False
+39,Amit Rajan,Male,SC,40-45,"Linux, Cybersecurity",6,MBA,AWS Certified,Software Engineer,42560,0,50.7,South,2024-01-28,1,0.0,50.7,Hire,Hire,True
+40,Amanda Sharma,Female,OBC,22-27,"TensorFlow, NLP",5,MBA,AWS Certified,Data Scientist,68760,6,61.23,South,2024-01-09,1,0.0,61.23,Hire,Hire,True
+41,Ashley Verma,Female,General,28-33,"Deep Learning, Computer Vision",6,MBA,Google ML,AI Researcher,43534,6,62.24,South,2024-01-13,1,0.0,62.24,Hire,Hire,True
+42,Rohan Brown,Male,General,40-45,"Python, NLP",2,PhD,Deep Learning Specialization,Cybersecurity Analyst,76471,4,60.82,South,2024-01-25,1,0.0,60.82,Hire,Hire,True
+43,Deepika Gupta,Female,OBC,34-39,"SQL, Python",7,B.Sc,AWS Certified,Data Scientist,72411,5,56.53,East,2024-01-07,1,0.0,56.53,Hire,Hire,True
+44,Joshua Nair,Male,General,28-33,"Linux, Cybersecurity",3,B.Sc,Google ML,Cybersecurity Analyst,55012,9,61.32,North,2024-01-25,1,0.0,61.32,Hire,Hire,True
+45,Aditya Mehta,Male,General,34-39,"Python, NLP",9,B.Sc,AWS Certified,Cybersecurity Analyst,71830,10,80.26,East,2024-01-04,1,0.0,80.26,Hire,Hire,True
+46,Lisa Joshi,Female,General,34-39,"Java, Spring, Microservices",9,M.Tech,AWS Certified,Cybersecurity Analyst,104251,6,81.28,South,2024-01-04,1,0.0,81.28,Hire,Hire,True
+47,Jyoti Johnson,Female,SC,28-33,"Java, SQL",2,B.Tech,Google ML,Data Scientist,117656,10,48.38,West,2024-01-09,1,0.0,48.38,Hire,Hire,True
+48,Simran Gupta,Female,General,40-45,"Pytorch, Python",4,PhD,Deep Learning Specialization,Data Scientist,63834,7,62.36,South,2024-01-16,1,0.0,62.36,Hire,Hire,True
+49,Tushar Tiwari,Male,General,34-39,"TensorFlow, NLP",5,MBA,Google ML,AI Researcher,104038,4,56.87,West,2024-01-18,1,0.0,56.87,Hire,Hire,True
+50,James Miller,Male,OBC,28-33,"Python, NLP",7,M.Tech,Deep Learning Specialization,Data Scientist,109588,3,65.04,North,2024-01-12,1,0.0,65.04,Hire,Hire,True
+51,Jennifer Desai,Female,General,28-33,"SQL, Python",5,M.Tech,Deep Learning Specialization,AI Researcher,64267,4,47.18,North,2024-01-07,1,0.0,47.18,Hire,Hire,True
+52,James Agarwal,Male,General,22-27,"Ethical Hacking, Linux, Networking",9,PhD,AWS Certified,Software Engineer,110010,4,76.76,North,2024-01-05,1,0.0,76.76,Hire,Hire,True
+53,Kavya Kumar,Female,General,28-33,"Linux, Ethical Hacking",8,MBA,,AI Researcher,84657,10,73.71,North,2024-01-06,1,0.0,73.71,Hire,Hire,True
+54,Gaurav Davis,Male,General,28-33,"Pytorch, Python",1,PhD,AWS Certified,Data Scientist,79824,1,51.09,North,2024-01-03,1,0.0,51.09,Hire,Hire,True
+55,Nikhil Jackson,Male,General,28-33,"Cybersecurity, Ethical Hacking, Networking, Linux",6,B.Tech,,Cybersecurity Analyst,96207,3,48.56,West,2024-01-10,1,0.0,48.56,Hire,Hire,True
+56,Joshua Mehta,Male,General,28-33,"Pytorch, TensorFlow",3,M.Tech,Deep Learning Specialization,AI Researcher,117832,1,26.65,South,2024-01-16,1,0.0,26.65,Reject,Reject,False
+57,Kavya Bose,Female,SC,28-33,"React, C++, Java, SQL",4,M.Tech,Google ML,Data Scientist,65928,7,59.98,West,2024-01-14,1,0.0,59.98,Hire,Hire,True
+58,William Bose,Male,OBC,34-39,"React, C++, Java, SQL",10,B.Sc,Deep Learning Specialization,AI Researcher,77828,2,68.46,East,2024-01-15,1,0.0,68.46,Hire,Hire,True
+59,Siddarth Malhotra,Male,OBC,22-27,"SQL, Machine Learning",6,PhD,AWS Certified,AI Researcher,72816,7,73.22,North,2024-01-01,1,0.0,73.22,Hire,Hire,True
+60,Ashwin White,Male,General,28-33,"Java, SQL",9,PhD,,Data Scientist,97963,10,94.64,East,2024-01-09,1,0.0,94.64,Hire,Hire,True
+61,Christopher Brown,Male,General,22-27,"NLP, Pytorch, TensorFlow",10,PhD,,Cybersecurity Analyst,93955,7,88.83,South,2024-01-23,1,0.0,88.83,Hire,Hire,True
+62,Ishita Menon,Female,ST,34-39,"Cybersecurity, Networking",8,B.Sc,Deep Learning Specialization,AI Researcher,40150,4,77.22,East,2024-01-22,1,0.0,77.22,Hire,Hire,True
+63,Ankita Kumar,Female,General,22-27,"AWS, Docker, Kubernetes",3,B.Tech,Google ML,Cybersecurity Analyst,77752,7,55.69,North,2024-01-15,1,0.0,55.69,Hire,Hire,True
+64,Shreya Verma,Female,General,46+,"Networking, Ethical Hacking",10,B.Tech,Deep Learning Specialization,Data Scientist,54871,2,64.08,South,2024-01-15,1,0.0,64.08,Hire,Hire,True
+65,Devraj Miller,Male,General,40-45,"Linux, Ethical Hacking",4,B.Tech,Deep Learning Specialization,AI Researcher,106616,7,58.3,South,2024-01-24,1,0.0,58.3,Hire,Hire,True
+66,Amit Agarwal,Male,OBC,46+,"Python, Machine Learning",6,MBA,Google ML,Cybersecurity Analyst,104178,4,46.59,North,2024-01-28,1,0.0,46.59,Hire,Hire,True
+67,Kunal Thomas,Male,General,34-39,"Python, NLP",7,MBA,Google ML,Cybersecurity Analyst,114946,8,65.0,South,2024-01-13,1,0.0,65.0,Hire,Hire,True
+68,Ankit Singh,Male,OBC,22-27,"Python, NLP",5,M.Tech,Google ML,Software Engineer,44852,6,54.14,East,2024-01-05,1,0.0,54.14,Hire,Hire,True
+69,Riya Wilson,Female,General,34-39,"C++, React",1,B.Tech,AWS Certified,Software Engineer,74737,2,24.23,West,2024-01-11,1,0.0,24.23,Reject,Reject,False
+70,Neha Desai,Female,ST,22-27,"AWS, Docker, Kubernetes",10,PhD,AWS Certified,Data Scientist,48968,5,93.01,East,2024-01-08,1,0.0,93.01,Hire,Hire,True
+71,Nidhi Gupta,Female,General,22-27,"SQL, Machine Learning",6,PhD,Google ML,AI Researcher,47355,1,59.32,North,2024-01-10,1,0.0,59.32,Hire,Hire,True
+72,Jyoti Brown,Female,ST,28-33,"Pytorch, TensorFlow",2,MBA,AWS Certified,AI Researcher,71566,10,44.14,North,2024-01-16,1,0.0,44.14,Reject,Reject,False
+73,Ashwin Johnson,Male,General,28-33,"SQL, Machine Learning",10,MBA,Deep Learning Specialization,Software Engineer,85293,0,71.08,East,2024-01-19,1,0.0,71.08,Hire,Hire,True
+74,Sarah Tiwari,Female,General,22-27,"Linux, Ethical Hacking",7,PhD,Deep Learning Specialization,AI Researcher,78696,6,66.6,South,2024-01-01,1,0.0,66.6,Hire,Hire,True
+75,Tanvi Sharma,Female,ST,34-39,"Linux, Cybersecurity, Ethical Hacking",9,PhD,Google ML,Data Scientist,70162,0,72.68,West,2024-01-20,1,0.0,72.68,Hire,Hire,True
+76,Nidhi Das,Female,ST,28-33,"Java, Spring, Microservices",9,MBA,Google ML,Software Engineer,80492,10,89.5,East,2024-01-26,1,0.0,89.5,Hire,Hire,True
+77,Kavya Harris,Female,General,28-33,"Cybersecurity, Networking",5,M.Tech,Deep Learning Specialization,Data Scientist,87953,4,53.06,North,2024-01-17,1,0.0,53.06,Hire,Hire,True
+78,Meera Tiwari,Female,SC,22-27,"Ethical Hacking, Linux, Networking",7,PhD,AWS Certified,Cybersecurity Analyst,92089,5,75.34,North,2024-01-28,1,0.0,75.34,Hire,Hire,True
+79,Neha Menon,Female,General,28-33,"Java, Spring, Microservices",0,MBA,Deep Learning Specialization,Data Scientist,88689,5,51.43,North,2024-01-04,1,0.0,51.43,Hire,Hire,True
+80,James Verma,Male,OBC,34-39,"SQL, Python",9,PhD,Google ML,Data Scientist,93516,9,81.47,East,2024-01-04,1,0.0,81.47,Hire,Hire,True
+81,Vikram Singh,Male,OBC,34-39,"TensorFlow, NLP",4,PhD,Deep Learning Specialization,AI Researcher,110804,3,47.7,South,2024-01-14,1,0.0,47.7,Hire,Hire,True
+82,Ankit Mehta,Male,OBC,22-27,"SQL, Java",7,M.Tech,,Data Scientist,87537,4,66.77,North,2024-01-04,1,0.0,66.77,Hire,Hire,True
+83,Rachel Kapoor,Female,OBC,46+,"SQL, Machine Learning",0,MBA,Deep Learning Specialization,AI Researcher,46629,1,34.21,North,2024-01-26,1,0.0,34.21,Reject,Reject,False
+84,Simran Rao,Female,General,34-39,"Linux, Cybersecurity",9,MBA,,Data Scientist,118116,8,81.08,West,2024-01-01,1,0.0,81.08,Hire,Hire,True
+85,Divya Rao,Female,SC,28-33,"Python, Machine Learning",8,MBA,Deep Learning Specialization,AI Researcher,42068,10,83.04,South,2024-01-06,1,0.0,83.04,Hire,Hire,True
+86,Sneha Rao,Female,General,28-33,"SQL, Machine Learning",6,B.Tech,Google ML,Data Scientist,45683,7,57.38,South,2024-01-24,1,0.0,57.38,Hire,Hire,True
+87,Jessica Verma,Female,OBC,40-45,"Java, Spring, Microservices",0,PhD,,AI Researcher,82219,6,34.38,East,2024-01-20,1,0.0,34.38,Reject,Reject,False
+88,Amit Rao,Male,OBC,28-33,"Python, NLP",4,M.Tech,Google ML,Software Engineer,52999,5,56.71,South,2024-01-26,1,0.0,56.71,Hire,Hire,True
+89,Daniel Chatterjee,Male,General,22-27,"SQL, Machine Learning",6,B.Tech,Deep Learning Specialization,Cybersecurity Analyst,73408,5,61.6,East,2024-01-12,1,0.0,61.6,Hire,Hire,True
+90,James Patel,Male,OBC,28-33,"Deep Learning, Computer Vision",1,PhD,Deep Learning Specialization,Data Scientist,113608,1,34.88,West,2024-01-18,1,0.0,34.88,Reject,Reject,False
+91,Shreya Rajan,Female,General,22-27,"Deep Learning, Computer Vision",5,PhD,,AI Researcher,106507,6,62.51,North,2024-02-07,2,0.0,62.51,Hire,Hire,True
+92,James Bose,Male,ST,46+,"Java, SQL",1,MBA,Google ML,Data Scientist,112972,1,20.43,East,2024-02-01,2,0.0,20.43,Reject,Reject,False
+93,Anjali Reddy,Female,OBC,28-33,"NLP, Pytorch, TensorFlow",4,M.Tech,AWS Certified,AI Researcher,58595,5,53.71,West,2024-02-24,2,0.0,53.71,Hire,Hire,True
+94,Rohan Taylor,Male,Minority,28-33,"NLP, Pytorch, TensorFlow",3,MBA,AWS Certified,Cybersecurity Analyst,46895,2,45.29,South,2024-02-05,2,0.0,45.29,Hire,Hire,True
+95,Joshua Kumar,Male,General,28-33,"Linux, Ethical Hacking",10,B.Sc,AWS Certified,Data Scientist,85242,6,72.23,South,2024-02-14,2,0.0,72.23,Hire,Hire,True
+96,Deepak Harris,Male,General,40-45,"Python, NLP",7,B.Tech,AWS Certified,Software Engineer,57987,3,56.43,North,2024-02-25,2,0.0,56.43,Hire,Hire,True
+97,Ishita Shah,Female,OBC,34-39,"TensorFlow, NLP, Python",1,B.Sc,Google ML,Cybersecurity Analyst,86421,2,29.21,East,2024-02-03,2,0.0,29.21,Reject,Reject,False
+98,Kavya Brown,Female,OBC,22-27,"Pytorch, Python",0,B.Tech,Deep Learning Specialization,Cybersecurity Analyst,93088,5,35.89,South,2024-02-01,2,0.0,35.89,Reject,Reject,False
+99,Meera Thompson,Female,OBC,28-33,"C++, React",7,PhD,,Software Engineer,91873,1,46.93,North,2024-02-28,2,0.0,46.93,Hire,Hire,True
+100,Megha Bose,Female,SC,28-33,"Ethical Hacking, Linux, Networking",5,M.Tech,Deep Learning Specialization,Data Scientist,59358,10,73.97,North,2024-02-08,2,0.0,73.97,Hire,Hire,True
+101,Devraj Tiwari,Male,OBC,34-39,"React, C++, Java, SQL",3,B.Sc,Deep Learning Specialization,AI Researcher,115952,10,61.36,East,2024-02-15,2,0.0,61.36,Hire,Hire,True
+102,Shweta Nair,Female,General,28-33,"Java, SQL",7,B.Sc,AWS Certified,Data Scientist,44929,4,69.16,South,2024-02-02,2,0.0,69.16,Hire,Hire,True
+103,Ishita Patel,Female,OBC,34-39,"Linux, Cybersecurity, Ethical Hacking",10,PhD,,Cybersecurity Analyst,45376,9,76.48,South,2024-02-15,2,0.0,76.48,Hire,Hire,True
+104,Yash Martin,Male,Minority,22-27,"Ethical Hacking, Linux, Networking",7,B.Tech,,Software Engineer,62617,7,65.12,West,2024-02-02,2,0.0,65.12,Hire,Hire,True
+105,Kunal Wilson,Male,OBC,22-27,"Networking, Ethical Hacking",8,B.Tech,Deep Learning Specialization,Cybersecurity Analyst,83863,5,74.62,East,2024-02-03,2,0.0,74.62,Hire,Hire,True
+106,Riya Jackson,Female,OBC,22-27,"Linux, Cybersecurity, Ethical Hacking",10,MBA,Deep Learning Specialization,Software Engineer,85851,10,98.57,South,2024-02-10,2,0.0,98.57,Hire,Hire,True
+107,Ananya Martin,Female,SC,34-39,"TensorFlow, NLP, Python",1,MBA,AWS Certified,Data Scientist,108995,5,47.63,West,2024-02-03,2,0.0,47.63,Hire,Hire,True
+108,Melissa Chandra,Female,General,22-27,"Cybersecurity, Networking",0,MBA,Deep Learning Specialization,Software Engineer,50114,3,28.98,South,2024-02-10,2,0.0,28.98,Reject,Reject,False
+109,David Thomas,Male,General,34-39,"TensorFlow, NLP, Python",8,B.Sc,AWS Certified,Data Scientist,61697,9,71.32,North,2024-02-24,2,0.0,71.32,Hire,Hire,True
+110,Kavya Rajan,Female,OBC,28-33,"Linux, Cybersecurity, Ethical Hacking",5,M.Tech,Deep Learning Specialization,Cybersecurity Analyst,80562,7,62.12,East,2024-02-26,2,0.0,62.12,Hire,Hire,True
+111,Kritika Chandra,Female,OBC,22-27,"Networking, Ethical Hacking",10,PhD,,Data Scientist,66174,7,100.0,South,2024-02-26,2,0.0,100.0,Hire,Hire,True
+112,Gaurav Kumar,Male,General,34-39,"R, Statistics, Python",10,B.Tech,AWS Certified,Software Engineer,75755,1,73.99,West,2024-02-15,2,0.0,73.99,Hire,Hire,True
+113,Varun Gupta,Male,General,46+,"C++, React",3,PhD,,AI Researcher,89140,0,29.72,South,2024-02-08,2,0.0,29.72,Reject,Reject,False
+114,Yash Mehta,Male,ST,34-39,"Networking, Ethical Hacking",10,MBA,Deep Learning Specialization,Software Engineer,101487,0,69.51,South,2024-02-15,2,0.0,69.51,Hire,Hire,True
+115,Rohan Verma,Male,General,22-27,"Cybersecurity, Ethical Hacking, Networking, Linux",4,MBA,Deep Learning Specialization,Cybersecurity Analyst,71252,9,58.78,East,2024-02-14,2,0.0,58.78,Hire,Hire,True
+116,Pooja Joshi,Female,OBC,28-33,"Pytorch, Python",7,B.Tech,Deep Learning Specialization,AI Researcher,71531,8,67.66,North,2024-02-19,2,0.0,67.66,Hire,Hire,True
+117,Swati Gupta,Female,OBC,28-33,"TensorFlow, NLP",8,PhD,Deep Learning Specialization,Cybersecurity Analyst,101621,8,86.36,West,2024-02-02,2,0.0,86.36,Hire,Hire,True
+118,Jyoti Tiwari,Female,OBC,34-39,"Deep Learning, Computer Vision",0,MBA,Deep Learning Specialization,Data Scientist,57486,3,48.65,North,2024-02-02,2,0.0,48.65,Hire,Hire,True
+119,Rachel Desai,Female,General,34-39,"R, Statistics, Python",10,B.Sc,Google ML,Cybersecurity Analyst,99988,7,64.3,North,2024-02-02,2,0.0,64.3,Hire,Hire,True
+120,Kritika Singh,Female,OBC,22-27,"Cybersecurity, Ethical Hacking, Networking, Linux",3,PhD,AWS Certified,Cybersecurity Analyst,65048,4,47.21,West,2024-02-10,2,0.0,47.21,Reject,Reject,False
+121,Sneha Desai,Female,General,22-27,"Deep Learning, Computer Vision",4,B.Sc,AWS Certified,Cybersecurity Analyst,105211,6,45.66,West,2024-02-12,2,0.0,45.66,Hire,Hire,True
+122,Neha Brown,Female,General,22-27,"TensorFlow, NLP",1,B.Tech,,Cybersecurity Analyst,98447,2,25.54,North,2024-02-20,2,0.0,25.54,Reject,Reject,False
+123,Meera Wilson,Female,Minority,40-45,"Linux, Cybersecurity, Ethical Hacking",5,B.Tech,Google ML,Software Engineer,49835,5,45.4,North,2024-02-22,2,0.0,45.4,Hire,Hire,True
+124,Jyoti Anderson,Female,General,34-39,"Java, Spring, Microservices",10,B.Sc,Deep Learning Specialization,Software Engineer,88015,9,83.7,North,2024-02-12,2,0.0,83.7,Hire,Hire,True
+125,Michelle Singh,Female,General,28-33,"NLP, Pytorch, TensorFlow",9,B.Sc,AWS Certified,Cybersecurity Analyst,81207,5,86.12,North,2024-02-21,2,0.0,86.12,Hire,Hire,True
+126,Simran Joshi,Female,SC,22-27,"TensorFlow, NLP",0,M.Tech,AWS Certified,AI Researcher,77431,6,29.91,East,2024-02-23,2,0.0,29.91,Reject,Reject,False
+127,Kritika Joshi,Female,Minority,34-39,"React, C++, Java, SQL",2,PhD,AWS Certified,Software Engineer,48511,7,72.48,West,2024-02-18,2,0.0,72.48,Hire,Hire,True
+128,Pallavi Iyer,Female,General,28-33,"Ethical Hacking, Linux, Networking",10,B.Sc,AWS Certified,Software Engineer,87303,3,59.35,East,2024-02-18,2,0.0,59.35,Hire,Hire,True
+129,Jessica Jackson,Female,OBC,34-39,"Python, NLP",2,M.Tech,Deep Learning Specialization,Software Engineer,115353,4,55.14,East,2024-02-03,2,0.0,55.14,Hire,Hire,True
+130,Yash Patel,Male,Minority,28-33,"TensorFlow, NLP",7,B.Tech,AWS Certified,Data Scientist,47263,2,61.05,North,2024-02-27,2,0.0,61.05,Hire,Hire,True
+131,Robert Nair,Male,General,22-27,"NLP, Pytorch, TensorFlow",4,B.Sc,AWS Certified,Software Engineer,65729,3,37.08,South,2024-02-21,2,0.0,37.08,Reject,Reject,False
+132,Ananya Malhotra,Female,OBC,34-39,"Pytorch, Python",9,B.Tech,AWS Certified,Software Engineer,119316,2,40.57,North,2024-02-11,2,0.0,40.57,Reject,Reject,False
+133,Arjun Gupta,Male,OBC,22-27,"AWS, Docker, Kubernetes",0,PhD,Google ML,AI Researcher,111509,4,35.98,East,2024-02-10,2,0.0,35.98,Reject,Reject,False
+134,Amanda Mishra,Female,General,28-33,"Pytorch, TensorFlow",10,MBA,AWS Certified,Cybersecurity Analyst,80970,0,81.06,South,2024-02-28,2,0.0,81.06,Hire,Hire,True
+135,Preeti Menon,Female,OBC,22-27,"Cybersecurity, Networking",2,M.Tech,AWS Certified,AI Researcher,46632,1,32.98,North,2024-02-10,2,0.0,32.98,Reject,Reject,False
+136,Karen Rajan,Female,General,46+,"Pytorch, Python",3,PhD,,Data Scientist,101186,5,57.53,North,2024-02-16,2,0.0,57.53,Hire,Hire,True
+137,Ashley Verma,Female,General,28-33,"Linux, Cybersecurity",1,PhD,AWS Certified,Data Scientist,101680,3,50.31,North,2024-02-10,2,0.0,50.31,Hire,Hire,True
+138,Sanjay Brown,Male,OBC,28-33,"NLP, Pytorch, TensorFlow",2,PhD,Google ML,AI Researcher,77827,6,44.15,North,2024-02-03,2,0.0,44.15,Reject,Reject,False
+139,Melissa Wilson,Female,General,34-39,"Linux, Cybersecurity, Ethical Hacking",8,MBA,,AI Researcher,84444,10,76.59,West,2024-02-18,2,0.0,76.59,Hire,Hire,True
+140,Divya Das,Female,OBC,28-33,"SQL, Java",9,B.Tech,AWS Certified,AI Researcher,119463,0,62.06,South,2024-02-17,2,0.0,62.06,Hire,Hire,True
+141,Yash Thompson,Male,OBC,34-39,"Pytorch, Python",5,B.Sc,,Cybersecurity Analyst,79294,4,43.41,West,2024-02-16,2,0.0,43.41,Reject,Reject,False
+142,Rishabh Desai,Male,OBC,22-27,"Deep Learning, Computer Vision",10,B.Sc,AWS Certified,Software Engineer,115821,4,86.69,East,2024-02-19,2,0.0,86.69,Hire,Hire,True
+143,Rahul Harris,Male,General,40-45,"Python, NLP",7,B.Sc,Google ML,AI Researcher,54404,9,89.06,East,2024-02-07,2,0.0,89.06,Hire,Hire,True
+144,Kunal Shah,Male,ST,34-39,"Cybersecurity, Ethical Hacking, Networking, Linux",6,B.Sc,Google ML,Data Scientist,48163,6,58.79,West,2024-02-23,2,0.0,58.79,Hire,Hire,True
+145,Robert Chatterjee,Male,ST,22-27,"Python, NLP",8,MBA,Google ML,Cybersecurity Analyst,86437,8,80.25,North,2024-02-22,2,0.0,80.25,Hire,Hire,True
+146,Karen Davis,Female,SC,34-39,"SQL, Python",3,PhD,Deep Learning Specialization,Software Engineer,104094,4,51.84,West,2024-02-11,2,0.0,51.84,Hire,Hire,True
+147,Preeti Jackson,Female,General,34-39,"Python, NLP",4,MBA,Google ML,Software Engineer,59198,8,55.29,South,2024-02-10,2,0.0,55.29,Hire,Hire,True
+148,Deepak Gupta,Male,Minority,34-39,"Linux, Cybersecurity",5,PhD,Google ML,AI Researcher,57992,7,70.86,South,2024-02-04,2,0.0,70.86,Hire,Hire,True
+149,Vivek Kumar,Male,OBC,34-39,"SQL, Java",10,PhD,Deep Learning Specialization,AI Researcher,58018,3,89.7,South,2024-02-01,2,0.0,89.7,Hire,Hire,True
+150,Ankit Davis,Male,SC,34-39,"Cybersecurity, Networking",7,M.Tech,Google ML,Cybersecurity Analyst,70437,4,72.0,North,2024-02-18,2,0.0,72.0,Hire,Hire,True
+151,Suresh Rajan,Male,ST,22-27,"Linux, Ethical Hacking",2,PhD,Deep Learning Specialization,AI Researcher,44910,6,47.37,East,2024-02-01,2,0.0,47.37,Hire,Hire,True
+152,Michelle Martin,Female,Minority,40-45,"AWS, Docker, Kubernetes",1,PhD,AWS Certified,Data Scientist,101344,7,56.98,South,2024-02-09,2,0.0,56.98,Hire,Hire,True
+153,Nikhil Desai,Male,OBC,34-39,"Python, Machine Learning",2,M.Tech,Google ML,Data Scientist,63002,2,37.83,East,2024-02-20,2,0.0,37.83,Reject,Reject,False
+154,Sarah Anderson,Female,General,28-33,"TensorFlow, NLP, Python",5,B.Sc,Google ML,Cybersecurity Analyst,98554,2,55.72,West,2024-02-25,2,0.0,55.72,Hire,Hire,True
+155,Megha Malhotra,Female,General,22-27,"NLP, Pytorch, TensorFlow",9,M.Tech,Deep Learning Specialization,Data Scientist,93138,10,95.88,North,2024-02-22,2,0.0,95.88,Hire,Hire,True
+156,Shreya Saxena,Female,OBC,28-33,"Linux, Ethical Hacking",5,M.Tech,Deep Learning Specialization,AI Researcher,111989,2,51.76,East,2024-02-16,2,0.0,51.76,Hire,Hire,True
+157,Vivek Martin,Male,ST,40-45,"React, C++, Java, SQL",1,B.Tech,AWS Certified,Software Engineer,66497,5,44.6,North,2024-02-19,2,0.0,44.6,Reject,Reject,False
+158,Manish Shah,Male,SC,28-33,"Linux, Ethical Hacking",8,B.Tech,Google ML,AI Researcher,107272,9,88.94,South,2024-02-14,2,0.0,88.94,Hire,Hire,True
+159,Michelle Kumar,Female,General,22-27,"Python, NLP",8,B.Tech,,AI Researcher,95534,0,53.46,North,2024-02-12,2,0.0,53.46,Hire,Hire,True
+160,William Kumar,Male,OBC,34-39,"C++, React",1,PhD,AWS Certified,AI Researcher,95097,4,46.09,North,2024-02-12,2,0.0,46.09,Hire,Hire,True
+161,Emily Pillai,Female,General,28-33,"TensorFlow, NLP, Python",6,B.Sc,,Data Scientist,109316,8,57.78,South,2024-02-05,2,0.0,57.78,Hire,Hire,True
+162,Aarav Verma,Male,OBC,22-27,"TensorFlow, NLP",4,B.Tech,Google ML,Cybersecurity Analyst,64704,6,46.45,North,2024-02-24,2,0.0,46.45,Reject,Reject,False
+163,Vikram Rajan,Male,General,28-33,"SQL, Python",9,M.Tech,,AI Researcher,46380,0,48.45,North,2024-02-08,2,0.0,48.45,Hire,Hire,True
+164,Shubham Wilson,Male,SC,34-39,"TensorFlow, NLP, Python",3,B.Tech,Google ML,Cybersecurity Analyst,81799,0,42.76,North,2024-02-19,2,0.0,42.76,Reject,Reject,False
+165,Simran Malhotra,Female,OBC,34-39,"Networking, Ethical Hacking",2,PhD,AWS Certified,Cybersecurity Analyst,62955,6,57.99,South,2024-02-21,2,0.0,57.99,Hire,Hire,True
+166,Jennifer Miller,Female,OBC,22-27,"Python, NLP",0,PhD,,Software Engineer,89343,10,44.9,South,2024-02-06,2,0.0,44.9,Hire,Hire,True
+167,Simran Bose,Female,OBC,22-27,"SQL, Java",4,PhD,Deep Learning Specialization,Data Scientist,71831,7,66.11,West,2024-02-09,2,0.0,66.11,Hire,Hire,True
+168,Harsh Gupta,Male,OBC,40-45,"SQL, Java",7,PhD,Deep Learning Specialization,Cybersecurity Analyst,64662,3,76.8,East,2024-02-26,2,0.0,76.8,Hire,Hire,True
+169,James Chatterjee,Male,Minority,28-33,"Linux, Cybersecurity",5,MBA,,Software Engineer,71797,3,37.4,North,2024-02-23,2,0.0,37.4,Reject,Reject,False
+170,Shubham Mishra,Male,General,40-45,"TensorFlow, NLP",8,MBA,AWS Certified,Data Scientist,101080,7,79.8,North,2024-02-04,2,0.0,79.8,Hire,Hire,True
+171,Shweta Chatterjee,Female,Minority,28-33,"Deep Learning, Computer Vision",5,MBA,Deep Learning Specialization,AI Researcher,94732,3,47.42,North,2024-02-10,2,0.0,47.42,Hire,Hire,True
+172,Rakesh Desai,Male,General,34-39,"TensorFlow, NLP",3,MBA,,Data Scientist,104303,7,46.96,East,2024-02-15,2,0.0,46.96,Hire,Hire,True
+173,Tushar Iyer,Male,ST,22-27,"AWS, Docker, Kubernetes",2,M.Tech,AWS Certified,Software Engineer,46358,8,50.23,South,2024-02-25,2,0.0,50.23,Hire,Hire,True
+174,Ankit Rao,Male,OBC,34-39,"Linux, Cybersecurity",10,MBA,Google ML,Cybersecurity Analyst,103334,0,55.42,South,2024-02-22,2,0.0,55.42,Hire,Hire,True
+175,Anjali Sharma,Female,General,34-39,"Deep Learning, Computer Vision",8,B.Tech,Deep Learning Specialization,Cybersecurity Analyst,96436,8,72.25,West,2024-02-26,2,0.0,72.25,Hire,Hire,True
+176,Sanjay Mehta,Male,General,28-33,"Java, SQL",8,B.Sc,Deep Learning Specialization,Software Engineer,93218,8,78.49,North,2024-02-15,2,0.0,78.49,Hire,Hire,True
+177,Ashwin Malhotra,Male,OBC,22-27,"SQL, Java",10,PhD,Deep Learning Specialization,AI Researcher,41238,10,100.0,South,2024-02-23,2,0.0,100.0,Hire,Hire,True
+178,Rohan Miller,Male,ST,34-39,"Cybersecurity, Ethical Hacking, Networking, Linux",6,M.Tech,AWS Certified,Software Engineer,114289,1,54.35,North,2024-02-16,2,0.0,54.35,Hire,Hire,True
+179,Kavya Patel,Female,General,46+,"Java, Spring, Microservices",10,PhD,,AI Researcher,116943,9,87.35,West,2024-02-05,2,0.0,87.35,Hire,Hire,True
+180,Pooja Malhotra,Female,SC,22-27,"Java, Spring, Microservices",2,B.Tech,Google ML,Software Engineer,50279,6,46.58,South,2024-02-17,2,0.0,46.58,Hire,Hire,True
+181,Sneha Mehta,Female,SC,22-27,"Linux, Cybersecurity, Ethical Hacking",6,MBA,Deep Learning Specialization,Software Engineer,75825,9,77.65,South,2024-02-26,2,0.0,77.65,Hire,Hire,True
+182,Ashley Bose,Female,SC,22-27,"Java, Spring, Microservices",5,B.Tech,AWS Certified,Data Scientist,72302,2,47.63,South,2024-02-23,2,0.0,47.63,Hire,Hire,True
+183,Rohan Agarwal,Male,General,40-45,"Deep Learning, Computer Vision",2,MBA,Google ML,Cybersecurity Analyst,98292,2,41.52,South,2024-02-12,2,0.0,41.52,Reject,Reject,False
+184,Riya Rao,Female,General,22-27,"Cybersecurity, Ethical Hacking, Networking, Linux",1,B.Sc,AWS Certified,Cybersecurity Analyst,118386,8,45.29,North,2024-02-26,2,0.0,45.29,Hire,Hire,True
+185,Sakshi Sharma,Female,General,22-27,"SQL, Python",4,B.Tech,Google ML,Data Scientist,79469,8,58.78,North,2024-02-09,2,0.0,58.78,Hire,Hire,True
+186,Divya Patel,Female,SC,28-33,"React, C++, Java, SQL",2,B.Tech,AWS Certified,Cybersecurity Analyst,65630,7,47.7,West,2024-02-15,2,0.0,47.7,Hire,Hire,True
+187,Karan Malhotra,Male,General,34-39,"Python, NLP",0,PhD,AWS Certified,Software Engineer,117908,9,63.11,South,2024-02-05,2,0.0,63.11,Hire,Hire,True
+188,Shweta Martin,Female,OBC,28-33,"Cybersecurity, Networking",3,B.Tech,Deep Learning Specialization,Cybersecurity Analyst,71775,6,67.73,East,2024-02-11,2,0.0,67.73,Hire,Hire,True
+189,Tanvi Menon,Female,General,34-39,"TensorFlow, NLP",5,B.Sc,Google ML,AI Researcher,67479,9,69.98,East,2024-02-15,2,0.0,69.98,Hire,Hire,True
+190,Pooja Rajan,Female,SC,22-27,"Java, SQL",10,B.Tech,Google ML,Data Scientist,118372,3,90.02,East,2024-02-16,2,0.0,90.02,Hire,Hire,True
+191,Rachel Anderson,Female,OBC,22-27,"R, Statistics, Python",6,B.Tech,,Software Engineer,72536,5,44.78,South,2024-03-22,3,0.0,44.78,Hire,Hire,True
+192,Meera Thompson,Female,SC,22-27,"Python, NLP",0,B.Tech,Google ML,Software Engineer,52924,10,28.01,South,2024-03-09,3,0.0,28.01,Reject,Reject,False
+193,David Taylor,Male,OBC,28-33,"NLP, Pytorch, TensorFlow",8,B.Tech,Google ML,Cybersecurity Analyst,85215,7,67.43,East,2024-03-01,3,0.0,67.43,Hire,Hire,True
+194,Riya Saxena,Female,General,28-33,"NLP, Pytorch, TensorFlow",6,PhD,Deep Learning Specialization,Cybersecurity Analyst,102411,2,64.73,South,2024-03-04,3,0.0,64.73,Hire,Hire,True
+195,Emily Shah,Female,OBC,22-27,"Python, Machine Learning",1,MBA,,Software Engineer,71970,1,28.6,East,2024-03-17,3,0.0,28.6,Reject,Reject,False
+196,Daniel Iyer,Male,OBC,28-33,"Python, NLP",5,B.Tech,,Data Scientist,65863,3,34.81,North,2024-03-15,3,0.0,34.81,Reject,Reject,False
+197,Sakshi Sharma,Female,General,22-27,"Pytorch, Python",3,MBA,Google ML,AI Researcher,99972,1,27.44,West,2024-03-04,3,0.0,27.44,Reject,Reject,False
+198,Ashley Taylor,Female,OBC,22-27,"Pytorch, Python",10,MBA,AWS Certified,AI Researcher,78986,6,92.44,South,2024-03-20,3,0.0,92.44,Hire,Hire,True
+199,Karan Shah,Male,OBC,28-33,"R, Statistics, Python",1,MBA,Deep Learning Specialization,AI Researcher,95448,5,27.29,South,2024-03-06,3,0.0,27.29,Reject,Reject,False
+200,Rachel Reddy,Female,ST,46+,"Cybersecurity, Networking",8,B.Sc,AWS Certified,Software Engineer,103518,2,59.08,East,2024-03-05,3,0.0,59.08,Hire,Hire,True
+201,Abhinav Jackson,Male,General,28-33,"C++, React",8,M.Tech,AWS Certified,Data Scientist,68905,7,65.74,South,2024-03-10,3,0.0,65.74,Hire,Hire,True
+202,Mohit Bose,Male,OBC,28-33,"Deep Learning, Computer Vision",8,MBA,Google ML,Data Scientist,75112,9,80.54,South,2024-03-25,3,0.0,80.54,Hire,Hire,True
+203,Rachel Singh,Female,General,46+,"Deep Learning, Computer Vision",7,B.Tech,,Software Engineer,98947,1,42.4,East,2024-03-09,3,0.0,42.4,Reject,Reject,False
+204,Neha Wilson,Female,OBC,22-27,"R, Statistics, Python",1,M.Tech,Deep Learning Specialization,Cybersecurity Analyst,58249,9,44.46,East,2024-03-26,3,0.0,44.46,Reject,Reject,False
+205,Prateek Kumar,Male,General,22-27,"Pytorch, TensorFlow",9,MBA,AWS Certified,Cybersecurity Analyst,107425,8,84.46,East,2024-03-22,3,0.0,84.46,Hire,Hire,True
+206,Karan Rajan,Male,SC,34-39,"R, Statistics, Python",0,PhD,,Software Engineer,91472,2,30.69,North,2024-03-16,3,0.0,30.69,Reject,Reject,False
+207,Matthew Agarwal,Male,SC,40-45,"React, C++, Java, SQL",10,B.Tech,AWS Certified,Cybersecurity Analyst,99597,10,78.73,East,2024-03-16,3,0.0,78.73,Hire,Hire,True
+208,Stephanie Sharma,Female,OBC,22-27,"R, Statistics, Python",1,M.Tech,AWS Certified,Cybersecurity Analyst,96314,10,57.16,North,2024-03-27,3,0.0,57.16,Hire,Hire,True
+209,Michael Agarwal,Male,General,34-39,"TensorFlow, NLP, Python",5,PhD,AWS Certified,Data Scientist,46345,9,86.41,South,2024-03-02,3,0.0,86.41,Hire,Hire,True
+210,Siddarth Verma,Male,Minority,40-45,"Python, Machine Learning",1,PhD,Deep Learning Specialization,Software Engineer,79566,7,61.43,South,2024-03-06,3,0.0,61.43,Hire,Hire,True
+211,Neha Chandra,Female,SC,34-39,"Pytorch, TensorFlow",4,B.Sc,Google ML,AI Researcher,96260,10,77.49,East,2024-03-21,3,0.0,77.49,Hire,Hire,True
+212,Sanjay Sharma,Male,SC,34-39,"Cybersecurity, Ethical Hacking, Networking, Linux",3,B.Tech,Deep Learning Specialization,Data Scientist,95353,3,41.01,North,2024-03-23,3,0.0,41.01,Reject,Reject,False
+213,James Patel,Male,General,34-39,"Ethical Hacking, Linux, Networking",3,MBA,Google ML,Cybersecurity Analyst,57451,1,43.16,West,2024-03-21,3,0.0,43.16,Reject,Reject,False
+214,Amit Taylor,Male,General,28-33,"NLP, Pytorch, TensorFlow",9,B.Sc,Google ML,Data Scientist,97984,7,68.28,East,2024-03-28,3,0.0,68.28,Hire,Hire,True
+215,Rohan Mehta,Male,General,22-27,"NLP, Pytorch, TensorFlow",2,M.Tech,Google ML,Software Engineer,51042,6,56.47,South,2024-03-08,3,0.0,56.47,Hire,Hire,True
+216,Anjali Malhotra,Female,SC,22-27,"Networking, Ethical Hacking",3,B.Tech,AWS Certified,Data Scientist,90578,6,40.03,East,2024-03-04,3,0.0,40.03,Hire,Hire,True
+217,Michael Martin,Male,OBC,28-33,"Cybersecurity, Networking",1,B.Tech,,AI Researcher,62645,5,26.84,West,2024-03-25,3,0.0,26.84,Reject,Reject,False
+218,Pooja Verma,Female,General,34-39,"SQL, Java",9,B.Sc,Deep Learning Specialization,Software Engineer,94451,0,72.52,South,2024-03-14,3,0.0,72.52,Hire,Hire,True
+219,Neha Thomas,Female,SC,28-33,"React, C++, Java, SQL",8,M.Tech,Deep Learning Specialization,Cybersecurity Analyst,91213,4,85.03,North,2024-03-19,3,0.0,85.03,Hire,Hire,True
+220,Aditya Brown,Male,General,34-39,"Ethical Hacking, Linux, Networking",3,B.Sc,Deep Learning Specialization,Cybersecurity Analyst,63022,6,34.87,East,2024-03-04,3,0.0,34.87,Reject,Reject,False
+221,Karan Sharma,Male,SC,40-45,"Deep Learning, Computer Vision",2,B.Tech,AWS Certified,AI Researcher,55473,8,53.07,South,2024-03-25,3,0.0,53.07,Hire,Hire,True
+222,Harsh Brown,Male,General,28-33,"AWS, Docker, Kubernetes",4,B.Tech,Deep Learning Specialization,AI Researcher,114302,9,45.96,South,2024-03-06,3,0.0,45.96,Hire,Hire,True
+223,Meera Tiwari,Female,ST,22-27,"SQL, Python",1,PhD,Google ML,Data Scientist,46026,1,24.56,North,2024-03-16,3,0.0,24.56,Reject,Reject,False
+224,Sakshi Nair,Female,General,28-33,"R, Statistics, Python",2,PhD,,Data Scientist,81934,8,51.93,South,2024-03-09,3,0.0,51.93,Hire,Hire,True
+225,Matthew Chandra,Male,Minority,22-27,"SQL, Python",1,B.Tech,,Software Engineer,100960,2,17.39,West,2024-03-28,3,0.0,17.39,Reject,Reject,False
+226,Pallavi Shah,Female,OBC,28-33,"Networking, Ethical Hacking",1,B.Tech,Deep Learning Specialization,Data Scientist,117554,3,33.5,North,2024-03-16,3,0.0,33.5,Reject,Reject,False
+227,William Mishra,Male,ST,46+,"TensorFlow, NLP",2,B.Sc,AWS Certified,Cybersecurity Analyst,40191,3,27.61,West,2024-03-25,3,0.0,27.61,Reject,Reject,False
+228,Pallavi Mehta,Female,General,22-27,"SQL, Java",3,B.Tech,Deep Learning Specialization,Software Engineer,70339,7,48.76,North,2024-03-28,3,0.0,48.76,Hire,Hire,True
+229,Jyoti Johnson,Female,OBC,46+,"Python, NLP",1,B.Tech,AWS Certified,AI Researcher,71034,10,49.64,South,2024-03-10,3,0.0,49.64,Hire,Hire,True
+230,Shweta Menon,Female,General,22-27,"Linux, Cybersecurity",5,MBA,Deep Learning Specialization,AI Researcher,98925,1,44.57,East,2024-03-15,3,0.0,44.57,Hire,Hire,True
+231,Ankita Joshi,Female,General,34-39,"Networking, Ethical Hacking",8,MBA,Google ML,Cybersecurity Analyst,79874,7,91.22,West,2024-03-27,3,0.0,91.22,Hire,Hire,True
+232,Prateek Shah,Male,General,46+,"Python, NLP",2,B.Sc,Deep Learning Specialization,Cybersecurity Analyst,44073,5,35.9,East,2024-03-13,3,0.0,35.9,Reject,Reject,False
+233,Jennifer Jackson,Female,Minority,22-27,"Ethical Hacking, Linux, Networking",3,B.Sc,Deep Learning Specialization,AI Researcher,92505,2,37.6,West,2024-03-12,3,0.0,37.6,Reject,Reject,False
+234,Christopher Harris,Male,General,40-45,"Linux, Cybersecurity",4,PhD,Deep Learning Specialization,Software Engineer,83456,1,55.41,South,2024-03-04,3,0.0,55.41,Hire,Hire,True
+235,Siddarth Kumar,Male,General,22-27,"Linux, Ethical Hacking",2,PhD,AWS Certified,AI Researcher,64530,6,48.76,East,2024-03-09,3,0.0,48.76,Hire,Hire,True
+236,Emily Nair,Female,OBC,22-27,"Networking, Ethical Hacking",0,M.Tech,Google ML,Cybersecurity Analyst,90202,10,46.8,West,2024-03-05,3,0.0,46.8,Hire,Hire,True
+237,Kritika Taylor,Female,OBC,28-33,"Python, NLP",3,M.Tech,,Software Engineer,114141,0,17.38,South,2024-03-17,3,0.0,17.38,Reject,Reject,False
+238,Sakshi Agarwal,Female,OBC,34-39,"Java, SQL",2,B.Sc,Google ML,AI Researcher,70508,0,40.16,West,2024-03-06,3,0.0,40.16,Reject,Reject,False
+239,Vivek Mishra,Male,General,40-45,"SQL, Python",4,B.Tech,,Data Scientist,62768,0,34.61,West,2024-03-06,3,0.0,34.61,Reject,Reject,False
+240,Christopher Shah,Male,General,46+,"Pytorch, Python",5,PhD,Deep Learning Specialization,Data Scientist,104517,5,89.63,South,2024-03-18,3,0.0,89.63,Hire,Hire,True
+241,Swati Miller,Female,ST,22-27,"Python, Machine Learning",0,B.Sc,Deep Learning Specialization,Data Scientist,57103,3,26.48,North,2024-03-11,3,0.0,26.48,Reject,Reject,False
+242,Yash Kumar,Male,Minority,28-33,"Ethical Hacking, Linux, Networking",0,B.Sc,Google ML,Software Engineer,91851,2,10.15,West,2024-03-19,3,0.0,10.15,Reject,Reject,False
+243,Harsh Malhotra,Male,General,46+,"AWS, Docker, Kubernetes",5,B.Sc,Deep Learning Specialization,Software Engineer,86769,6,51.45,East,2024-03-08,3,0.0,51.45,Hire,Hire,True
+244,Abhinav Malhotra,Male,OBC,22-27,"Python, NLP",4,B.Sc,Google ML,Software Engineer,81709,9,53.33,East,2024-03-26,3,0.0,53.33,Hire,Hire,True
+245,Matthew Mehta,Male,ST,22-27,"NLP, Pytorch, TensorFlow",7,B.Sc,Google ML,Software Engineer,84007,3,70.5,North,2024-03-15,3,0.0,70.5,Hire,Hire,True
+246,Gaurav Chatterjee,Male,SC,46+,"Deep Learning, Computer Vision",3,M.Tech,AWS Certified,AI Researcher,94266,1,40.94,South,2024-03-16,3,0.0,40.94,Reject,Reject,False
+247,Preeti Thomas,Female,OBC,34-39,"AWS, Docker, Kubernetes",6,B.Sc,AWS Certified,Data Scientist,44379,9,69.12,North,2024-03-10,3,0.0,69.12,Hire,Hire,True
+248,Yash Tiwari,Male,ST,22-27,"Pytorch, TensorFlow",1,B.Sc,Deep Learning Specialization,Data Scientist,117860,6,51.68,South,2024-03-20,3,0.0,51.68,Hire,Hire,True
+249,Anjali Brown,Female,General,34-39,"SQL, Java",10,B.Sc,,AI Researcher,110795,2,51.7,North,2024-03-09,3,0.0,51.7,Hire,Hire,True
+250,Pallavi Mishra,Female,General,34-39,"TensorFlow, NLP, Python",1,B.Sc,Google ML,AI Researcher,118671,7,33.0,North,2024-03-16,3,0.0,33.0,Reject,Reject,False
+251,Sanjay Verma,Male,General,28-33,"Linux, Ethical Hacking",3,B.Sc,AWS Certified,Software Engineer,74734,1,42.41,North,2024-03-03,3,0.0,42.41,Reject,Reject,False
+252,Swati Chandra,Female,General,22-27,"SQL, Machine Learning",6,MBA,AWS Certified,Cybersecurity Analyst,52675,4,48.81,North,2024-03-03,3,0.0,48.81,Hire,Hire,True
+253,Rachel Rajan,Female,ST,28-33,"Cybersecurity, Ethical Hacking, Networking, Linux",9,MBA,Deep Learning Specialization,Cybersecurity Analyst,70886,6,74.29,South,2024-03-16,3,0.0,74.29,Hire,Hire,True
+254,Neha Menon,Female,Minority,28-33,"Java, Spring, Microservices",0,B.Tech,,Software Engineer,61910,9,29.76,North,2024-03-07,3,0.0,29.76,Reject,Reject,False
+255,Karan Singh,Male,General,34-39,"AWS, Docker, Kubernetes",6,B.Sc,Google ML,AI Researcher,48783,3,52.89,East,2024-03-03,3,0.0,52.89,Hire,Hire,True
+256,Jennifer Menon,Female,OBC,28-33,"Python, Machine Learning",8,MBA,Deep Learning Specialization,Software Engineer,94321,7,79.66,East,2024-03-05,3,0.0,79.66,Hire,Hire,True
+257,Matthew Harris,Male,ST,40-45,"Pytorch, Python",9,M.Tech,,Data Scientist,93856,1,57.09,East,2024-03-09,3,0.0,57.09,Hire,Hire,True
+258,Ashley White,Female,OBC,28-33,"TensorFlow, NLP, Python",9,B.Tech,Deep Learning Specialization,Data Scientist,83449,6,72.89,East,2024-03-23,3,0.0,72.89,Hire,Hire,True
+259,Rahul Davis,Male,SC,22-27,"Networking, Ethical Hacking",4,PhD,Deep Learning Specialization,Cybersecurity Analyst,69878,4,62.01,South,2024-03-05,3,0.0,62.01,Hire,Hire,True
+260,Emily Shah,Female,OBC,28-33,"Linux, Cybersecurity",4,M.Tech,Google ML,Cybersecurity Analyst,107698,1,45.29,West,2024-03-28,3,0.0,45.29,Reject,Reject,False
+261,Sneha Anderson,Female,OBC,22-27,"TensorFlow, NLP, Python",2,B.Sc,Google ML,Software Engineer,66309,6,28.64,South,2024-03-27,3,0.0,28.64,Reject,Reject,False
+262,Vivek Singh,Male,General,40-45,"Java, SQL",7,B.Sc,AWS Certified,Cybersecurity Analyst,44005,3,52.7,South,2024-03-08,3,0.0,52.7,Hire,Hire,True
+263,Ashley Martin,Female,ST,34-39,"TensorFlow, NLP",7,B.Sc,,Cybersecurity Analyst,51847,9,57.89,North,2024-03-10,3,0.0,57.89,Hire,Hire,True
+264,Abhinav Kumar,Male,General,28-33,"SQL, Python",2,PhD,Google ML,Data Scientist,42628,3,31.48,East,2024-03-28,3,0.0,31.48,Reject,Reject,False
+265,James Rao,Male,SC,34-39,"Java, SQL",10,B.Sc,,Data Scientist,76094,3,64.58,West,2024-03-14,3,0.0,64.58,Hire,Hire,True
+266,Preeti Johnson,Female,OBC,34-39,"Linux, Cybersecurity, Ethical Hacking",4,MBA,AWS Certified,Cybersecurity Analyst,89051,8,66.11,North,2024-03-18,3,0.0,66.11,Hire,Hire,True
+267,Pallavi Mehta,Female,SC,40-45,"Cybersecurity, Networking",7,B.Sc,,Software Engineer,79163,10,65.97,North,2024-03-07,3,0.0,65.97,Hire,Hire,True
+268,Robert Mishra,Male,SC,34-39,"Python, NLP",0,M.Tech,,Data Scientist,78745,9,33.29,East,2024-03-09,3,0.0,33.29,Reject,Reject,False
+269,Nisha Pillai,Female,OBC,34-39,"Cybersecurity, Networking",0,B.Tech,,Data Scientist,86988,3,12.62,North,2024-03-17,3,0.0,12.62,Reject,Reject,False
+270,Meera Jackson,Female,General,34-39,"Deep Learning, Computer Vision",2,MBA,AWS Certified,Software Engineer,83992,4,50.05,East,2024-03-21,3,0.0,50.05,Hire,Hire,True
+271,Ashwin Kapoor,Male,ST,28-33,"NLP, Pytorch, TensorFlow",3,M.Tech,AWS Certified,Cybersecurity Analyst,116490,5,57.69,North,2024-03-19,3,0.0,57.69,Hire,Hire,True
+272,James Das,Male,General,46+,"Networking, Ethical Hacking",8,B.Sc,Google ML,Cybersecurity Analyst,84914,8,78.24,West,2024-03-14,3,0.0,78.24,Hire,Hire,True
+273,Divya Shah,Female,OBC,22-27,"Pytorch, TensorFlow",2,M.Tech,AWS Certified,Cybersecurity Analyst,62099,10,39.23,North,2024-03-19,3,0.0,39.23,Reject,Reject,False
+274,Michael Gupta,Male,General,22-27,"C++, React",2,M.Tech,Google ML,Software Engineer,88903,6,52.62,South,2024-03-01,3,0.0,52.62,Hire,Hire,True
+275,Laura Das,Female,General,28-33,"SQL, Python",0,M.Tech,Google ML,Data Scientist,117158,3,34.47,South,2024-03-10,3,0.0,34.47,Reject,Reject,False
+276,Amit Singh,Male,SC,22-27,"Linux, Cybersecurity, Ethical Hacking",4,PhD,AWS Certified,Data Scientist,104248,8,67.69,South,2024-03-12,3,0.0,67.69,Hire,Hire,True
+277,Manish Menon,Male,General,28-33,"Linux, Cybersecurity",0,MBA,Google ML,Data Scientist,44897,2,36.34,East,2024-03-13,3,0.0,36.34,Reject,Reject,False
+278,Rachel Thompson,Female,General,28-33,"AWS, Docker, Kubernetes",0,B.Tech,Deep Learning Specialization,Software Engineer,56199,1,27.2,North,2024-03-18,3,0.0,27.2,Reject,Reject,False
+279,Amanda Nair,Female,General,28-33,"C++, React",3,M.Tech,Google ML,Data Scientist,57978,4,43.6,East,2024-03-14,3,0.0,43.6,Reject,Reject,False
+280,David Thompson,Male,ST,46+,"Linux, Cybersecurity",1,MBA,Google ML,Data Scientist,86913,7,47.16,East,2024-03-23,3,0.0,47.16,Hire,Hire,True
+281,Ishita Iyer,Female,General,22-27,"Cybersecurity, Networking",0,B.Tech,,AI Researcher,115255,7,31.82,North,2024-03-22,3,0.0,31.82,Reject,Reject,False
+282,Divya Gupta,Female,General,28-33,"AWS, Docker, Kubernetes",8,B.Sc,Google ML,AI Researcher,53082,4,70.97,West,2024-03-27,3,0.0,70.97,Hire,Hire,True
+283,Vikram Saxena,Male,General,22-27,"Ethical Hacking, Linux, Networking",5,M.Tech,AWS Certified,Software Engineer,62349,1,59.61,West,2024-03-11,3,0.0,59.61,Hire,Hire,True
+284,Emily Thompson,Female,OBC,34-39,"Pytorch, TensorFlow",4,PhD,Deep Learning Specialization,AI Researcher,102684,5,44.2,South,2024-03-26,3,0.0,44.2,Hire,Hire,True
+285,Meera Joshi,Female,SC,34-39,"Ethical Hacking, Linux, Networking",2,M.Tech,Deep Learning Specialization,Cybersecurity Analyst,63758,2,25.03,East,2024-03-20,3,0.0,25.03,Reject,Reject,False
+286,Preeti Thompson,Female,OBC,22-27,"Linux, Ethical Hacking",0,PhD,,Software Engineer,74290,2,25.15,North,2024-03-21,3,0.0,25.15,Reject,Reject,False
+287,Priya Taylor,Female,OBC,28-33,"Cybersecurity, Networking",9,M.Tech,Deep Learning Specialization,Cybersecurity Analyst,72581,10,94.12,East,2024-03-16,3,0.0,94.12,Hire,Hire,True
+288,Sakshi Nair,Female,OBC,28-33,"AWS, Docker, Kubernetes",8,PhD,Google ML,Software Engineer,61679,0,70.64,South,2024-03-03,3,0.0,70.64,Hire,Hire,True
+289,Shweta Mishra,Female,General,28-33,"TensorFlow, NLP",5,PhD,Deep Learning Specialization,Data Scientist,115108,3,61.88,South,2024-03-15,3,0.0,61.88,Hire,Hire,True
+290,Michael Wilson,Male,OBC,22-27,"Python, Machine Learning",5,B.Sc,AWS Certified,AI Researcher,51913,10,54.67,South,2024-03-26,3,0.0,54.67,Hire,Hire,True
+291,Melissa Jackson,Female,ST,22-27,"NLP, Pytorch, TensorFlow",3,M.Tech,AWS Certified,Software Engineer,118636,5,53.71,West,2024-03-16,3,0.0,53.71,Hire,Hire,True
+292,Emily Joshi,Female,General,28-33,"NLP, Pytorch, TensorFlow",1,M.Tech,Deep Learning Specialization,Software Engineer,53935,5,48.06,West,2024-03-02,3,0.0,48.06,Reject,Reject,False
+293,Michael Rao,Male,OBC,34-39,"Ethical Hacking, Linux, Networking",6,B.Sc,Google ML,Software Engineer,84293,3,53.95,South,2024-03-04,3,0.0,53.95,Hire,Hire,True
+294,Kavya Harris,Female,OBC,28-33,"Pytorch, Python",1,M.Tech,AWS Certified,Software Engineer,46366,10,50.83,North,2024-03-18,3,0.0,50.83,Hire,Hire,True
+295,Stephanie Davis,Female,General,28-33,"Pytorch, TensorFlow",8,M.Tech,,Data Scientist,82184,9,81.14,North,2024-03-17,3,0.0,81.14,Hire,Hire,True
+296,Ankita Martin,Female,OBC,40-45,"SQL, Machine Learning",3,MBA,,Software Engineer,107147,4,38.07,North,2024-03-10,3,0.0,38.07,Reject,Reject,False
+297,Jennifer Chatterjee,Female,SC,46+,"NLP, Pytorch, TensorFlow",3,MBA,Google ML,Software Engineer,63306,10,64.33,North,2024-03-17,3,0.0,64.33,Hire,Hire,True
+298,Shreya Kapoor,Female,ST,22-27,"R, Statistics, Python",8,B.Tech,Google ML,Cybersecurity Analyst,95363,10,89.3,East,2024-03-26,3,0.0,89.3,Hire,Hire,True
+299,Robert Mehta,Male,Minority,34-39,"Linux, Cybersecurity",0,MBA,Deep Learning Specialization,Cybersecurity Analyst,59192,0,21.84,East,2024-03-27,3,0.0,21.84,Reject,Reject,False
+300,Deepak Chatterjee,Male,ST,34-39,"Linux, Cybersecurity, Ethical Hacking",8,B.Sc,,Software Engineer,113566,1,44.95,East,2024-03-13,3,0.0,44.95,Reject,Reject,False
+301,David Saxena,Male,General,22-27,"Java, Spring, Microservices",10,B.Sc,AWS Certified,Cybersecurity Analyst,98073,6,85.06,South,2024-04-27,4,0.1,85.06,Hire,Hire,True
+302,Rishabh Harris,Male,General,46+,"Networking, Ethical Hacking",8,M.Tech,Deep Learning Specialization,Cybersecurity Analyst,107350,3,76.46,West,2024-04-04,4,0.1,76.46,Hire,Hire,True
+303,Kavya Brown,Female,Minority,22-27,"Java, SQL",4,B.Tech,Deep Learning Specialization,AI Researcher,82287,9,65.81,South,2024-04-20,4,0.1,65.81,Hire,Hire,True
+304,Joshua Malhotra,Male,General,22-27,"R, Statistics, Python",7,M.Tech,Google ML,Cybersecurity Analyst,106209,1,51.81,North,2024-04-06,4,0.1,51.81,Hire,Hire,True
+305,Rachel Thomas,Female,General,34-39,"Java, Spring, Microservices",6,B.Sc,Deep Learning Specialization,Cybersecurity Analyst,109533,3,40.27,South,2024-04-16,4,0.1,40.27,Reject,Reject,False
+306,Nikhil Kapoor,Male,General,40-45,"SQL, Python",7,MBA,Google ML,Software Engineer,54860,9,81.23,East,2024-04-13,4,0.1,81.23,Hire,Hire,True
+307,Rachel Saxena,Female,General,40-45,"Cybersecurity, Ethical Hacking, Networking, Linux",0,PhD,,Software Engineer,65232,5,34.74,South,2024-04-11,4,0.1,34.74,Reject,Reject,False
+308,Sanjay Iyer,Male,SC,34-39,"Java, Spring, Microservices",8,B.Tech,Google ML,Data Scientist,66945,3,83.07,North,2024-04-18,4,0.1,83.07,Hire,Hire,True
+309,Pooja Nair,Female,OBC,28-33,"React, C++, Java, SQL",0,B.Tech,AWS Certified,AI Researcher,69837,1,24.38,East,2024-04-09,4,0.1,24.38,Reject,Reject,False
+310,Sakshi Wilson,Female,SC,22-27,"Java, Spring, Microservices",10,MBA,AWS Certified,AI Researcher,116756,6,86.85,North,2024-04-02,4,0.1,86.85,Hire,Hire,True
+311,Tushar Anderson,Male,General,34-39,"React, C++, Java, SQL",1,MBA,Google ML,Cybersecurity Analyst,44039,9,42.68,West,2024-04-16,4,0.1,42.68,Reject,Reject,False
+312,William Bose,Male,OBC,40-45,"Networking, Ethical Hacking",2,M.Tech,,Software Engineer,88906,8,60.06,North,2024-04-01,4,0.1,60.06,Hire,Hire,True
+313,Nikhil Singh,Male,ST,22-27,"React, C++, Java, SQL",0,B.Tech,AWS Certified,Cybersecurity Analyst,94087,8,53.75,East,2024-04-21,4,0.1,53.75,Hire,Hire,True
+314,Manish Reddy,Male,General,34-39,"Pytorch, TensorFlow",3,M.Tech,Deep Learning Specialization,Data Scientist,111939,1,34.08,South,2024-04-15,4,0.1,34.08,Reject,Reject,False
+315,Deepak Patel,Male,General,22-27,"Cybersecurity, Networking",4,B.Sc,Google ML,Cybersecurity Analyst,49149,7,53.95,East,2024-04-07,4,0.1,53.95,Hire,Hire,True
+316,Ashley Wilson,Female,General,28-33,"TensorFlow, NLP, Python",5,M.Tech,AWS Certified,Data Scientist,40633,9,56.46,South,2024-04-11,4,0.1,56.46,Hire,Hire,True
+317,Ashwin Brown,Male,General,28-33,"Linux, Ethical Hacking",4,PhD,Deep Learning Specialization,Cybersecurity Analyst,63038,5,59.24,South,2024-04-21,4,0.1,59.24,Hire,Hire,True
+318,Mohit Rao,Male,ST,28-33,"React, C++, Java, SQL",8,B.Sc,Google ML,Data Scientist,116269,10,70.9,West,2024-04-19,4,0.1,70.9,Hire,Hire,True
+319,Stephanie Chatterjee,Female,General,40-45,"Linux, Ethical Hacking",0,B.Tech,AWS Certified,Data Scientist,117280,8,47.59,North,2024-04-24,4,0.1,47.59,Hire,Hire,True
+320,Ananya Johnson,Female,SC,28-33,"Python, Machine Learning",8,B.Tech,AWS Certified,Data Scientist,61737,8,66.68,West,2024-04-25,4,0.1,66.68,Hire,Hire,True
+321,Kunal Iyer,Male,General,34-39,"Deep Learning, Computer Vision",2,B.Tech,Google ML,Data Scientist,70375,2,31.31,West,2024-04-03,4,0.1,31.31,Reject,Reject,False
+322,Jyoti Bose,Female,General,46+,"Python, NLP",0,M.Tech,AWS Certified,Cybersecurity Analyst,82476,5,35.42,South,2024-04-04,4,0.1,35.42,Reject,Reject,False
+323,Deepika Harris,Female,General,22-27,"NLP, Pytorch, TensorFlow",8,B.Tech,AWS Certified,Data Scientist,69215,6,70.03,West,2024-04-17,4,0.1,70.03,Hire,Hire,True
+324,Preeti Kapoor,Female,General,28-33,"Cybersecurity, Ethical Hacking, Networking, Linux",7,M.Tech,,Software Engineer,76806,0,25.92,South,2024-04-07,4,0.1,25.92,Reject,Reject,False
+325,Suresh Iyer,Male,General,34-39,"SQL, Python",5,B.Tech,,Cybersecurity Analyst,102786,10,57.65,South,2024-04-07,4,0.1,57.65,Hire,Hire,True
+326,Ankit Verma,Male,OBC,22-27,"TensorFlow, NLP, Python",3,B.Sc,Google ML,Data Scientist,73850,2,51.29,North,2024-04-06,4,0.1,51.29,Hire,Hire,True
+327,Lisa White,Female,OBC,28-33,"Networking, Ethical Hacking",10,B.Sc,Google ML,Software Engineer,103133,10,85.85,North,2024-04-06,4,0.1,85.85,Hire,Hire,True
+328,Ankit Martin,Male,SC,22-27,"Linux, Cybersecurity, Ethical Hacking",2,M.Tech,,Data Scientist,99437,2,50.59,North,2024-04-20,4,0.1,50.59,Hire,Hire,True
+329,Ashwin Pillai,Male,OBC,22-27,"Cybersecurity, Ethical Hacking, Networking, Linux",6,B.Sc,Deep Learning Specialization,Data Scientist,118618,8,67.11,West,2024-04-02,4,0.1,67.11,Hire,Hire,True
+330,Rohan Davis,Male,General,22-27,"Java, Spring, Microservices",10,B.Sc,Google ML,Data Scientist,109444,0,64.58,South,2024-04-14,4,0.1,64.58,Hire,Hire,True
+331,James Pillai,Male,SC,40-45,"Ethical Hacking, Linux, Networking",5,B.Tech,Google ML,Cybersecurity Analyst,50986,9,60.41,North,2024-04-10,4,0.1,60.41,Hire,Hire,True
+332,Deepika Das,Female,OBC,34-39,"Cybersecurity, Ethical Hacking, Networking, Linux",0,M.Tech,Google ML,AI Researcher,81405,9,46.24,North,2024-04-14,4,0.1,46.24,Hire,Reject,False
+333,Riya Nair,Female,Minority,28-33,"C++, React",6,M.Tech,Deep Learning Specialization,Data Scientist,66698,8,67.3,East,2024-04-14,4,0.1,67.3,Hire,Hire,True
+334,Swati Chandra,Female,SC,40-45,"Pytorch, Python",8,B.Tech,Deep Learning Specialization,Cybersecurity Analyst,55608,4,65.96,East,2024-04-24,4,0.1,65.96,Hire,Hire,True
+335,Kunal Iyer,Male,General,28-33,"TensorFlow, NLP",1,MBA,AWS Certified,Data Scientist,40693,5,18.79,East,2024-04-26,4,0.1,18.79,Reject,Reject,False
+336,Devraj Davis,Male,General,46+,"NLP, Pytorch, TensorFlow",9,B.Tech,Deep Learning Specialization,AI Researcher,108289,3,79.97,North,2024-04-10,4,0.1,79.97,Hire,Hire,True
+337,Suresh Miller,Male,OBC,34-39,"Networking, Ethical Hacking",7,B.Sc,,AI Researcher,62214,8,58.76,East,2024-04-22,4,0.1,58.76,Hire,Hire,True
+338,Rishabh Mishra,Male,OBC,28-33,"Python, NLP",10,B.Sc,Deep Learning Specialization,Cybersecurity Analyst,48993,4,63.74,South,2024-04-03,4,0.1,63.74,Hire,Hire,True
+339,Jennifer Harris,Female,OBC,22-27,"Linux, Cybersecurity, Ethical Hacking",5,MBA,,Software Engineer,62942,3,35.12,South,2024-04-14,4,0.1,35.12,Reject,Reject,False
+340,Daniel Patel,Male,OBC,34-39,"Java, SQL",8,MBA,,Software Engineer,89424,8,77.49,West,2024-04-19,4,0.1,77.49,Hire,Hire,True
+341,Simran Desai,Female,OBC,46+,"Linux, Ethical Hacking",7,M.Tech,,AI Researcher,70137,0,53.27,North,2024-04-26,4,0.1,53.27,Hire,Hire,True
+342,Ankita Kapoor,Female,SC,22-27,"SQL, Python",8,B.Tech,Google ML,Cybersecurity Analyst,112686,4,61.8,South,2024-04-06,4,0.1,61.8,Hire,Hire,True
+343,Shweta Kapoor,Female,SC,40-45,"Linux, Cybersecurity",3,PhD,Deep Learning Specialization,Cybersecurity Analyst,67102,10,58.72,North,2024-04-08,4,0.1,58.72,Hire,Reject,False
+344,Vivek Thompson,Male,General,40-45,"Java, Spring, Microservices",5,B.Sc,Deep Learning Specialization,Software Engineer,45539,1,43.08,South,2024-04-28,4,0.1,43.08,Reject,Reject,False
+345,Jyoti Thompson,Female,ST,22-27,"Java, SQL",5,B.Tech,,Cybersecurity Analyst,69110,9,62.69,West,2024-04-25,4,0.1,62.69,Hire,Hire,True
+346,Rahul Taylor,Male,General,46+,"NLP, Pytorch, TensorFlow",6,B.Tech,AWS Certified,Cybersecurity Analyst,107922,8,65.11,East,2024-04-15,4,0.1,65.11,Hire,Hire,True
+347,Priya Sharma,Female,OBC,22-27,"NLP, Pytorch, TensorFlow",10,MBA,Google ML,Data Scientist,101780,5,70.85,North,2024-04-20,4,0.1,70.85,Hire,Hire,True
+348,Jyoti Reddy,Female,General,22-27,"NLP, Pytorch, TensorFlow",7,B.Tech,AWS Certified,Software Engineer,115483,5,69.74,North,2024-04-22,4,0.1,69.74,Hire,Reject,False
+349,Sanjay Agarwal,Male,OBC,22-27,"TensorFlow, NLP, Python",3,B.Tech,,Software Engineer,95249,3,35.61,East,2024-04-16,4,0.1,35.61,Reject,Reject,False
+350,Robert Thomas,Male,General,22-27,"Pytorch, Python",5,M.Tech,AWS Certified,AI Researcher,73330,8,74.89,North,2024-04-16,4,0.1,74.89,Hire,Hire,True
+351,Kunal Desai,Male,ST,46+,"NLP, Pytorch, TensorFlow",4,MBA,Google ML,AI Researcher,66077,4,45.82,North,2024-04-19,4,0.1,45.82,Reject,Reject,False
+352,Deepak Kapoor,Male,OBC,22-27,"React, C++, Java, SQL",5,M.Tech,AWS Certified,Cybersecurity Analyst,61964,7,59.37,North,2024-04-21,4,0.1,59.37,Hire,Hire,True
+353,Ankita Thompson,Female,OBC,34-39,"Pytorch, TensorFlow",9,MBA,,Cybersecurity Analyst,119349,1,44.55,South,2024-04-21,4,0.1,44.55,Reject,Reject,False
+354,Tanvi Wilson,Female,General,22-27,"C++, React",5,M.Tech,AWS Certified,AI Researcher,72983,7,54.76,West,2024-04-24,4,0.1,54.76,Hire,Hire,True
+355,Prateek Iyer,Male,OBC,46+,"TensorFlow, NLP",6,B.Sc,Deep Learning Specialization,AI Researcher,53622,7,47.84,East,2024-04-09,4,0.1,47.84,Reject,Reject,False
+356,Rohan Pillai,Male,General,22-27,"AWS, Docker, Kubernetes",4,MBA,Google ML,AI Researcher,86771,7,59.19,South,2024-04-28,4,0.1,59.19,Hire,Hire,True
+357,Amanda Johnson,Female,OBC,34-39,"R, Statistics, Python",8,PhD,AWS Certified,Data Scientist,113922,2,65.64,East,2024-04-14,4,0.1,65.64,Hire,Hire,True
+358,Preeti Davis,Female,General,28-33,"NLP, Pytorch, TensorFlow",8,MBA,Deep Learning Specialization,Cybersecurity Analyst,57865,4,69.7,North,2024-04-12,4,0.1,69.7,Hire,Hire,True
+359,Amanda Thomas,Female,General,22-27,"Networking, Ethical Hacking",0,M.Tech,AWS Certified,AI Researcher,40946,7,43.41,South,2024-04-18,4,0.1,43.41,Reject,Reject,False
+360,Kritika Rajan,Female,General,28-33,"Python, NLP",8,B.Tech,Deep Learning Specialization,Software Engineer,107713,10,80.09,North,2024-04-25,4,0.1,80.09,Hire,Hire,True
+361,Ishita Thomas,Female,OBC,22-27,"TensorFlow, NLP, Python",4,B.Tech,,Cybersecurity Analyst,104486,2,37.46,East,2024-04-07,4,0.1,37.46,Reject,Reject,False
+362,Anjali Nair,Female,SC,22-27,"Networking, Ethical Hacking",0,PhD,Deep Learning Specialization,Cybersecurity Analyst,59750,1,21.71,East,2024-04-01,4,0.1,21.71,Reject,Reject,False
+363,Aditi Desai,Female,General,34-39,"SQL, Machine Learning",6,MBA,,Data Scientist,59148,5,54.87,North,2024-04-02,4,0.1,54.87,Hire,Hire,True
+364,Nisha Patel,Female,SC,22-27,"Python, NLP",8,B.Tech,Deep Learning Specialization,Software Engineer,98059,4,68.15,North,2024-04-08,4,0.1,68.15,Hire,Hire,True
+365,Rakesh Johnson,Male,General,28-33,"Python, NLP",1,B.Tech,,Data Scientist,45529,7,29.68,South,2024-04-24,4,0.1,29.68,Reject,Reject,False
+366,Gaurav Davis,Male,OBC,22-27,"Java, Spring, Microservices",10,MBA,AWS Certified,AI Researcher,61936,0,69.57,North,2024-04-26,4,0.1,69.57,Hire,Hire,True
+367,Stephanie Joshi,Female,OBC,28-33,"Pytorch, Python",6,M.Tech,Deep Learning Specialization,Software Engineer,51728,0,56.27,South,2024-04-08,4,0.1,56.27,Hire,Reject,False
+368,Michael Gupta,Male,SC,34-39,"SQL, Java",10,M.Tech,,AI Researcher,56492,10,94.23,East,2024-04-16,4,0.1,94.23,Hire,Hire,True
+369,Yash Jackson,Male,General,22-27,"Deep Learning, Computer Vision",10,M.Tech,,AI Researcher,45175,7,80.55,East,2024-04-16,4,0.1,80.55,Hire,Hire,True
+370,Jennifer Saxena,Female,General,34-39,"TensorFlow, NLP",8,M.Tech,Deep Learning Specialization,Cybersecurity Analyst,112682,2,80.32,East,2024-04-06,4,0.1,80.32,Hire,Hire,True
+371,Robert Nair,Male,General,22-27,"SQL, Machine Learning",7,MBA,Deep Learning Specialization,AI Researcher,42453,5,53.27,East,2024-04-20,4,0.1,53.27,Hire,Hire,True
+372,Karen Mishra,Female,SC,22-27,"Python, NLP",5,M.Tech,Google ML,AI Researcher,77110,8,61.5,East,2024-04-11,4,0.1,61.5,Hire,Hire,True
+373,Shweta Joshi,Female,OBC,22-27,"Pytorch, TensorFlow",1,B.Tech,Deep Learning Specialization,Software Engineer,114843,2,35.64,North,2024-04-21,4,0.1,35.64,Reject,Reject,False
+374,Ashley Taylor,Female,Minority,22-27,"SQL, Python",9,M.Tech,Deep Learning Specialization,Data Scientist,104409,5,80.49,North,2024-04-27,4,0.1,80.49,Hire,Hire,True
+375,Siddarth Kumar,Male,OBC,28-33,"NLP, Pytorch, TensorFlow",5,B.Tech,,Software Engineer,49225,6,44.61,North,2024-04-27,4,0.1,44.61,Hire,Hire,True
+376,Pooja Chatterjee,Female,General,28-33,"Python, NLP",8,B.Sc,Google ML,AI Researcher,63448,8,66.61,South,2024-04-18,4,0.1,66.61,Hire,Hire,True
+377,Riya White,Female,OBC,22-27,"Ethical Hacking, Linux, Networking",5,M.Tech,Google ML,AI Researcher,60732,6,53.69,North,2024-04-18,4,0.1,53.69,Hire,Hire,True
+378,Preeti Shah,Female,SC,28-33,"C++, React",8,PhD,AWS Certified,Data Scientist,113812,5,69.9,South,2024-04-18,4,0.1,69.9,Hire,Hire,True
+379,Abhinav Jackson,Male,OBC,28-33,"Python, Machine Learning",4,MBA,AWS Certified,Data Scientist,79562,6,59.95,West,2024-04-01,4,0.1,59.95,Hire,Hire,True
+380,Nidhi Chatterjee,Female,OBC,22-27,"TensorFlow, NLP",5,B.Sc,,Cybersecurity Analyst,100341,4,35.63,East,2024-04-12,4,0.1,35.63,Reject,Reject,False
+381,Karan Tiwari,Male,ST,34-39,"Networking, Ethical Hacking",5,PhD,Deep Learning Specialization,AI Researcher,82558,4,57.89,South,2024-04-26,4,0.1,57.89,Hire,Hire,True
+382,Swati Miller,Female,General,34-39,"Networking, Ethical Hacking",9,PhD,Deep Learning Specialization,AI Researcher,83829,10,100.0,East,2024-04-12,4,0.1,100.0,Hire,Hire,True
+383,Ankita Joshi,Female,General,22-27,"AWS, Docker, Kubernetes",3,M.Tech,,Data Scientist,110769,0,38.69,South,2024-04-19,4,0.1,38.69,Reject,Reject,False
+384,Yash Anderson,Male,General,28-33,"SQL, Machine Learning",3,B.Sc,Google ML,Data Scientist,91684,6,46.22,East,2024-04-05,4,0.1,46.22,Reject,Reject,False
+385,Harsh Gupta,Male,SC,22-27,"Java, SQL",7,B.Tech,Deep Learning Specialization,AI Researcher,57677,6,63.48,South,2024-04-16,4,0.1,63.48,Hire,Hire,True
+386,Michael Menon,Male,OBC,34-39,"SQL, Python",10,B.Tech,Google ML,AI Researcher,115499,8,90.66,North,2024-04-03,4,0.1,90.66,Hire,Hire,True
+387,Ankit Brown,Male,Minority,28-33,"AWS, Docker, Kubernetes",5,MBA,AWS Certified,AI Researcher,97961,9,73.06,North,2024-04-20,4,0.1,73.06,Hire,Hire,True
+388,Kunal Singh,Male,OBC,22-27,"Ethical Hacking, Linux, Networking",3,B.Sc,AWS Certified,Data Scientist,77707,1,39.97,North,2024-04-01,4,0.1,39.97,Reject,Reject,False
+389,Shreya Malhotra,Female,General,28-33,"Linux, Cybersecurity",7,B.Tech,AWS Certified,AI Researcher,58526,8,66.68,South,2024-04-23,4,0.1,66.68,Hire,Hire,True
+390,Abhinav Harris,Male,General,28-33,"Networking, Ethical Hacking",10,B.Tech,Deep Learning Specialization,AI Researcher,41092,0,66.4,East,2024-04-03,4,0.1,66.4,Hire,Hire,True
+391,Tanvi Chandra,Female,Minority,22-27,"Python, NLP",1,B.Sc,,AI Researcher,81347,10,40.92,South,2024-05-16,5,0.2,40.92,Reject,Reject,False
+392,Suresh Das,Male,General,28-33,"SQL, Java",8,PhD,Google ML,AI Researcher,60578,0,67.04,South,2024-05-01,5,0.2,67.04,Hire,Hire,True
+393,Preeti Kapoor,Female,ST,40-45,"Java, SQL",10,MBA,,Software Engineer,43862,8,83.48,East,2024-05-18,5,0.2,83.48,Hire,Hire,True
+394,Nidhi Nair,Female,OBC,28-33,"Deep Learning, Computer Vision",5,PhD,Google ML,Cybersecurity Analyst,69809,1,59.67,West,2024-05-14,5,0.2,59.67,Hire,Reject,False
+395,Matthew Nair,Male,General,28-33,"SQL, Machine Learning",6,PhD,,Data Scientist,66517,5,58.94,North,2024-05-28,5,0.2,58.94,Hire,Hire,True
+396,Aditya Taylor,Male,General,28-33,"AWS, Docker, Kubernetes",2,B.Tech,,Software Engineer,55517,2,29.44,West,2024-05-06,5,0.2,29.44,Reject,Reject,False
+397,Divya Verma,Female,ST,40-45,"Networking, Ethical Hacking",5,PhD,AWS Certified,Cybersecurity Analyst,75887,6,68.67,West,2024-05-05,5,0.2,68.67,Hire,Reject,False
+398,Sanjay Rao,Male,OBC,22-27,"Java, SQL",2,B.Sc,,Data Scientist,43418,9,32.85,East,2024-05-12,5,0.2,32.85,Reject,Reject,False
+399,James Rao,Male,OBC,22-27,"NLP, Pytorch, TensorFlow",8,PhD,AWS Certified,AI Researcher,69658,10,89.68,South,2024-05-02,5,0.2,89.68,Hire,Hire,True
+400,Priya Agarwal,Female,Minority,40-45,"Linux, Cybersecurity",6,MBA,Google ML,AI Researcher,104217,3,56.73,West,2024-05-23,5,0.2,56.73,Hire,Hire,True
+401,Jessica Mishra,Female,SC,28-33,"Deep Learning, Computer Vision",6,MBA,Deep Learning Specialization,Cybersecurity Analyst,108843,6,73.51,East,2024-05-21,5,0.2,73.51,Hire,Hire,True
+402,Robert Mehta,Male,General,28-33,"Cybersecurity, Ethical Hacking, Networking, Linux",7,B.Tech,,Data Scientist,46461,3,51.77,West,2024-05-07,5,0.2,51.77,Hire,Hire,True
+403,Emily Menon,Female,SC,40-45,"C++, React",4,M.Tech,AWS Certified,Cybersecurity Analyst,100762,2,44.52,West,2024-05-27,5,0.2,44.52,Hire,Reject,False
+404,Neha Anderson,Female,General,28-33,"TensorFlow, NLP, Python",1,B.Sc,Google ML,Cybersecurity Analyst,66467,8,44.28,South,2024-05-15,5,0.2,44.28,Hire,Hire,True
+405,Gaurav Shah,Male,General,28-33,"React, C++, Java, SQL",10,PhD,,AI Researcher,90343,1,77.55,South,2024-05-24,5,0.2,77.55,Hire,Hire,True
+406,Abhinav Jackson,Male,General,22-27,"Pytorch, Python",6,B.Sc,Deep Learning Specialization,Software Engineer,46725,5,58.01,West,2024-05-14,5,0.2,58.01,Hire,Hire,True
+407,Pallavi Wilson,Female,General,28-33,"Linux, Cybersecurity",4,M.Tech,Deep Learning Specialization,AI Researcher,105358,2,60.58,East,2024-05-18,5,0.2,60.58,Hire,Reject,False
+408,Andrew Miller,Male,General,40-45,"C++, React",3,MBA,Google ML,Cybersecurity Analyst,76452,7,61.25,East,2024-05-20,5,0.2,61.25,Hire,Hire,True
+409,Rahul Reddy,Male,General,40-45,"SQL, Java",2,B.Sc,AWS Certified,Data Scientist,46426,2,35.14,West,2024-05-04,5,0.2,35.14,Reject,Reject,False
+410,Swati Iyer,Female,OBC,28-33,"Pytorch, Python",10,MBA,Google ML,Software Engineer,44697,9,90.16,North,2024-05-03,5,0.2,90.16,Hire,Hire,True
+411,Shweta Chandra,Female,SC,22-27,"React, C++, Java, SQL",6,PhD,Google ML,Cybersecurity Analyst,109081,8,70.86,North,2024-05-14,5,0.2,70.86,Hire,Hire,True
+412,Prateek Thompson,Male,SC,40-45,"Cybersecurity, Ethical Hacking, Networking, Linux",0,B.Sc,Google ML,Software Engineer,77642,10,61.39,South,2024-05-14,5,0.2,61.39,Hire,Hire,True
+413,Deepika Taylor,Female,OBC,28-33,"Linux, Cybersecurity, Ethical Hacking",9,PhD,AWS Certified,Data Scientist,63580,2,70.94,South,2024-05-20,5,0.2,70.94,Hire,Hire,True
+414,Deepak Das,Male,Minority,28-33,"Deep Learning, Computer Vision",0,B.Sc,AWS Certified,Software Engineer,83750,1,34.14,East,2024-05-12,5,0.2,34.14,Reject,Reject,False
+415,Aarav Das,Male,General,22-27,"Cybersecurity, Ethical Hacking, Networking, Linux",4,MBA,Deep Learning Specialization,Data Scientist,91910,4,48.64,East,2024-05-24,5,0.2,48.64,Hire,Hire,True
+416,Suresh Das,Male,OBC,28-33,"Linux, Ethical Hacking",5,PhD,,Software Engineer,110381,7,49.24,East,2024-05-11,5,0.2,49.24,Hire,Hire,True
+417,Ankita Kumar,Female,SC,34-39,"TensorFlow, NLP",8,MBA,Google ML,Data Scientist,86346,5,62.47,North,2024-05-03,5,0.2,62.47,Hire,Hire,True
+418,Mohit Verma,Male,General,34-39,"Pytorch, Python",5,PhD,Google ML,Data Scientist,80407,2,55.22,North,2024-05-23,5,0.2,55.22,Hire,Hire,True
+419,Kavya Agarwal,Female,OBC,22-27,"SQL, Machine Learning",6,B.Sc,,Software Engineer,89049,5,61.9,North,2024-05-26,5,0.2,61.9,Hire,Hire,True
+420,Rakesh Gupta,Male,SC,28-33,"TensorFlow, NLP, Python",7,B.Tech,,AI Researcher,82904,8,71.37,West,2024-05-05,5,0.2,71.37,Hire,Hire,True
+421,Robert Rao,Male,SC,28-33,"Ethical Hacking, Linux, Networking",3,M.Tech,AWS Certified,AI Researcher,51413,8,58.1,West,2024-05-11,5,0.2,58.1,Hire,Hire,True
+422,Kavya Mehta,Female,General,22-27,"Pytorch, Python",8,M.Tech,Google ML,Data Scientist,77560,0,51.02,East,2024-05-09,5,0.2,51.02,Hire,Reject,False
+423,Emily Joshi,Female,OBC,28-33,"Linux, Cybersecurity, Ethical Hacking",4,B.Sc,Deep Learning Specialization,Data Scientist,75527,0,39.33,North,2024-05-05,5,0.2,39.33,Reject,Reject,False
+424,Michelle Mishra,Female,OBC,34-39,"TensorFlow, NLP",2,B.Sc,Google ML,Cybersecurity Analyst,53884,5,41.81,North,2024-05-13,5,0.2,41.81,Reject,Reject,False
+425,Rohan Brown,Male,OBC,22-27,"AWS, Docker, Kubernetes",6,B.Sc,Google ML,Software Engineer,65971,9,62.4,East,2024-05-23,5,0.2,62.4,Hire,Hire,True
+426,Siddarth White,Male,SC,28-33,"Ethical Hacking, Linux, Networking",2,B.Sc,,Cybersecurity Analyst,70368,7,31.51,East,2024-05-08,5,0.2,31.51,Reject,Reject,False
+427,Joshua Tiwari,Male,OBC,22-27,"Cybersecurity, Networking",5,MBA,Google ML,Software Engineer,102303,10,64.4,West,2024-05-04,5,0.2,64.4,Hire,Hire,True
+428,Amanda Johnson,Female,SC,22-27,"TensorFlow, NLP, Python",2,MBA,AWS Certified,Cybersecurity Analyst,112895,9,65.86,South,2024-05-21,5,0.2,65.86,Hire,Hire,True
+429,Aditya Thomas,Male,General,22-27,"SQL, Python",7,MBA,AWS Certified,Data Scientist,117459,9,70.34,West,2024-05-14,5,0.2,70.34,Hire,Hire,True
+430,Michelle Desai,Female,ST,22-27,"React, C++, Java, SQL",8,M.Tech,Deep Learning Specialization,Data Scientist,118128,10,82.58,East,2024-05-15,5,0.2,82.58,Hire,Hire,True
+431,Jennifer Mehta,Female,SC,28-33,"Linux, Cybersecurity, Ethical Hacking",7,B.Sc,,AI Researcher,104788,1,45.62,West,2024-05-21,5,0.2,45.62,Hire,Hire,True
+432,Rohan Chatterjee,Male,OBC,22-27,"Python, Machine Learning",2,PhD,,Data Scientist,115750,10,66.38,East,2024-05-15,5,0.2,66.38,Hire,Hire,True
+433,Prateek Shah,Male,Minority,28-33,"C++, React",4,B.Tech,,Data Scientist,106902,4,35.1,West,2024-05-13,5,0.2,35.1,Reject,Reject,False
+434,Deepak Kumar,Male,General,22-27,"R, Statistics, Python",5,PhD,,Data Scientist,44087,0,44.79,West,2024-05-08,5,0.2,44.79,Reject,Reject,False
+435,Stephanie Menon,Female,OBC,22-27,"C++, React",10,MBA,AWS Certified,Data Scientist,90409,6,88.27,East,2024-05-27,5,0.2,88.27,Hire,Hire,True
+436,Ankita Nair,Female,SC,28-33,"Python, Machine Learning",4,PhD,Google ML,AI Researcher,97243,2,49.58,North,2024-05-05,5,0.2,49.58,Hire,Reject,False
+437,Karan Rajan,Male,OBC,28-33,"Linux, Cybersecurity, Ethical Hacking",7,PhD,Google ML,AI Researcher,86570,6,63.47,South,2024-05-08,5,0.2,63.47,Hire,Hire,True
+438,Varun Martin,Male,OBC,28-33,"R, Statistics, Python",0,B.Tech,,Cybersecurity Analyst,44963,3,19.23,South,2024-05-19,5,0.2,19.23,Reject,Reject,False
+439,Jyoti Joshi,Female,Minority,34-39,"Deep Learning, Computer Vision",9,B.Tech,Google ML,Data Scientist,100940,2,61.36,West,2024-05-17,5,0.2,61.36,Hire,Hire,True
+440,Robert Thompson,Male,SC,22-27,"Java, Spring, Microservices",1,MBA,Google ML,AI Researcher,46917,10,51.37,East,2024-05-11,5,0.2,51.37,Hire,Hire,True
+441,James Johnson,Male,General,22-27,"C++, React",8,PhD,Google ML,Cybersecurity Analyst,118333,5,96.72,West,2024-05-24,5,0.2,96.72,Hire,Hire,True
+442,Michelle Tiwari,Female,SC,22-27,"SQL, Java",0,M.Tech,Google ML,Data Scientist,103538,9,42.58,North,2024-05-03,5,0.2,42.58,Reject,Reject,False
+443,David Patel,Male,General,28-33,"Java, SQL",4,MBA,Google ML,AI Researcher,59809,4,55.46,North,2024-05-22,5,0.2,55.46,Hire,Hire,True
+444,Jyoti Reddy,Female,General,22-27,"Cybersecurity, Ethical Hacking, Networking, Linux",4,M.Tech,Deep Learning Specialization,Software Engineer,60204,2,53.67,South,2024-05-27,5,0.2,53.67,Hire,Hire,True
+445,Ankita Pillai,Female,General,22-27,"Linux, Cybersecurity",3,M.Tech,Google ML,Data Scientist,55203,2,47.23,West,2024-05-02,5,0.2,47.23,Reject,Reject,False
+446,Siddarth Menon,Male,OBC,22-27,"SQL, Python",7,MBA,Google ML,Cybersecurity Analyst,96981,8,80.06,East,2024-05-01,5,0.2,80.06,Hire,Hire,True
+447,Emily Pillai,Female,Minority,28-33,"Ethical Hacking, Linux, Networking",10,MBA,AWS Certified,Software Engineer,75728,0,76.53,East,2024-05-11,5,0.2,76.53,Hire,Hire,True
+448,Tanvi Mehta,Female,SC,28-33,"Deep Learning, Computer Vision",4,M.Tech,AWS Certified,AI Researcher,63582,10,79.06,East,2024-05-11,5,0.2,79.06,Hire,Hire,True
+449,Aarav Patel,Male,General,22-27,"SQL, Machine Learning",0,B.Tech,AWS Certified,Cybersecurity Analyst,52050,10,44.66,East,2024-05-02,5,0.2,44.66,Reject,Reject,False
+450,Andrew Joshi,Male,SC,22-27,"Java, Spring, Microservices",1,B.Sc,Google ML,Data Scientist,54528,6,47.15,East,2024-05-23,5,0.2,47.15,Hire,Hire,True
+451,Gaurav Saxena,Male,OBC,34-39,"Java, SQL",7,M.Tech,Deep Learning Specialization,Data Scientist,73729,7,77.95,East,2024-05-06,5,0.2,77.95,Hire,Hire,True
+452,Mohit Kumar,Male,Minority,22-27,"Java, SQL",6,MBA,,AI Researcher,91463,4,51.23,North,2024-05-06,5,0.2,51.23,Hire,Hire,True
+453,Riya Nair,Female,General,22-27,"Ethical Hacking, Linux, Networking",8,M.Tech,Deep Learning Specialization,Software Engineer,114887,10,88.53,East,2024-05-24,5,0.2,88.53,Hire,Hire,True
+454,Emily Verma,Female,General,28-33,"Java, Spring, Microservices",7,B.Sc,Google ML,Cybersecurity Analyst,40485,0,38.62,North,2024-05-17,5,0.2,38.62,Reject,Reject,False
+455,Amanda Brown,Female,SC,34-39,"TensorFlow, NLP",6,PhD,Google ML,AI Researcher,55886,1,62.66,South,2024-05-19,5,0.2,62.66,Hire,Hire,True
+456,Megha Malhotra,Female,General,34-39,"React, C++, Java, SQL",6,B.Sc,,Cybersecurity Analyst,78005,10,59.54,West,2024-05-21,5,0.2,59.54,Hire,Reject,False
+457,Suresh Jackson,Male,SC,28-33,"R, Statistics, Python",0,PhD,Google ML,Cybersecurity Analyst,97407,4,40.0,North,2024-05-24,5,0.2,40.0,Reject,Reject,False
+458,Karan Singh,Male,OBC,28-33,"Linux, Ethical Hacking",3,B.Sc,,Cybersecurity Analyst,98891,3,30.24,East,2024-05-01,5,0.2,30.24,Reject,Reject,False
+459,Harsh Kumar,Male,OBC,34-39,"Linux, Cybersecurity",5,M.Tech,Deep Learning Specialization,Software Engineer,110328,1,55.86,East,2024-05-05,5,0.2,55.86,Hire,Hire,True
+460,Amit Singh,Male,General,28-33,"SQL, Java",2,B.Tech,Deep Learning Specialization,AI Researcher,80283,9,49.93,East,2024-05-27,5,0.2,49.93,Hire,Hire,True
+461,Siddarth Thompson,Male,General,34-39,"Ethical Hacking, Linux, Networking",2,PhD,Deep Learning Specialization,Cybersecurity Analyst,95864,1,50.09,East,2024-05-11,5,0.2,50.09,Hire,Hire,True
+462,Shweta Joshi,Female,General,22-27,"SQL, Java",10,B.Tech,Deep Learning Specialization,Data Scientist,94415,3,75.56,South,2024-05-06,5,0.2,75.56,Hire,Hire,True
+463,Jennifer Iyer,Female,General,22-27,"Ethical Hacking, Linux, Networking",7,MBA,Google ML,Software Engineer,103827,2,68.06,East,2024-05-03,5,0.2,68.06,Hire,Hire,True
+464,Aarav Reddy,Male,OBC,22-27,"C++, React",1,M.Tech,Google ML,Data Scientist,58754,4,34.03,East,2024-05-21,5,0.2,34.03,Reject,Reject,False
+465,Laura Wilson,Female,Minority,28-33,"Linux, Cybersecurity, Ethical Hacking",6,MBA,Deep Learning Specialization,AI Researcher,79478,0,63.52,South,2024-05-12,5,0.2,63.52,Hire,Hire,True
+466,Priya Jackson,Female,OBC,22-27,"Linux, Cybersecurity, Ethical Hacking",3,B.Sc,,Cybersecurity Analyst,67277,1,21.56,East,2024-05-09,5,0.2,21.56,Reject,Reject,False
+467,Rakesh Joshi,Male,General,28-33,"Linux, Ethical Hacking",2,M.Tech,,AI Researcher,77363,7,30.92,East,2024-05-07,5,0.2,30.92,Reject,Reject,False
+468,Deepika Desai,Female,General,34-39,"Ethical Hacking, Linux, Networking",9,M.Tech,Google ML,Data Scientist,103577,0,68.02,West,2024-05-17,5,0.2,68.02,Hire,Hire,True
+469,Amit Mishra,Male,SC,22-27,"Deep Learning, Computer Vision",7,B.Tech,AWS Certified,Data Scientist,52853,3,51.83,South,2024-05-08,5,0.2,51.83,Hire,Hire,True
+470,Kritika Pillai,Female,OBC,28-33,"C++, React",3,B.Sc,Google ML,AI Researcher,57878,0,33.45,West,2024-05-15,5,0.2,33.45,Reject,Reject,False
+471,Tushar Agarwal,Male,OBC,28-33,"SQL, Java",3,MBA,Deep Learning Specialization,Cybersecurity Analyst,85033,9,49.76,North,2024-05-08,5,0.2,49.76,Hire,Hire,True
+472,Lisa Iyer,Female,ST,28-33,"TensorFlow, NLP",10,PhD,,Software Engineer,68369,9,92.7,North,2024-05-19,5,0.2,92.7,Hire,Hire,True
+473,Jessica Agarwal,Female,ST,28-33,"SQL, Python",0,M.Tech,Google ML,Cybersecurity Analyst,59525,3,46.27,East,2024-05-19,5,0.2,46.27,Hire,Reject,False
+474,Ankit Singh,Male,SC,34-39,"SQL, Java",0,PhD,Google ML,Cybersecurity Analyst,52844,8,35.8,South,2024-05-15,5,0.2,35.8,Reject,Reject,False
+475,Simran Gupta,Female,OBC,22-27,"Linux, Cybersecurity",8,M.Tech,Google ML,AI Researcher,102886,6,74.64,North,2024-05-22,5,0.2,74.64,Hire,Hire,True
+476,Meera Johnson,Female,OBC,34-39,"SQL, Machine Learning",9,M.Tech,Deep Learning Specialization,Data Scientist,88551,7,82.07,West,2024-05-21,5,0.2,82.07,Hire,Hire,True
+477,Priya Patel,Female,Minority,28-33,"Networking, Ethical Hacking",6,PhD,AWS Certified,Cybersecurity Analyst,67151,0,45.99,North,2024-05-26,5,0.2,45.99,Reject,Reject,False
+478,Joshua Desai,Male,OBC,28-33,"SQL, Java",0,B.Tech,,AI Researcher,62972,5,23.84,South,2024-05-21,5,0.2,23.84,Reject,Reject,False
+479,Daniel Chatterjee,Male,OBC,46+,"AWS, Docker, Kubernetes",2,PhD,Deep Learning Specialization,Cybersecurity Analyst,67498,1,44.24,West,2024-05-25,5,0.2,44.24,Reject,Reject,False
+480,Yash Kapoor,Male,OBC,34-39,"React, C++, Java, SQL",4,B.Tech,AWS Certified,Cybersecurity Analyst,101625,0,43.56,South,2024-05-23,5,0.2,43.56,Reject,Reject,False
+481,Emily Thompson,Female,General,40-45,"Linux, Cybersecurity",5,M.Tech,,Software Engineer,77797,1,46.14,South,2024-06-03,6,0.35,46.14,Reject,Reject,False
+482,Manish Agarwal,Male,OBC,34-39,"Cybersecurity, Ethical Hacking, Networking, Linux",1,M.Tech,AWS Certified,Software Engineer,57305,3,38.57,North,2024-06-16,6,0.35,38.57,Reject,Reject,False
+483,Ankita Wilson,Female,General,28-33,"SQL, Python",10,B.Sc,Deep Learning Specialization,Software Engineer,82769,0,64.28,South,2024-06-16,6,0.35,64.28,Hire,Hire,True
+484,Jessica Malhotra,Female,General,34-39,"Java, SQL",9,B.Sc,Google ML,AI Researcher,59443,2,58.09,South,2024-06-12,6,0.35,58.09,Hire,Hire,True
+485,Jessica Iyer,Female,SC,34-39,"Pytorch, TensorFlow",9,PhD,Google ML,Software Engineer,60117,4,78.18,West,2024-06-06,6,0.35,78.18,Hire,Hire,True
+486,Nikhil Singh,Male,OBC,46+,"Pytorch, TensorFlow",5,B.Tech,AWS Certified,AI Researcher,59391,5,57.02,East,2024-06-12,6,0.35,57.02,Hire,Hire,True
+487,Rachel Iyer,Female,Minority,22-27,"Linux, Ethical Hacking",8,MBA,,Data Scientist,111584,6,71.73,West,2024-06-17,6,0.35,71.73,Hire,Hire,True
+488,Ishita Davis,Female,ST,28-33,"Java, Spring, Microservices",4,PhD,Google ML,AI Researcher,54721,9,64.93,South,2024-06-24,6,0.35,64.93,Hire,Reject,False
+489,Kavya Rao,Female,General,22-27,"Linux, Cybersecurity, Ethical Hacking",10,B.Tech,AWS Certified,Software Engineer,65578,6,77.38,South,2024-06-19,6,0.35,77.38,Hire,Hire,True
+490,Mohit Das,Male,General,28-33,"Java, Spring, Microservices",0,B.Sc,,Software Engineer,119058,10,22.33,West,2024-06-20,6,0.35,22.33,Reject,Reject,False
+491,Rishabh Menon,Male,General,28-33,"NLP, Pytorch, TensorFlow",2,M.Tech,AWS Certified,AI Researcher,113535,6,55.29,South,2024-06-03,6,0.35,55.29,Hire,Hire,True
+492,Kunal Rajan,Male,OBC,22-27,"Deep Learning, Computer Vision",7,MBA,,Software Engineer,67234,6,52.76,North,2024-06-10,6,0.35,52.76,Hire,Hire,True
+493,Laura Desai,Female,General,22-27,"React, C++, Java, SQL",1,PhD,Google ML,AI Researcher,100570,6,47.47,East,2024-06-23,6,0.35,47.47,Hire,Reject,False
+494,Rakesh Reddy,Male,OBC,22-27,"Pytorch, Python",6,MBA,AWS Certified,Cybersecurity Analyst,40320,4,72.03,South,2024-06-05,6,0.35,72.03,Hire,Hire,True
+495,Pallavi Davis,Female,General,22-27,"Pytorch, TensorFlow",1,M.Tech,,Cybersecurity Analyst,76335,6,33.73,East,2024-06-16,6,0.35,33.73,Reject,Reject,False
+496,Andrew Chandra,Male,SC,28-33,"AWS, Docker, Kubernetes",9,B.Tech,AWS Certified,Data Scientist,115400,4,73.17,West,2024-06-01,6,0.35,73.17,Hire,Hire,True
+497,Meera Harris,Female,OBC,40-45,"NLP, Pytorch, TensorFlow",0,B.Sc,AWS Certified,AI Researcher,86659,2,22.02,North,2024-06-02,6,0.35,22.02,Reject,Reject,False
+498,Ishita Taylor,Female,General,22-27,"Pytorch, TensorFlow",10,PhD,AWS Certified,Data Scientist,81446,10,90.99,East,2024-06-27,6,0.35,90.99,Hire,Reject,False
+499,Tanvi Chandra,Female,SC,28-33,"Python, Machine Learning",1,B.Tech,AWS Certified,AI Researcher,61368,2,44.88,North,2024-06-04,6,0.35,44.88,Reject,Reject,False
+500,Devraj Anderson,Male,ST,34-39,"Linux, Cybersecurity, Ethical Hacking",3,PhD,,Data Scientist,54937,8,48.93,West,2024-06-14,6,0.35,48.93,Hire,Hire,True
+501,Pooja Joshi,Female,ST,28-33,"R, Statistics, Python",2,PhD,AWS Certified,Cybersecurity Analyst,84832,4,59.19,West,2024-06-06,6,0.35,59.19,Hire,Reject,False
+502,Anjali Joshi,Female,General,34-39,"Networking, Ethical Hacking",3,B.Sc,Google ML,AI Researcher,54643,3,39.48,North,2024-06-03,6,0.35,39.48,Reject,Reject,False
+503,James Brown,Male,ST,22-27,"Cybersecurity, Ethical Hacking, Networking, Linux",0,B.Sc,Deep Learning Specialization,Data Scientist,79537,10,50.59,South,2024-06-22,6,0.35,50.59,Hire,Hire,True
+504,Sanjay Joshi,Male,ST,40-45,"Java, Spring, Microservices",9,MBA,,Cybersecurity Analyst,115989,2,66.66,North,2024-06-12,6,0.35,66.66,Hire,Hire,True
+505,Meera Anderson,Female,SC,46+,"Pytorch, Python",9,MBA,Google ML,Data Scientist,62514,1,73.4,South,2024-06-25,6,0.35,73.4,Hire,Hire,True
+506,Sanjay Chatterjee,Male,General,28-33,"Pytorch, TensorFlow",8,PhD,AWS Certified,Cybersecurity Analyst,89756,9,98.04,West,2024-06-14,6,0.35,98.04,Hire,Hire,True
+507,David Bose,Male,SC,34-39,"SQL, Machine Learning",6,B.Sc,,AI Researcher,113024,1,56.1,North,2024-06-24,6,0.35,56.1,Hire,Hire,True
+508,Rohan Shah,Male,OBC,28-33,"Deep Learning, Computer Vision",7,B.Sc,AWS Certified,Cybersecurity Analyst,78088,9,86.89,West,2024-06-28,6,0.35,86.89,Hire,Hire,True
+509,Kritika Patel,Female,OBC,34-39,"Java, Spring, Microservices",7,PhD,AWS Certified,Cybersecurity Analyst,51141,0,55.29,North,2024-06-04,6,0.35,55.29,Hire,Hire,True
+510,Shubham Menon,Male,General,34-39,"React, C++, Java, SQL",9,PhD,Google ML,Cybersecurity Analyst,92990,2,70.94,North,2024-06-04,6,0.35,70.94,Hire,Hire,True
+511,Varun Miller,Male,Minority,28-33,"Java, SQL",4,M.Tech,Google ML,Data Scientist,119058,9,68.68,East,2024-06-13,6,0.35,68.68,Hire,Hire,True
+512,Melissa Agarwal,Female,General,22-27,"Linux, Ethical Hacking",2,M.Tech,Deep Learning Specialization,Cybersecurity Analyst,46927,4,44.81,East,2024-06-27,6,0.35,44.81,Reject,Reject,False
+513,Michael Verma,Male,General,34-39,"Networking, Ethical Hacking",2,MBA,Google ML,Data Scientist,104512,2,49.82,North,2024-06-26,6,0.35,49.82,Hire,Hire,True
+514,Kritika Saxena,Female,General,34-39,"Cybersecurity, Networking",10,B.Tech,AWS Certified,Software Engineer,96414,8,86.3,South,2024-06-04,6,0.35,86.3,Hire,Hire,True
+515,Emily Shah,Female,ST,22-27,"TensorFlow, NLP",6,B.Tech,Deep Learning Specialization,Data Scientist,96450,2,58.91,East,2024-06-05,6,0.35,58.91,Hire,Reject,False
+516,Sakshi Miller,Female,OBC,22-27,"Java, Spring, Microservices",1,B.Tech,AWS Certified,Data Scientist,47305,8,43.44,South,2024-06-13,6,0.35,43.44,Hire,Hire,True
+517,Ashley Harris,Female,General,28-33,"Cybersecurity, Networking",6,M.Tech,AWS Certified,AI Researcher,116541,4,65.19,East,2024-06-01,6,0.35,65.19,Hire,Hire,True
+518,Sakshi Mehta,Female,OBC,28-33,"SQL, Java",6,MBA,AWS Certified,Data Scientist,48585,5,58.63,North,2024-06-28,6,0.35,58.63,Hire,Hire,True
+519,Shreya Desai,Female,ST,22-27,"Java, Spring, Microservices",2,B.Sc,AWS Certified,Software Engineer,101564,7,35.69,South,2024-06-19,6,0.35,35.69,Reject,Reject,False
+520,Yash Pillai,Male,OBC,34-39,"Ethical Hacking, Linux, Networking",9,MBA,Google ML,Data Scientist,84504,7,81.8,North,2024-06-06,6,0.35,81.8,Hire,Hire,True
+521,Jyoti Brown,Female,General,28-33,"TensorFlow, NLP",3,B.Tech,,AI Researcher,69607,1,41.47,North,2024-06-20,6,0.35,41.47,Reject,Reject,False
+522,Christopher Mehta,Male,General,34-39,"Linux, Ethical Hacking",9,MBA,Deep Learning Specialization,Cybersecurity Analyst,106144,8,93.13,South,2024-06-26,6,0.35,93.13,Hire,Hire,True
+523,Sarah Thomas,Female,General,22-27,"Cybersecurity, Ethical Hacking, Networking, Linux",5,MBA,AWS Certified,Cybersecurity Analyst,107662,9,66.62,East,2024-06-28,6,0.35,66.62,Hire,Hire,True
+524,Matthew Miller,Male,OBC,34-39,"Java, SQL",3,M.Tech,,Software Engineer,96849,7,52.22,South,2024-06-19,6,0.35,52.22,Hire,Hire,True
+525,Robert Das,Male,ST,40-45,"Networking, Ethical Hacking",5,B.Tech,Deep Learning Specialization,Software Engineer,66680,10,81.31,South,2024-06-28,6,0.35,81.31,Hire,Hire,True
+526,Tanvi Saxena,Female,General,34-39,"Python, NLP",10,B.Sc,Google ML,AI Researcher,80703,3,65.5,North,2024-06-15,6,0.35,65.5,Hire,Reject,False
+527,Jennifer Brown,Female,SC,34-39,"Java, SQL",6,M.Tech,Deep Learning Specialization,AI Researcher,63066,2,61.95,North,2024-06-21,6,0.35,61.95,Hire,Reject,False
+528,Michael Verma,Male,OBC,28-33,"Networking, Ethical Hacking",0,PhD,Deep Learning Specialization,Software Engineer,51836,9,48.1,West,2024-06-13,6,0.35,48.1,Hire,Hire,True
+529,Vivek Joshi,Male,Minority,22-27,"Java, Spring, Microservices",9,M.Tech,,Software Engineer,51829,8,76.3,West,2024-06-08,6,0.35,76.3,Hire,Hire,True
+530,Yash Desai,Male,General,22-27,"C++, React",9,M.Tech,,AI Researcher,93526,3,68.35,North,2024-06-09,6,0.35,68.35,Hire,Hire,True
+531,Michael Thomas,Male,General,34-39,"C++, React",5,M.Tech,Deep Learning Specialization,Cybersecurity Analyst,58993,8,74.67,North,2024-06-12,6,0.35,74.67,Hire,Hire,True
+532,Jyoti Malhotra,Female,SC,34-39,"Deep Learning, Computer Vision",0,M.Tech,,Data Scientist,71414,0,25.19,West,2024-06-09,6,0.35,25.19,Reject,Reject,False
+533,Pallavi Chandra,Female,Minority,40-45,"Python, NLP",10,B.Sc,,AI Researcher,79438,7,69.6,West,2024-06-03,6,0.35,69.6,Hire,Hire,True
+534,Aditya Chatterjee,Male,General,34-39,"C++, React",2,PhD,Google ML,Software Engineer,104447,10,51.64,North,2024-06-16,6,0.35,51.64,Hire,Hire,True
+535,Megha Brown,Female,SC,34-39,"React, C++, Java, SQL",1,PhD,Google ML,Cybersecurity Analyst,99409,8,48.76,East,2024-06-23,6,0.35,48.76,Hire,Reject,False
+536,Rahul Reddy,Male,OBC,22-27,"Python, NLP",10,B.Tech,Google ML,AI Researcher,72716,0,64.62,North,2024-06-17,6,0.35,64.62,Hire,Hire,True
+537,Andrew Rajan,Male,General,22-27,"Java, SQL",5,B.Tech,,AI Researcher,51062,2,40.11,East,2024-06-14,6,0.35,40.11,Reject,Reject,False
+538,Swati Menon,Female,OBC,28-33,"Python, Machine Learning",6,PhD,,Software Engineer,51662,3,62.47,West,2024-06-15,6,0.35,62.47,Hire,Hire,True
+539,Gaurav Iyer,Male,Minority,22-27,"TensorFlow, NLP, Python",0,MBA,AWS Certified,AI Researcher,108922,4,20.55,South,2024-06-14,6,0.35,20.55,Reject,Reject,False
+540,Ashley Joshi,Female,OBC,22-27,"Networking, Ethical Hacking",3,M.Tech,Deep Learning Specialization,Data Scientist,68254,4,61.51,South,2024-06-27,6,0.35,61.51,Hire,Hire,True
+541,Kritika Rajan,Female,General,28-33,"Java, SQL",2,MBA,Deep Learning Specialization,AI Researcher,100052,4,40.21,South,2024-06-03,6,0.35,40.21,Reject,Reject,False
+542,James Rao,Male,OBC,22-27,"R, Statistics, Python",5,PhD,AWS Certified,Cybersecurity Analyst,113007,3,56.43,South,2024-06-02,6,0.35,56.43,Hire,Hire,True
+543,Harsh Mishra,Male,General,28-33,"Linux, Cybersecurity, Ethical Hacking",7,PhD,,Data Scientist,89930,10,79.56,East,2024-06-10,6,0.35,79.56,Hire,Hire,True
+544,Jyoti Rao,Female,OBC,22-27,"Cybersecurity, Ethical Hacking, Networking, Linux",8,B.Sc,Deep Learning Specialization,Cybersecurity Analyst,109523,2,69.24,South,2024-06-14,6,0.35,69.24,Hire,Hire,True
+545,Gaurav Joshi,Male,ST,22-27,"Deep Learning, Computer Vision",5,B.Sc,Deep Learning Specialization,Cybersecurity Analyst,74571,4,50.43,South,2024-06-17,6,0.35,50.43,Hire,Hire,True
+546,Sarah Iyer,Female,SC,22-27,"TensorFlow, NLP",5,M.Tech,AWS Certified,Software Engineer,59480,2,51.93,East,2024-06-02,6,0.35,51.93,Hire,Reject,False
+547,Suresh Singh,Male,General,28-33,"Ethical Hacking, Linux, Networking",7,MBA,Google ML,Software Engineer,113512,6,74.32,West,2024-06-16,6,0.35,74.32,Hire,Hire,True
+548,Ashley Joshi,Female,ST,28-33,"Pytorch, TensorFlow",2,B.Sc,Deep Learning Specialization,Software Engineer,116765,4,44.86,East,2024-06-07,6,0.35,44.86,Hire,Reject,False
+549,Robert White,Male,General,46+,"Java, Spring, Microservices",2,B.Tech,Deep Learning Specialization,AI Researcher,55989,7,49.13,South,2024-06-13,6,0.35,49.13,Hire,Hire,True
+550,Stephanie Mehta,Female,OBC,22-27,"Linux, Ethical Hacking",5,B.Sc,Deep Learning Specialization,Cybersecurity Analyst,45747,10,74.83,West,2024-06-21,6,0.35,74.83,Hire,Reject,False
+551,Shweta White,Female,General,46+,"Networking, Ethical Hacking",2,MBA,Deep Learning Specialization,Cybersecurity Analyst,89989,10,65.98,North,2024-06-03,6,0.35,65.98,Hire,Hire,True
+552,Deepika Reddy,Female,SC,22-27,"Python, Machine Learning",3,PhD,,Software Engineer,60202,1,52.71,North,2024-06-04,6,0.35,52.71,Hire,Hire,True
+553,Ashley Brown,Female,General,28-33,"Java, Spring, Microservices",4,PhD,Google ML,AI Researcher,90867,5,67.37,South,2024-06-16,6,0.35,67.37,Hire,Reject,False
+554,Michelle Martin,Female,General,28-33,"Linux, Cybersecurity, Ethical Hacking",6,B.Sc,AWS Certified,AI Researcher,100755,5,63.4,East,2024-06-22,6,0.35,63.4,Hire,Hire,True
+555,Devraj Miller,Male,OBC,22-27,"SQL, Machine Learning",8,M.Tech,AWS Certified,Cybersecurity Analyst,56749,4,66.01,West,2024-06-22,6,0.35,66.01,Hire,Hire,True
+556,Simran Taylor,Female,OBC,28-33,"SQL, Java",6,MBA,Deep Learning Specialization,Cybersecurity Analyst,114511,1,51.97,South,2024-06-27,6,0.35,51.97,Hire,Hire,True
+557,Preeti Tiwari,Female,General,28-33,"Deep Learning, Computer Vision",9,B.Sc,AWS Certified,Data Scientist,50917,1,68.96,North,2024-06-14,6,0.35,68.96,Hire,Reject,False
+558,Shweta Harris,Female,General,22-27,"Cybersecurity, Networking",7,M.Tech,AWS Certified,Software Engineer,119174,4,67.7,West,2024-06-09,6,0.35,67.7,Hire,Hire,True
+559,Varun Thomas,Male,ST,46+,"AWS, Docker, Kubernetes",0,B.Sc,Deep Learning Specialization,Cybersecurity Analyst,118890,2,44.23,East,2024-06-24,6,0.35,44.23,Reject,Reject,False
+560,Pallavi Thompson,Female,General,22-27,"Python, NLP",9,MBA,Google ML,Software Engineer,42082,10,89.11,North,2024-06-23,6,0.35,89.11,Hire,Hire,True
+561,Arjun Chatterjee,Male,General,34-39,"AWS, Docker, Kubernetes",7,M.Tech,Google ML,Software Engineer,59420,6,79.34,South,2024-07-16,7,0.5,79.34,Hire,Hire,True
+562,Anjali Joshi,Female,OBC,22-27,"Linux, Ethical Hacking",2,PhD,Google ML,Cybersecurity Analyst,114636,7,59.61,West,2024-07-27,7,0.5,59.61,Hire,Reject,False
+563,Sneha Desai,Female,OBC,28-33,"C++, React",0,B.Sc,,Software Engineer,78112,6,38.07,East,2024-07-02,7,0.5,38.07,Reject,Reject,False
+564,Nisha Miller,Female,General,28-33,"Linux, Ethical Hacking",8,B.Tech,Google ML,AI Researcher,112516,10,83.42,North,2024-07-03,7,0.5,83.42,Hire,Reject,False
+565,Ankita Davis,Female,General,22-27,"SQL, Machine Learning",1,B.Tech,,Data Scientist,85068,5,28.49,North,2024-07-15,7,0.5,28.49,Reject,Reject,False
+566,David Bose,Male,General,34-39,"R, Statistics, Python",9,PhD,AWS Certified,Data Scientist,94638,9,94.57,North,2024-07-27,7,0.5,94.57,Hire,Hire,True
+567,Amanda Iyer,Female,General,28-33,"Java, Spring, Microservices",9,MBA,Google ML,Cybersecurity Analyst,94523,1,77.91,North,2024-07-16,7,0.5,77.91,Hire,Hire,True
+568,Simran Chatterjee,Female,ST,28-33,"NLP, Pytorch, TensorFlow",8,B.Sc,Deep Learning Specialization,Data Scientist,48344,4,64.05,North,2024-07-11,7,0.5,64.05,Hire,Reject,False
+569,Shreya Thompson,Female,SC,28-33,"Cybersecurity, Networking",3,B.Sc,Deep Learning Specialization,Software Engineer,59815,4,53.02,East,2024-07-28,7,0.5,53.02,Hire,Hire,True
+570,Rahul Wilson,Male,General,28-33,"Linux, Cybersecurity, Ethical Hacking",7,PhD,Google ML,Data Scientist,106493,1,66.78,West,2024-07-04,7,0.5,66.78,Hire,Hire,True
+571,Nikhil Chatterjee,Male,General,28-33,"Cybersecurity, Ethical Hacking, Networking, Linux",5,B.Sc,AWS Certified,Cybersecurity Analyst,58058,7,56.62,West,2024-07-04,7,0.5,56.62,Hire,Hire,True
+572,Kunal Rajan,Male,General,34-39,"Networking, Ethical Hacking",0,MBA,,Cybersecurity Analyst,87270,5,25.3,North,2024-07-21,7,0.5,25.3,Reject,Reject,False
+573,Devraj Taylor,Male,Minority,28-33,"C++, React",6,M.Tech,Deep Learning Specialization,Software Engineer,87418,6,66.62,West,2024-07-01,7,0.5,66.62,Hire,Hire,True
+574,Divya Sharma,Female,General,34-39,"Python, NLP",8,PhD,Deep Learning Specialization,Software Engineer,59785,5,69.73,North,2024-07-19,7,0.5,69.73,Hire,Reject,False
+575,Robert Saxena,Male,General,34-39,"Networking, Ethical Hacking",6,MBA,Google ML,Data Scientist,109178,8,81.76,South,2024-07-20,7,0.5,81.76,Hire,Hire,True
+576,Shubham Wilson,Male,SC,28-33,"AWS, Docker, Kubernetes",10,MBA,AWS Certified,Cybersecurity Analyst,65859,9,82.57,South,2024-07-10,7,0.5,82.57,Hire,Hire,True
+577,Vikram Thomas,Male,General,28-33,"Cybersecurity, Ethical Hacking, Networking, Linux",5,MBA,Google ML,Software Engineer,108332,2,44.39,North,2024-07-11,7,0.5,44.39,Hire,Hire,True
+578,Arjun Verma,Male,SC,34-39,"Deep Learning, Computer Vision",8,B.Tech,Deep Learning Specialization,Cybersecurity Analyst,74046,4,81.14,South,2024-07-21,7,0.5,81.14,Hire,Hire,True
+579,Shreya Kumar,Female,General,34-39,"Deep Learning, Computer Vision",10,PhD,AWS Certified,AI Researcher,116230,9,90.99,South,2024-07-19,7,0.5,90.99,Hire,Reject,False
+580,Tushar Malhotra,Male,SC,22-27,"Java, Spring, Microservices",4,M.Tech,,AI Researcher,107692,9,64.35,South,2024-07-19,7,0.5,64.35,Hire,Hire,True
+581,Rishabh Johnson,Male,General,22-27,"React, C++, Java, SQL",1,B.Sc,AWS Certified,AI Researcher,50233,6,18.5,South,2024-07-12,7,0.5,18.5,Reject,Reject,False
+582,Stephanie Jackson,Female,SC,40-45,"Linux, Ethical Hacking",8,M.Tech,,Data Scientist,94646,9,63.38,West,2024-07-27,7,0.5,63.38,Hire,Reject,False
+583,Devraj Anderson,Male,OBC,34-39,"Cybersecurity, Ethical Hacking, Networking, Linux",2,B.Tech,AWS Certified,AI Researcher,113272,8,58.18,North,2024-07-12,7,0.5,58.18,Hire,Hire,True
+584,Andrew Rajan,Male,Minority,22-27,"Cybersecurity, Ethical Hacking, Networking, Linux",1,B.Sc,Google ML,AI Researcher,103691,0,33.57,South,2024-07-01,7,0.5,33.57,Reject,Reject,False
+585,Devraj Harris,Male,General,28-33,"Linux, Cybersecurity",6,B.Sc,,AI Researcher,48855,4,51.76,East,2024-07-28,7,0.5,51.76,Hire,Hire,True
+586,Ankit Davis,Male,OBC,34-39,"Python, NLP",9,MBA,AWS Certified,Cybersecurity Analyst,106160,5,82.07,East,2024-07-21,7,0.5,82.07,Hire,Hire,True
+587,Emily Wilson,Female,ST,22-27,"Java, Spring, Microservices",2,PhD,AWS Certified,Data Scientist,46005,9,61.33,South,2024-07-22,7,0.5,61.33,Hire,Reject,False
+588,Tanvi Gupta,Female,General,46+,"TensorFlow, NLP",2,M.Tech,Google ML,Data Scientist,111019,4,36.97,East,2024-07-19,7,0.5,36.97,Reject,Reject,False
+589,Matthew Taylor,Male,Minority,22-27,"Ethical Hacking, Linux, Networking",3,M.Tech,AWS Certified,Data Scientist,66975,0,24.96,South,2024-07-08,7,0.5,24.96,Reject,Reject,False
+590,Neha Thomas,Female,General,28-33,"Python, Machine Learning",9,MBA,Google ML,Cybersecurity Analyst,90070,7,72.09,North,2024-07-09,7,0.5,72.09,Hire,Reject,False
+591,Nikhil Mehta,Male,OBC,22-27,"React, C++, Java, SQL",8,B.Sc,Deep Learning Specialization,AI Researcher,82636,4,67.44,West,2024-07-06,7,0.5,67.44,Hire,Hire,True
+592,Rahul Malhotra,Male,General,22-27,"Java, SQL",6,B.Sc,Deep Learning Specialization,Cybersecurity Analyst,118250,5,66.85,West,2024-07-19,7,0.5,66.85,Hire,Hire,True
+593,Michael Anderson,Male,OBC,28-33,"Cybersecurity, Networking",8,MBA,Deep Learning Specialization,Cybersecurity Analyst,70636,0,52.08,South,2024-07-01,7,0.5,52.08,Hire,Hire,True
+594,Jennifer Harris,Female,General,28-33,"TensorFlow, NLP, Python",10,B.Sc,Google ML,Cybersecurity Analyst,66667,10,80.14,South,2024-07-26,7,0.5,80.14,Hire,Reject,False
+595,Rishabh Thomas,Male,OBC,34-39,"TensorFlow, NLP",2,M.Tech,AWS Certified,Cybersecurity Analyst,77912,6,53.4,North,2024-07-21,7,0.5,53.4,Hire,Hire,True
+596,Aarav Kumar,Male,General,34-39,"Python, NLP",7,MBA,Deep Learning Specialization,Software Engineer,76872,10,81.34,West,2024-07-02,7,0.5,81.34,Hire,Hire,True
+597,William White,Male,ST,22-27,"TensorFlow, NLP, Python",1,MBA,AWS Certified,Data Scientist,106167,1,25.19,West,2024-07-26,7,0.5,25.19,Reject,Reject,False
+598,Megha Tiwari,Female,General,40-45,"Cybersecurity, Networking",7,MBA,Google ML,AI Researcher,57527,5,53.26,West,2024-07-21,7,0.5,53.26,Hire,Hire,True
+599,Andrew Davis,Male,SC,28-33,"TensorFlow, NLP",0,PhD,Google ML,Software Engineer,50161,6,42.84,East,2024-07-18,7,0.5,42.84,Reject,Reject,False
+600,Kunal Joshi,Male,SC,46+,"NLP, Pytorch, TensorFlow",5,PhD,AWS Certified,Cybersecurity Analyst,56353,9,75.79,West,2024-07-15,7,0.5,75.79,Hire,Hire,True
+601,Kritika Wilson,Female,General,28-33,"Java, Spring, Microservices",0,MBA,Deep Learning Specialization,Software Engineer,79738,4,35.0,South,2024-07-26,7,0.5,35.0,Reject,Reject,False
+602,Ashwin Miller,Male,OBC,22-27,"Linux, Cybersecurity",5,B.Sc,AWS Certified,AI Researcher,76352,9,64.98,West,2024-07-19,7,0.5,64.98,Hire,Hire,True
+603,Meera Jackson,Female,General,22-27,"Linux, Cybersecurity, Ethical Hacking",3,M.Tech,Google ML,Data Scientist,74029,10,62.89,North,2024-07-19,7,0.5,62.89,Hire,Hire,True
+604,Robert Agarwal,Male,ST,22-27,"TensorFlow, NLP",3,PhD,Deep Learning Specialization,Data Scientist,95982,10,62.88,East,2024-07-21,7,0.5,62.88,Hire,Hire,True
+605,Yash Brown,Male,ST,22-27,"Linux, Ethical Hacking",6,MBA,Google ML,Cybersecurity Analyst,76429,7,55.28,East,2024-07-14,7,0.5,55.28,Hire,Hire,True
+606,Shweta Sharma,Female,SC,46+,"Python, Machine Learning",6,B.Sc,Deep Learning Specialization,Software Engineer,72765,9,59.55,North,2024-07-07,7,0.5,59.55,Hire,Hire,True
+607,Harsh Malhotra,Male,OBC,22-27,"C++, React",1,M.Tech,Deep Learning Specialization,Software Engineer,72821,7,42.25,East,2024-07-08,7,0.5,42.25,Reject,Reject,False
+608,James Mishra,Male,OBC,34-39,"SQL, Python",5,PhD,,Software Engineer,98517,8,60.14,East,2024-07-19,7,0.5,60.14,Hire,Hire,True
+609,Rohan Kumar,Male,General,28-33,"TensorFlow, NLP, Python",0,MBA,,AI Researcher,96602,1,11.11,East,2024-07-03,7,0.5,11.11,Reject,Reject,False
+610,Rahul Jackson,Male,OBC,34-39,"Linux, Cybersecurity, Ethical Hacking",0,MBA,AWS Certified,Data Scientist,41390,1,18.82,North,2024-07-15,7,0.5,18.82,Reject,Reject,False
+611,Jessica Brown,Female,General,22-27,"Python, Machine Learning",9,M.Tech,AWS Certified,Cybersecurity Analyst,118010,10,81.0,South,2024-07-23,7,0.5,81.0,Hire,Hire,True
+612,Christopher Das,Male,General,22-27,"C++, React",9,B.Sc,AWS Certified,Cybersecurity Analyst,45776,5,77.07,East,2024-07-02,7,0.5,77.07,Hire,Hire,True
+613,Aditya Harris,Male,General,28-33,"Networking, Ethical Hacking",6,B.Tech,Google ML,Data Scientist,119079,5,58.02,South,2024-07-11,7,0.5,58.02,Hire,Hire,True
+614,Jyoti Sharma,Female,ST,28-33,"SQL, Python",8,B.Tech,Google ML,Cybersecurity Analyst,65612,0,56.35,West,2024-07-07,7,0.5,56.35,Hire,Reject,False
+615,Amit Desai,Male,OBC,22-27,"Linux, Cybersecurity, Ethical Hacking",3,M.Tech,Google ML,Data Scientist,79273,7,62.71,West,2024-07-14,7,0.5,62.71,Hire,Hire,True
+616,Meera Mehta,Female,SC,28-33,"SQL, Python",7,PhD,,Software Engineer,67936,7,64.54,East,2024-07-08,7,0.5,64.54,Hire,Hire,True
+617,Megha Pillai,Female,OBC,22-27,"NLP, Pytorch, TensorFlow",3,MBA,,AI Researcher,97725,0,26.79,South,2024-07-07,7,0.5,26.79,Reject,Reject,False
+618,Kavya Verma,Female,General,22-27,"Deep Learning, Computer Vision",3,B.Sc,Deep Learning Specialization,AI Researcher,63078,4,37.07,West,2024-07-27,7,0.5,37.07,Reject,Reject,False
+619,Riya Verma,Female,General,34-39,"Cybersecurity, Networking",10,B.Sc,Google ML,Software Engineer,62460,1,78.92,North,2024-07-17,7,0.5,78.92,Hire,Reject,False
+620,Pooja Joshi,Female,General,28-33,"Linux, Cybersecurity",2,PhD,Deep Learning Specialization,Data Scientist,72053,3,51.05,East,2024-07-02,7,0.5,51.05,Hire,Hire,True
+621,William Saxena,Male,ST,22-27,"TensorFlow, NLP, Python",2,MBA,Deep Learning Specialization,Software Engineer,50670,4,39.97,West,2024-07-26,7,0.5,39.97,Reject,Reject,False
+622,Karen Patel,Female,General,34-39,"Cybersecurity, Ethical Hacking, Networking, Linux",2,B.Tech,Google ML,Cybersecurity Analyst,108875,10,49.35,South,2024-07-23,7,0.5,49.35,Hire,Hire,True
+623,Ashley Davis,Female,General,40-45,"AWS, Docker, Kubernetes",4,B.Tech,Google ML,AI Researcher,91891,9,55.31,North,2024-07-07,7,0.5,55.31,Hire,Hire,True
+624,Sarah Pillai,Female,General,28-33,"TensorFlow, NLP",9,B.Sc,,AI Researcher,70169,4,60.77,East,2024-07-19,7,0.5,60.77,Hire,Hire,True
+625,Siddarth Anderson,Male,General,22-27,"C++, React",9,MBA,AWS Certified,Cybersecurity Analyst,97892,6,80.37,South,2024-07-08,7,0.5,80.37,Hire,Hire,True
+626,Pooja Kapoor,Female,General,22-27,"AWS, Docker, Kubernetes",1,MBA,AWS Certified,AI Researcher,87216,8,50.15,North,2024-07-02,7,0.5,50.15,Hire,Hire,True
+627,Harsh Das,Male,General,40-45,"Java, SQL",10,MBA,AWS Certified,AI Researcher,111188,10,77.05,East,2024-07-09,7,0.5,77.05,Hire,Hire,True
+628,Aditya Saxena,Male,OBC,46+,"Pytorch, Python",5,M.Tech,AWS Certified,Data Scientist,59566,6,72.32,North,2024-07-28,7,0.5,72.32,Hire,Hire,True
+629,Nidhi Bose,Female,SC,22-27,"SQL, Machine Learning",3,B.Tech,AWS Certified,Data Scientist,64621,8,67.88,South,2024-07-14,7,0.5,67.88,Hire,Reject,False
+630,Aditi Wilson,Female,SC,28-33,"Pytorch, Python",7,PhD,Deep Learning Specialization,Software Engineer,86486,2,60.86,North,2024-07-11,7,0.5,60.86,Hire,Reject,False
+631,Ankit Brown,Male,SC,40-45,"Networking, Ethical Hacking",10,M.Tech,Google ML,Cybersecurity Analyst,60144,8,93.47,North,2024-08-11,8,0.62,93.47,Hire,Hire,True
+632,Sakshi Chatterjee,Female,OBC,22-27,"Ethical Hacking, Linux, Networking",6,B.Sc,AWS Certified,Cybersecurity Analyst,62468,7,67.81,West,2024-08-04,8,0.62,67.81,Hire,Reject,False
+633,Vikram Martin,Male,OBC,28-33,"Networking, Ethical Hacking",7,B.Sc,Deep Learning Specialization,AI Researcher,88319,6,67.85,North,2024-08-17,8,0.62,67.85,Hire,Hire,True
+634,Manish Shah,Male,General,40-45,"TensorFlow, NLP",6,MBA,,Cybersecurity Analyst,67063,2,45.11,East,2024-08-05,8,0.62,45.11,Hire,Hire,True
+635,Aditya Brown,Male,OBC,22-27,"Pytorch, Python",10,B.Tech,Google ML,AI Researcher,58702,4,69.12,East,2024-08-15,8,0.62,69.12,Hire,Hire,True
+636,Shubham Martin,Male,General,28-33,"SQL, Machine Learning",3,B.Tech,,Cybersecurity Analyst,99809,7,51.73,North,2024-08-12,8,0.62,51.73,Hire,Hire,True
+637,Nisha Thompson,Female,OBC,34-39,"Deep Learning, Computer Vision",2,B.Tech,Deep Learning Specialization,Cybersecurity Analyst,52521,9,44.76,South,2024-08-13,8,0.62,44.76,Hire,Reject,False
+638,Vivek Iyer,Male,General,28-33,"React, C++, Java, SQL",4,PhD,AWS Certified,Data Scientist,112459,10,81.7,East,2024-08-04,8,0.62,81.7,Hire,Hire,True
+639,Pooja Mehta,Female,OBC,22-27,"Pytorch, TensorFlow",8,M.Tech,AWS Certified,AI Researcher,100542,7,97.05,South,2024-08-13,8,0.62,97.05,Hire,Hire,True
+640,Nisha Das,Female,OBC,22-27,"Cybersecurity, Networking",6,B.Sc,Deep Learning Specialization,Data Scientist,71757,2,53.54,South,2024-08-23,8,0.62,53.54,Hire,Hire,True
+641,Ananya Davis,Female,OBC,28-33,"Linux, Cybersecurity, Ethical Hacking",4,PhD,Deep Learning Specialization,AI Researcher,50169,0,49.07,North,2024-08-22,8,0.62,49.07,Hire,Reject,False
+642,Mohit Nair,Male,General,28-33,"Java, Spring, Microservices",7,MBA,Deep Learning Specialization,Data Scientist,108534,0,61.16,South,2024-08-21,8,0.62,61.16,Hire,Hire,True
+643,Abhinav Malhotra,Male,General,22-27,"Linux, Cybersecurity",7,B.Sc,Deep Learning Specialization,Software Engineer,95270,6,60.21,South,2024-08-01,8,0.62,60.21,Hire,Hire,True
+644,Harsh Das,Male,OBC,22-27,"Java, Spring, Microservices",10,M.Tech,Deep Learning Specialization,AI Researcher,82879,1,58.81,North,2024-08-11,8,0.62,58.81,Hire,Hire,True
+645,Joshua Chatterjee,Male,General,34-39,"Linux, Cybersecurity",8,MBA,AWS Certified,AI Researcher,41570,3,57.67,South,2024-08-13,8,0.62,57.67,Hire,Hire,True
+646,Siddarth Bose,Male,OBC,34-39,"NLP, Pytorch, TensorFlow",1,M.Tech,Deep Learning Specialization,AI Researcher,105480,9,56.11,West,2024-08-04,8,0.62,56.11,Hire,Hire,True
+647,Gaurav Mehta,Male,General,22-27,"Java, Spring, Microservices",9,MBA,Google ML,Software Engineer,81676,6,77.45,East,2024-08-28,8,0.62,77.45,Hire,Hire,True
+648,Pooja Desai,Female,OBC,46+,"Cybersecurity, Ethical Hacking, Networking, Linux",0,B.Tech,Google ML,Data Scientist,70488,6,35.65,North,2024-08-01,8,0.62,35.65,Reject,Reject,False
+649,Aditya Mishra,Male,General,22-27,"TensorFlow, NLP, Python",6,M.Tech,Google ML,Cybersecurity Analyst,44968,0,58.35,North,2024-08-08,8,0.62,58.35,Hire,Hire,True
+650,Megha Rao,Female,SC,34-39,"Cybersecurity, Ethical Hacking, Networking, Linux",4,MBA,Google ML,Software Engineer,70016,0,42.14,South,2024-08-28,8,0.62,42.14,Reject,Reject,False
+651,Megha Mishra,Female,General,40-45,"SQL, Python",3,B.Tech,,Software Engineer,108350,10,45.16,East,2024-08-11,8,0.62,45.16,Reject,Reject,False
+652,Kunal Sharma,Male,General,22-27,"SQL, Java",1,PhD,Deep Learning Specialization,Data Scientist,117677,3,40.6,North,2024-08-18,8,0.62,40.6,Reject,Reject,False
+653,Vivek Anderson,Male,OBC,22-27,"Deep Learning, Computer Vision",1,B.Tech,AWS Certified,AI Researcher,115552,2,34.79,South,2024-08-15,8,0.62,34.79,Reject,Reject,False
+654,Mohit Davis,Male,OBC,28-33,"Pytorch, TensorFlow",1,PhD,AWS Certified,Cybersecurity Analyst,60431,6,48.73,South,2024-08-27,8,0.62,48.73,Hire,Hire,True
+655,Anjali Pillai,Female,General,28-33,"Linux, Cybersecurity, Ethical Hacking",6,PhD,Google ML,Data Scientist,80088,4,73.69,South,2024-08-15,8,0.62,73.69,Hire,Hire,True
+656,Sakshi Jackson,Female,General,28-33,"Linux, Cybersecurity",9,B.Tech,AWS Certified,AI Researcher,89054,7,78.8,North,2024-08-16,8,0.62,78.8,Hire,Hire,True
+657,Ankita Menon,Female,Minority,28-33,"React, C++, Java, SQL",5,MBA,AWS Certified,Cybersecurity Analyst,114135,9,79.12,North,2024-08-06,8,0.62,79.12,Hire,Hire,True
+658,Varun Tiwari,Male,OBC,22-27,"R, Statistics, Python",5,B.Tech,AWS Certified,AI Researcher,102616,5,56.08,South,2024-08-02,8,0.62,56.08,Hire,Hire,True
+659,Anjali Nair,Female,OBC,22-27,"Java, SQL",4,B.Tech,,AI Researcher,55300,2,26.48,East,2024-08-25,8,0.62,26.48,Reject,Reject,False
+660,Abhinav Menon,Male,SC,28-33,"C++, React",9,PhD,Deep Learning Specialization,AI Researcher,109887,3,73.12,South,2024-08-22,8,0.62,73.12,Hire,Hire,True
+661,Stephanie Malhotra,Female,General,22-27,"Ethical Hacking, Linux, Networking",6,M.Tech,,Data Scientist,67462,1,45.95,East,2024-08-24,8,0.62,45.95,Reject,Reject,False
+662,Pallavi Sharma,Female,General,28-33,"R, Statistics, Python",2,PhD,Deep Learning Specialization,Cybersecurity Analyst,63121,1,40.94,South,2024-08-12,8,0.62,40.94,Reject,Reject,False
+663,Karan Das,Male,General,22-27,"Pytorch, Python",7,B.Sc,,Software Engineer,65150,7,59.52,North,2024-08-09,8,0.62,59.52,Hire,Hire,True
+664,Emily Thompson,Female,General,28-33,"React, C++, Java, SQL",1,PhD,Deep Learning Specialization,Cybersecurity Analyst,102638,4,36.99,North,2024-08-16,8,0.62,36.99,Reject,Reject,False
+665,Aarav Kumar,Male,General,28-33,"SQL, Java",4,M.Tech,Deep Learning Specialization,AI Researcher,74843,9,56.82,South,2024-08-16,8,0.62,56.82,Hire,Hire,True
+666,Megha Martin,Female,OBC,28-33,"Cybersecurity, Networking",6,MBA,Google ML,Software Engineer,47502,5,73.75,West,2024-08-12,8,0.62,73.75,Hire,Hire,True
+667,Riya Sharma,Female,General,34-39,"Python, Machine Learning",7,PhD,AWS Certified,Data Scientist,72576,2,63.79,West,2024-08-12,8,0.62,63.79,Hire,Reject,False
+668,Karen Davis,Female,General,34-39,"Cybersecurity, Networking",8,B.Tech,Deep Learning Specialization,AI Researcher,82667,10,84.19,South,2024-08-22,8,0.62,84.19,Hire,Hire,True
+669,Nidhi Martin,Female,Minority,46+,"NLP, Pytorch, TensorFlow",7,MBA,Google ML,Cybersecurity Analyst,53166,1,51.09,West,2024-08-24,8,0.62,51.09,Hire,Hire,True
+670,Ishita Martin,Female,SC,22-27,"R, Statistics, Python",3,M.Tech,,Cybersecurity Analyst,111925,9,48.89,North,2024-08-28,8,0.62,48.89,Hire,Reject,False
+671,Meera Wilson,Female,SC,22-27,"Linux, Cybersecurity",1,B.Tech,AWS Certified,AI Researcher,43830,3,34.28,West,2024-08-06,8,0.62,34.28,Reject,Reject,False
+672,Sakshi Agarwal,Female,OBC,28-33,"Ethical Hacking, Linux, Networking",3,M.Tech,Google ML,Data Scientist,83620,10,66.0,West,2024-08-28,8,0.62,66.0,Hire,Reject,False
+673,Matthew Martin,Male,ST,34-39,"AWS, Docker, Kubernetes",1,M.Tech,AWS Certified,Data Scientist,69301,6,52.1,South,2024-08-09,8,0.62,52.1,Hire,Hire,True
+674,Deepak Gupta,Male,General,22-27,"Deep Learning, Computer Vision",1,B.Sc,Google ML,Software Engineer,89832,3,9.57,East,2024-08-19,8,0.62,9.57,Reject,Reject,False
+675,Aditya Kumar,Male,Minority,22-27,"Cybersecurity, Networking",9,B.Tech,,Data Scientist,118855,6,56.56,East,2024-08-19,8,0.62,56.56,Hire,Hire,True
+676,Sanjay Menon,Male,OBC,28-33,"Networking, Ethical Hacking",0,B.Tech,AWS Certified,Software Engineer,59119,2,16.64,South,2024-08-24,8,0.62,16.64,Reject,Reject,False
+677,Andrew Shah,Male,General,22-27,"R, Statistics, Python",4,B.Tech,Google ML,Data Scientist,89375,4,52.33,East,2024-08-02,8,0.62,52.33,Hire,Hire,True
+678,Divya Chatterjee,Female,SC,40-45,"Linux, Ethical Hacking",3,M.Tech,Deep Learning Specialization,Data Scientist,60865,2,39.89,North,2024-08-01,8,0.62,39.89,Hire,Hire,True
+679,Megha Brown,Female,General,40-45,"Python, NLP",10,B.Tech,AWS Certified,AI Researcher,111828,6,76.63,East,2024-08-13,8,0.62,76.63,Hire,Reject,False
+680,Karan Shah,Male,OBC,28-33,"SQL, Machine Learning",9,PhD,Deep Learning Specialization,Data Scientist,58982,4,68.67,East,2024-08-07,8,0.62,68.67,Hire,Hire,True
+681,Rakesh Sharma,Male,OBC,22-27,"TensorFlow, NLP, Python",5,M.Tech,Google ML,Cybersecurity Analyst,47383,10,71.38,West,2024-08-04,8,0.62,71.38,Hire,Hire,True
+682,Amanda Reddy,Female,SC,22-27,"Pytorch, Python",0,B.Sc,AWS Certified,Cybersecurity Analyst,55571,5,32.46,North,2024-08-08,8,0.62,32.46,Reject,Reject,False
+683,Ashley Malhotra,Female,General,28-33,"R, Statistics, Python",9,PhD,Google ML,Software Engineer,90082,6,93.07,East,2024-08-09,8,0.62,93.07,Hire,Hire,True
+684,Jyoti Sharma,Female,OBC,46+,"Java, Spring, Microservices",1,B.Sc,Deep Learning Specialization,Software Engineer,102848,10,49.28,North,2024-08-09,8,0.62,49.28,Hire,Hire,True
+685,Christopher Reddy,Male,General,40-45,"Networking, Ethical Hacking",6,B.Tech,Google ML,Data Scientist,110452,6,58.45,North,2024-08-06,8,0.62,58.45,Hire,Hire,True
+686,Anjali Menon,Female,OBC,34-39,"Linux, Ethical Hacking",8,PhD,Google ML,AI Researcher,56264,8,82.62,West,2024-08-25,8,0.62,82.62,Hire,Reject,False
+687,Nikhil Reddy,Male,General,22-27,"Cybersecurity, Networking",9,M.Tech,Deep Learning Specialization,AI Researcher,113727,7,73.02,North,2024-08-09,8,0.62,73.02,Hire,Hire,True
+688,Rohan Joshi,Male,General,22-27,"C++, React",8,MBA,,Software Engineer,108084,2,66.77,East,2024-08-26,8,0.62,66.77,Hire,Hire,True
+689,Rachel Wilson,Female,SC,34-39,"NLP, Pytorch, TensorFlow",2,B.Tech,Google ML,Data Scientist,45863,8,43.65,South,2024-08-08,8,0.62,43.65,Reject,Reject,False
+690,Rakesh Nair,Male,General,34-39,"Linux, Cybersecurity, Ethical Hacking",4,PhD,Deep Learning Specialization,Data Scientist,95314,2,48.16,East,2024-08-03,8,0.62,48.16,Reject,Reject,False
+691,Deepika Pillai,Female,General,22-27,"Java, SQL",10,PhD,AWS Certified,Data Scientist,75310,1,81.92,West,2024-08-21,8,0.62,81.92,Hire,Reject,False
+692,Rishabh White,Male,SC,28-33,"C++, React",10,M.Tech,AWS Certified,Software Engineer,119116,2,92.26,South,2024-08-08,8,0.62,92.26,Hire,Hire,True
+693,Mohit Joshi,Male,General,22-27,"Cybersecurity, Networking",8,B.Sc,AWS Certified,Data Scientist,69591,1,63.44,South,2024-08-09,8,0.62,63.44,Hire,Hire,True
+694,Sanjay Pillai,Male,OBC,34-39,"Pytorch, TensorFlow",3,MBA,Deep Learning Specialization,Data Scientist,52522,1,50.41,West,2024-08-17,8,0.62,50.41,Hire,Hire,True
+695,Michelle Saxena,Female,General,34-39,"Pytorch, TensorFlow",8,MBA,Deep Learning Specialization,Cybersecurity Analyst,109688,0,60.26,East,2024-08-18,8,0.62,60.26,Hire,Hire,True
+696,Amanda Harris,Female,SC,22-27,"Java, Spring, Microservices",2,MBA,Google ML,AI Researcher,88516,2,39.68,South,2024-08-23,8,0.62,39.68,Reject,Reject,False
+697,Andrew Rajan,Male,OBC,34-39,"Cybersecurity, Ethical Hacking, Networking, Linux",7,B.Sc,,Cybersecurity Analyst,69984,7,75.11,West,2024-08-10,8,0.62,75.11,Hire,Hire,True
+698,Aditya Rajan,Male,OBC,22-27,"Deep Learning, Computer Vision",5,PhD,Google ML,AI Researcher,77467,1,50.08,North,2024-08-18,8,0.62,50.08,Hire,Hire,True
+699,Priya Brown,Female,ST,34-39,"Linux, Ethical Hacking",10,B.Tech,Google ML,Cybersecurity Analyst,93145,7,71.72,West,2024-08-01,8,0.62,71.72,Hire,Reject,False
+700,Aarav Brown,Male,OBC,22-27,"Cybersecurity, Ethical Hacking, Networking, Linux",8,M.Tech,Deep Learning Specialization,Data Scientist,108618,10,96.6,North,2024-08-08,8,0.62,96.6,Hire,Hire,True
+701,Amit Chandra,Male,General,40-45,"Linux, Ethical Hacking",2,B.Tech,,Cybersecurity Analyst,72737,6,27.62,South,2024-09-27,9,0.72,27.62,Reject,Reject,False
+702,Deepak Malhotra,Male,Minority,46+,"Pytorch, Python",7,MBA,Deep Learning Specialization,Cybersecurity Analyst,107571,10,89.99,West,2024-09-27,9,0.72,89.99,Hire,Hire,True
+703,Siddarth Thompson,Male,General,34-39,"Cybersecurity, Networking",7,B.Sc,Deep Learning Specialization,Cybersecurity Analyst,92699,7,76.97,North,2024-09-12,9,0.72,76.97,Hire,Hire,True
+704,Sanjay Brown,Male,General,34-39,"C++, React",7,B.Sc,AWS Certified,AI Researcher,69634,2,44.13,South,2024-09-16,9,0.72,44.13,Reject,Reject,False
+705,Jyoti Malhotra,Female,OBC,22-27,"Ethical Hacking, Linux, Networking",5,B.Tech,Deep Learning Specialization,Software Engineer,96880,4,51.92,East,2024-09-01,9,0.72,51.92,Hire,Reject,False
+706,Kritika Joshi,Female,OBC,40-45,"Deep Learning, Computer Vision",3,MBA,Deep Learning Specialization,Cybersecurity Analyst,74838,6,63.13,North,2024-09-04,9,0.72,63.13,Hire,Reject,False
+707,Ashley Jackson,Female,ST,28-33,"Python, NLP",7,M.Tech,Google ML,Cybersecurity Analyst,54382,5,71.65,West,2024-09-04,9,0.72,71.65,Hire,Reject,False
+708,Karan Nair,Male,Minority,34-39,"SQL, Java",5,B.Tech,Google ML,Data Scientist,96928,3,44.85,South,2024-09-16,9,0.72,44.85,Reject,Reject,False
+709,Ishita Miller,Female,SC,40-45,"Deep Learning, Computer Vision",1,M.Tech,Deep Learning Specialization,Cybersecurity Analyst,72421,2,35.96,North,2024-09-22,9,0.72,35.96,Reject,Reject,False
+710,Kritika Davis,Female,OBC,22-27,"Linux, Cybersecurity",1,M.Tech,AWS Certified,Software Engineer,57340,2,46.73,East,2024-09-13,9,0.72,46.73,Hire,Hire,True
+711,Mohit Das,Male,SC,46+,"SQL, Java",2,B.Tech,Google ML,Cybersecurity Analyst,69068,1,35.81,South,2024-09-11,9,0.72,35.81,Reject,Reject,False
+712,Amanda Kumar,Female,SC,22-27,"Java, SQL",8,B.Tech,Deep Learning Specialization,Cybersecurity Analyst,46233,1,57.58,West,2024-09-06,9,0.72,57.58,Hire,Reject,False
+713,Aarav Kumar,Male,General,40-45,"Java, SQL",10,M.Tech,Deep Learning Specialization,Software Engineer,87655,7,80.14,North,2024-09-11,9,0.72,80.14,Hire,Hire,True
+714,Shreya Mehta,Female,SC,28-33,"Cybersecurity, Networking",10,B.Sc,Google ML,Cybersecurity Analyst,119261,2,84.45,West,2024-09-12,9,0.72,84.45,Hire,Reject,False
+715,Mohit Chatterjee,Male,OBC,40-45,"AWS, Docker, Kubernetes",9,MBA,,Data Scientist,64960,2,57.73,North,2024-09-07,9,0.72,57.73,Hire,Hire,True
+716,Riya Patel,Female,General,28-33,"Linux, Cybersecurity",8,M.Tech,AWS Certified,Data Scientist,73099,7,80.96,North,2024-09-25,9,0.72,80.96,Hire,Reject,False
+717,Jyoti Wilson,Female,OBC,22-27,"Linux, Ethical Hacking",10,M.Tech,,Cybersecurity Analyst,118532,1,70.38,West,2024-09-09,9,0.72,70.38,Hire,Reject,False
+718,Deepak Singh,Male,OBC,28-33,"Deep Learning, Computer Vision",9,B.Sc,,Software Engineer,49828,3,56.66,South,2024-09-06,9,0.72,56.66,Hire,Hire,True
+719,Melissa Pillai,Female,General,34-39,"Linux, Cybersecurity",8,M.Tech,AWS Certified,AI Researcher,107213,4,69.01,North,2024-09-15,9,0.72,69.01,Hire,Hire,True
+720,Pallavi Bose,Female,General,22-27,"SQL, Python",4,M.Tech,Google ML,AI Researcher,76406,2,50.93,North,2024-09-05,9,0.72,50.93,Hire,Hire,True
+721,Sneha Mishra,Female,General,34-39,"AWS, Docker, Kubernetes",3,B.Tech,Deep Learning Specialization,Data Scientist,111994,5,53.3,South,2024-09-09,9,0.72,53.3,Hire,Reject,False
+722,Ankit Thompson,Male,General,46+,"NLP, Pytorch, TensorFlow",4,MBA,Deep Learning Specialization,AI Researcher,110436,0,43.45,West,2024-09-22,9,0.72,43.45,Hire,Hire,True
+723,Abhinav Tiwari,Male,OBC,40-45,"SQL, Python",10,M.Tech,Google ML,Cybersecurity Analyst,91834,7,89.7,North,2024-09-05,9,0.72,89.7,Hire,Hire,True
+724,Nidhi Brown,Female,General,28-33,"Pytorch, TensorFlow",5,B.Sc,AWS Certified,Cybersecurity Analyst,63646,7,54.77,West,2024-09-21,9,0.72,54.77,Hire,Reject,False
+725,Anjali Malhotra,Female,OBC,28-33,"Linux, Cybersecurity, Ethical Hacking",2,PhD,,AI Researcher,92757,10,63.91,North,2024-09-04,9,0.72,63.91,Hire,Reject,False
+726,Aarav Martin,Male,SC,22-27,"AWS, Docker, Kubernetes",1,MBA,Deep Learning Specialization,Software Engineer,118595,0,30.97,North,2024-09-01,9,0.72,30.97,Reject,Reject,False
+727,Sanjay Thomas,Male,SC,22-27,"Linux, Ethical Hacking",5,PhD,Deep Learning Specialization,Data Scientist,102771,2,59.43,West,2024-09-05,9,0.72,59.43,Hire,Hire,True
+728,Rahul Thomas,Male,ST,28-33,"Ethical Hacking, Linux, Networking",4,M.Tech,Deep Learning Specialization,Data Scientist,40158,0,48.52,North,2024-09-08,9,0.72,48.52,Hire,Hire,True
+729,Ashwin Brown,Male,ST,22-27,"Java, Spring, Microservices",6,B.Sc,Google ML,Cybersecurity Analyst,62224,3,58.53,West,2024-09-04,9,0.72,58.53,Hire,Hire,True
+730,Sanjay Saxena,Male,General,28-33,"React, C++, Java, SQL",5,B.Sc,AWS Certified,Software Engineer,118592,5,64.32,East,2024-09-06,9,0.72,64.32,Hire,Hire,True
+731,Divya Malhotra,Female,Minority,34-39,"Java, SQL",9,PhD,AWS Certified,Software Engineer,50009,1,70.89,East,2024-09-26,9,0.72,70.89,Hire,Reject,False
+732,Devraj Nair,Male,SC,22-27,"React, C++, Java, SQL",5,B.Sc,AWS Certified,AI Researcher,82343,7,57.33,South,2024-09-05,9,0.72,57.33,Hire,Hire,True
+733,Abhinav Kapoor,Male,SC,34-39,"Linux, Cybersecurity, Ethical Hacking",5,B.Tech,AWS Certified,Software Engineer,72231,6,53.86,South,2024-09-13,9,0.72,53.86,Hire,Hire,True
+734,Jennifer Miller,Female,OBC,34-39,"Python, NLP",8,B.Tech,AWS Certified,AI Researcher,68748,3,77.86,East,2024-09-23,9,0.72,77.86,Hire,Reject,False
+735,Vivek Chandra,Male,General,40-45,"TensorFlow, NLP",0,MBA,,Cybersecurity Analyst,87298,5,16.93,North,2024-09-28,9,0.72,16.93,Reject,Reject,False
+736,Deepak Johnson,Male,SC,22-27,"SQL, Python",2,PhD,Google ML,AI Researcher,58753,6,61.57,North,2024-09-13,9,0.72,61.57,Hire,Hire,True
+737,Varun Chandra,Male,General,28-33,"Linux, Ethical Hacking",0,M.Tech,Google ML,Software Engineer,50353,1,25.43,West,2024-09-08,9,0.72,25.43,Reject,Reject,False
+738,Aarav White,Male,OBC,34-39,"Deep Learning, Computer Vision",6,B.Sc,Deep Learning Specialization,Data Scientist,98192,2,45.72,West,2024-09-26,9,0.72,45.72,Reject,Reject,False
+739,Deepak Joshi,Male,ST,34-39,"Pytorch, TensorFlow",2,B.Sc,Google ML,Cybersecurity Analyst,99545,9,48.53,North,2024-09-18,9,0.72,48.53,Hire,Hire,True
+740,Michelle Anderson,Female,Minority,22-27,"Java, SQL",4,M.Tech,AWS Certified,Software Engineer,67769,2,40.9,South,2024-09-13,9,0.72,40.9,Reject,Reject,False
+741,Ashwin Menon,Male,General,28-33,"React, C++, Java, SQL",2,PhD,,Software Engineer,89868,9,57.28,South,2024-09-06,9,0.72,57.28,Hire,Hire,True
+742,Rishabh Brown,Male,General,22-27,"Linux, Cybersecurity, Ethical Hacking",3,MBA,Deep Learning Specialization,Data Scientist,53954,5,63.82,South,2024-09-03,9,0.72,63.82,Hire,Hire,True
+743,Andrew Sharma,Male,OBC,28-33,"SQL, Python",4,B.Sc,Deep Learning Specialization,Cybersecurity Analyst,103413,0,39.8,West,2024-09-02,9,0.72,39.8,Reject,Reject,False
+744,Yash Gupta,Male,General,28-33,"Python, NLP",4,B.Sc,AWS Certified,Cybersecurity Analyst,56976,4,35.65,South,2024-09-23,9,0.72,35.65,Reject,Reject,False
+745,Harsh Rajan,Male,OBC,40-45,"Python, Machine Learning",8,B.Sc,,Data Scientist,78026,2,38.79,South,2024-09-06,9,0.72,38.79,Reject,Reject,False
+746,Siddarth Gupta,Male,General,46+,"Java, Spring, Microservices",10,B.Sc,Google ML,Data Scientist,107672,3,66.09,East,2024-09-24,9,0.72,66.09,Hire,Hire,True
+747,Emily Rao,Female,General,22-27,"SQL, Java",5,MBA,Google ML,Software Engineer,119544,6,54.99,East,2024-09-03,9,0.72,54.99,Hire,Reject,False
+748,Matthew Miller,Male,ST,28-33,"TensorFlow, NLP",1,M.Tech,Deep Learning Specialization,Software Engineer,99612,4,52.84,East,2024-09-11,9,0.72,52.84,Hire,Hire,True
+749,Deepak Iyer,Male,General,28-33,"React, C++, Java, SQL",1,MBA,AWS Certified,AI Researcher,73557,1,46.49,East,2024-09-25,9,0.72,46.49,Reject,Reject,False
+750,Ananya Joshi,Female,SC,28-33,"Python, NLP",9,B.Tech,AWS Certified,Cybersecurity Analyst,107171,4,79.69,East,2024-09-28,9,0.72,79.69,Hire,Reject,False
+751,Jyoti Gupta,Female,SC,22-27,"SQL, Java",10,B.Tech,AWS Certified,Data Scientist,113505,10,97.23,East,2024-09-01,9,0.72,97.23,Hire,Reject,False
+752,Sanjay Saxena,Male,General,28-33,"SQL, Python",6,B.Sc,AWS Certified,Cybersecurity Analyst,110138,1,41.95,South,2024-09-27,9,0.72,41.95,Reject,Reject,False
+753,Riya Gupta,Female,General,46+,"C++, React",2,M.Tech,,AI Researcher,103739,6,38.64,South,2024-09-07,9,0.72,38.64,Reject,Reject,False
+754,Shreya Agarwal,Female,General,28-33,"TensorFlow, NLP, Python",7,B.Sc,Deep Learning Specialization,Data Scientist,89844,7,74.57,South,2024-09-02,9,0.72,74.57,Hire,Hire,True
+755,Sarah Davis,Female,General,22-27,"C++, React",3,B.Sc,,Cybersecurity Analyst,93093,10,49.21,East,2024-09-03,9,0.72,49.21,Reject,Reject,False
+756,Emily Rajan,Female,General,34-39,"SQL, Java",8,MBA,,AI Researcher,61565,2,45.87,West,2024-09-07,9,0.72,45.87,Hire,Hire,True
+757,Ankita Davis,Female,ST,28-33,"NLP, Pytorch, TensorFlow",7,B.Tech,Google ML,Software Engineer,118266,6,60.77,East,2024-09-07,9,0.72,60.77,Hire,Reject,False
+758,Christopher Thompson,Male,General,40-45,"Python, Machine Learning",2,MBA,,AI Researcher,54890,5,34.84,South,2024-09-26,9,0.72,34.84,Reject,Reject,False
+759,Deepika Taylor,Female,General,22-27,"AWS, Docker, Kubernetes",0,PhD,,Cybersecurity Analyst,64596,2,37.11,West,2024-09-14,9,0.72,37.11,Reject,Reject,False
+760,Andrew Pillai,Male,General,22-27,"Pytorch, Python",3,MBA,,Software Engineer,80234,10,44.31,South,2024-09-17,9,0.72,44.31,Reject,Reject,False
+761,Michael Johnson,Male,General,22-27,"C++, React",6,B.Tech,AWS Certified,Data Scientist,96149,8,77.77,East,2024-09-12,9,0.72,77.77,Hire,Hire,True
+762,Daniel Martin,Male,SC,40-45,"R, Statistics, Python",2,B.Tech,AWS Certified,Data Scientist,53005,10,53.19,East,2024-09-03,9,0.72,53.19,Hire,Hire,True
+763,Rohan Verma,Male,OBC,22-27,"TensorFlow, NLP",9,PhD,Deep Learning Specialization,AI Researcher,77998,9,90.02,South,2024-09-28,9,0.72,90.02,Hire,Hire,True
+764,Aditi Bose,Female,OBC,40-45,"Ethical Hacking, Linux, Networking",7,B.Tech,Deep Learning Specialization,Cybersecurity Analyst,91879,7,86.08,East,2024-09-01,9,0.72,86.08,Hire,Hire,True
+765,Nidhi Anderson,Female,ST,22-27,"C++, React",4,MBA,Google ML,Data Scientist,43440,4,46.09,North,2024-09-05,9,0.72,46.09,Hire,Reject,False
+766,Laura Martin,Female,OBC,28-33,"SQL, Python",5,MBA,,Data Scientist,46760,6,52.63,South,2024-09-26,9,0.72,52.63,Hire,Reject,False
+767,Ananya Pillai,Female,General,22-27,"C++, React",2,MBA,AWS Certified,AI Researcher,115619,2,39.59,East,2024-09-26,9,0.72,39.59,Reject,Reject,False
+768,Deepika Jackson,Female,OBC,22-27,"Python, Machine Learning",2,PhD,Deep Learning Specialization,Cybersecurity Analyst,111260,1,37.77,East,2024-09-03,9,0.72,37.77,Reject,Reject,False
+769,Anjali Rao,Female,General,34-39,"SQL, Python",7,M.Tech,Google ML,Data Scientist,89559,2,64.61,North,2024-09-25,9,0.72,64.61,Hire,Hire,True
+770,Sneha Agarwal,Female,Minority,22-27,"Pytorch, Python",1,PhD,Google ML,Software Engineer,58590,10,48.14,North,2024-09-10,9,0.72,48.14,Hire,Hire,True
+771,Swati Gupta,Female,OBC,28-33,"Python, NLP",1,B.Tech,AWS Certified,AI Researcher,50002,3,32.78,East,2024-09-07,9,0.72,32.78,Reject,Reject,False
+772,Sakshi Shah,Female,OBC,28-33,"Networking, Ethical Hacking",10,PhD,,AI Researcher,44122,2,83.29,North,2024-09-04,9,0.72,83.29,Hire,Hire,True
+773,Preeti Davis,Female,OBC,28-33,"Deep Learning, Computer Vision",9,B.Tech,Deep Learning Specialization,AI Researcher,107894,8,77.68,North,2024-09-17,9,0.72,77.68,Hire,Reject,False
+774,Prateek Chandra,Male,General,22-27,"SQL, Python",1,PhD,Deep Learning Specialization,AI Researcher,66114,2,31.51,East,2024-09-03,9,0.72,31.51,Reject,Reject,False
+775,Jennifer Saxena,Female,General,34-39,"Python, NLP",7,M.Tech,AWS Certified,Software Engineer,76842,8,82.63,North,2024-09-13,9,0.72,82.63,Hire,Reject,False
+776,Christopher Harris,Male,SC,34-39,"C++, React",4,B.Sc,Deep Learning Specialization,Software Engineer,54097,7,54.7,South,2024-09-20,9,0.72,54.7,Hire,Hire,True
+777,Sarah Das,Female,OBC,28-33,"SQL, Machine Learning",9,MBA,,AI Researcher,78466,1,49.98,North,2024-09-20,9,0.72,49.98,Hire,Hire,True
+778,Nisha Verma,Female,General,22-27,"NLP, Pytorch, TensorFlow",1,B.Sc,AWS Certified,AI Researcher,81215,2,26.69,North,2024-09-04,9,0.72,26.69,Reject,Reject,False
+779,Yash Sharma,Male,OBC,28-33,"SQL, Python",5,MBA,Google ML,Data Scientist,53489,5,64.31,South,2024-09-18,9,0.72,64.31,Hire,Hire,True
+780,Lisa Patel,Female,General,28-33,"Cybersecurity, Networking",9,PhD,AWS Certified,Software Engineer,46133,6,96.44,North,2024-09-09,9,0.72,96.44,Hire,Reject,False
+781,Shreya Joshi,Female,OBC,40-45,"SQL, Python",7,B.Sc,AWS Certified,Data Scientist,40609,6,65.33,North,2024-10-15,10,0.82,65.33,Hire,Reject,False
+782,Ananya Menon,Female,General,34-39,"Cybersecurity, Networking",0,PhD,,Data Scientist,79452,0,0.61,North,2024-10-09,10,0.82,0.61,Reject,Reject,False
+783,Preeti Menon,Female,OBC,34-39,"SQL, Java",1,B.Tech,AWS Certified,Cybersecurity Analyst,55913,9,53.89,East,2024-10-27,10,0.82,53.89,Hire,Reject,False
+784,Karen Mehta,Female,SC,22-27,"Ethical Hacking, Linux, Networking",0,MBA,,Software Engineer,51536,2,19.54,West,2024-10-07,10,0.82,19.54,Reject,Reject,False
+785,Rachel Sharma,Female,General,28-33,"SQL, Java",0,MBA,Google ML,Software Engineer,89749,1,12.0,North,2024-10-09,10,0.82,12.0,Reject,Reject,False
+786,Karan Harris,Male,OBC,28-33,"Pytorch, Python",7,B.Sc,AWS Certified,Software Engineer,56039,2,61.85,West,2024-10-17,10,0.82,61.85,Hire,Hire,True
+787,Matthew Davis,Male,SC,28-33,"SQL, Python",10,B.Tech,AWS Certified,AI Researcher,71768,7,85.85,East,2024-10-22,10,0.82,85.85,Hire,Hire,True
+788,Amit Patel,Male,General,22-27,"SQL, Machine Learning",7,B.Sc,Deep Learning Specialization,Software Engineer,117401,3,62.73,North,2024-10-25,10,0.82,62.73,Hire,Hire,True
+789,Pallavi Johnson,Female,OBC,28-33,"SQL, Python",10,B.Sc,AWS Certified,Software Engineer,66610,2,56.08,South,2024-10-25,10,0.82,56.08,Hire,Reject,False
+790,Kritika Patel,Female,General,22-27,"AWS, Docker, Kubernetes",4,B.Tech,Google ML,AI Researcher,42174,9,54.62,South,2024-10-15,10,0.82,54.62,Hire,Reject,False
+791,Mohit Verma,Male,OBC,22-27,"Ethical Hacking, Linux, Networking",7,M.Tech,AWS Certified,Software Engineer,105823,4,68.1,North,2024-10-14,10,0.82,68.1,Hire,Hire,True
+792,Sneha Wilson,Female,General,22-27,"Deep Learning, Computer Vision",4,MBA,Deep Learning Specialization,Software Engineer,76166,6,48.87,North,2024-10-17,10,0.82,48.87,Hire,Reject,False
+793,Laura Brown,Female,OBC,22-27,"SQL, Python",1,M.Tech,Google ML,AI Researcher,109747,1,34.43,West,2024-10-04,10,0.82,34.43,Reject,Reject,False
+794,Nidhi Thompson,Female,General,22-27,"Linux, Ethical Hacking",6,MBA,Deep Learning Specialization,AI Researcher,118159,4,62.41,East,2024-10-10,10,0.82,62.41,Hire,Hire,True
+795,Sanjay Reddy,Male,General,22-27,"R, Statistics, Python",8,PhD,Google ML,AI Researcher,99666,4,67.38,South,2024-10-05,10,0.82,67.38,Hire,Hire,True
+796,James Brown,Male,OBC,46+,"Pytorch, TensorFlow",5,B.Sc,,Data Scientist,116435,1,26.42,West,2024-10-01,10,0.82,26.42,Reject,Reject,False
+797,Simran Davis,Female,General,22-27,"Networking, Ethical Hacking",1,B.Sc,Deep Learning Specialization,Software Engineer,52308,10,52.99,South,2024-10-04,10,0.82,52.99,Hire,Reject,False
+798,Megha Wilson,Female,General,28-33,"Java, Spring, Microservices",7,M.Tech,,Cybersecurity Analyst,83743,4,38.6,South,2024-10-17,10,0.82,38.6,Reject,Reject,False
+799,Shreya Agarwal,Female,General,28-33,"C++, React",10,B.Tech,Google ML,Software Engineer,72029,2,74.95,East,2024-10-19,10,0.82,74.95,Hire,Reject,False
+800,Jyoti Chatterjee,Female,OBC,40-45,"Ethical Hacking, Linux, Networking",1,B.Sc,,Software Engineer,98886,10,39.67,West,2024-10-17,10,0.82,39.67,Reject,Reject,False
+801,Gaurav Kapoor,Male,SC,34-39,"Networking, Ethical Hacking",5,MBA,AWS Certified,AI Researcher,56116,4,54.04,East,2024-10-14,10,0.82,54.04,Hire,Hire,True
+802,Michelle Kapoor,Female,Minority,28-33,"TensorFlow, NLP, Python",4,B.Sc,Deep Learning Specialization,Cybersecurity Analyst,61313,10,57.83,North,2024-10-10,10,0.82,57.83,Hire,Reject,False
+803,Ishita Patel,Female,General,28-33,"Pytorch, Python",4,B.Sc,Deep Learning Specialization,AI Researcher,40084,4,44.14,South,2024-10-02,10,0.82,44.14,Hire,Reject,False
+804,Ananya Kapoor,Female,General,34-39,"TensorFlow, NLP, Python",4,M.Tech,AWS Certified,Software Engineer,96629,8,63.98,East,2024-10-19,10,0.82,63.98,Hire,Reject,False
+805,Deepak Bose,Male,ST,40-45,"AWS, Docker, Kubernetes",0,B.Tech,AWS Certified,Cybersecurity Analyst,79586,10,48.58,South,2024-10-20,10,0.82,48.58,Hire,Hire,True
+806,Swati White,Female,General,28-33,"TensorFlow, NLP, Python",6,M.Tech,AWS Certified,Data Scientist,79460,9,72.17,North,2024-10-10,10,0.82,72.17,Hire,Reject,False
+807,Aditya White,Male,General,40-45,"Ethical Hacking, Linux, Networking",10,B.Tech,Deep Learning Specialization,AI Researcher,86865,6,89.06,South,2024-10-15,10,0.82,89.06,Hire,Hire,True
+808,Sarah Johnson,Female,SC,28-33,"Python, Machine Learning",6,PhD,AWS Certified,Software Engineer,79634,8,74.56,South,2024-10-26,10,0.82,74.56,Hire,Hire,True
+809,Christopher Anderson,Male,General,34-39,"Networking, Ethical Hacking",5,B.Sc,AWS Certified,AI Researcher,100661,9,66.39,West,2024-10-26,10,0.82,66.39,Hire,Hire,True
+810,Sneha Gupta,Female,OBC,34-39,"Cybersecurity, Networking",0,MBA,,Data Scientist,47977,1,13.09,West,2024-10-04,10,0.82,13.09,Reject,Reject,False
+811,Prateek Taylor,Male,General,28-33,"SQL, Python",2,B.Tech,,Software Engineer,40845,2,26.91,East,2024-10-26,10,0.82,26.91,Reject,Reject,False
+812,Karen Das,Female,OBC,34-39,"Cybersecurity, Ethical Hacking, Networking, Linux",1,B.Sc,Deep Learning Specialization,AI Researcher,98171,1,34.35,North,2024-10-13,10,0.82,34.35,Reject,Reject,False
+813,Nikhil Malhotra,Male,OBC,34-39,"TensorFlow, NLP",6,B.Tech,Deep Learning Specialization,Cybersecurity Analyst,56147,3,71.49,East,2024-10-14,10,0.82,71.49,Hire,Hire,True
+814,Arjun Reddy,Male,OBC,22-27,"Cybersecurity, Ethical Hacking, Networking, Linux",2,PhD,Google ML,Data Scientist,53109,2,38.42,South,2024-10-19,10,0.82,38.42,Reject,Reject,False
+815,Jyoti Agarwal,Female,General,22-27,"C++, React",6,MBA,,Software Engineer,91043,7,59.04,North,2024-10-01,10,0.82,59.04,Hire,Reject,False
+816,Kavya Thompson,Female,General,22-27,"SQL, Machine Learning",7,B.Sc,,Software Engineer,105619,2,50.38,South,2024-10-28,10,0.82,50.38,Hire,Hire,True
+817,Tushar Taylor,Male,OBC,40-45,"NLP, Pytorch, TensorFlow",6,B.Tech,Deep Learning Specialization,Data Scientist,58355,2,48.85,South,2024-10-09,10,0.82,48.85,Hire,Hire,True
+818,Nisha Patel,Female,OBC,34-39,"Java, Spring, Microservices",10,B.Tech,,AI Researcher,73977,9,76.82,East,2024-10-05,10,0.82,76.82,Hire,Reject,False
+819,Stephanie Harris,Female,General,34-39,"SQL, Java",5,B.Tech,,AI Researcher,105461,1,29.36,East,2024-10-22,10,0.82,29.36,Reject,Reject,False
+820,Shweta Bose,Female,General,22-27,"C++, React",3,B.Sc,,Software Engineer,49552,6,55.0,North,2024-10-15,10,0.82,55.0,Hire,Reject,False
+821,Lisa Verma,Female,General,22-27,"TensorFlow, NLP, Python",2,MBA,Google ML,Software Engineer,97345,6,46.19,East,2024-10-22,10,0.82,46.19,Reject,Reject,False
+822,Nidhi Das,Female,OBC,22-27,"React, C++, Java, SQL",2,B.Tech,AWS Certified,Data Scientist,58423,3,36.86,East,2024-10-01,10,0.82,36.86,Reject,Reject,False
+823,Ankita White,Female,OBC,22-27,"Deep Learning, Computer Vision",8,PhD,AWS Certified,Software Engineer,67194,10,81.5,East,2024-10-19,10,0.82,81.5,Hire,Reject,False
+824,Melissa Kapoor,Female,ST,28-33,"React, C++, Java, SQL",5,M.Tech,Google ML,Cybersecurity Analyst,56671,2,50.0,East,2024-10-26,10,0.82,50.0,Hire,Reject,False
+825,Riya Joshi,Female,Minority,22-27,"Python, Machine Learning",7,MBA,Google ML,AI Researcher,86911,5,75.5,West,2024-10-03,10,0.82,75.5,Hire,Reject,False
+826,Deepak Patel,Male,OBC,40-45,"Cybersecurity, Ethical Hacking, Networking, Linux",8,B.Tech,,Cybersecurity Analyst,116385,9,75.14,East,2024-10-16,10,0.82,75.14,Hire,Hire,True
+827,Anjali Singh,Female,General,34-39,"TensorFlow, NLP, Python",5,B.Tech,Deep Learning Specialization,AI Researcher,48169,0,46.06,West,2024-10-08,10,0.82,46.06,Hire,Reject,False
+828,Pooja White,Female,OBC,28-33,"NLP, Pytorch, TensorFlow",9,M.Tech,Google ML,Software Engineer,50563,0,67.21,West,2024-10-18,10,0.82,67.21,Hire,Reject,False
+829,Ananya Agarwal,Female,SC,40-45,"AWS, Docker, Kubernetes",0,B.Sc,AWS Certified,Cybersecurity Analyst,69852,3,27.85,South,2024-10-01,10,0.82,27.85,Reject,Reject,False
+830,Arjun Das,Male,General,28-33,"Deep Learning, Computer Vision",8,B.Tech,AWS Certified,AI Researcher,56415,10,73.95,South,2024-10-14,10,0.82,73.95,Hire,Hire,True
+831,Jennifer Rao,Female,General,22-27,"NLP, Pytorch, TensorFlow",1,B.Tech,,AI Researcher,117151,5,39.54,South,2024-10-01,10,0.82,39.54,Reject,Reject,False
+832,Ankit Thomas,Male,General,22-27,"SQL, Java",9,B.Sc,,AI Researcher,85831,3,41.03,North,2024-10-20,10,0.82,41.03,Reject,Reject,False
+833,Deepak Rao,Male,General,34-39,"React, C++, Java, SQL",9,MBA,Google ML,AI Researcher,86787,10,97.88,West,2024-10-28,10,0.82,97.88,Hire,Hire,True
+834,Kunal Malhotra,Male,SC,28-33,"SQL, Python",5,M.Tech,AWS Certified,Data Scientist,47077,10,64.51,North,2024-10-12,10,0.82,64.51,Hire,Hire,True
+835,Karen Miller,Female,General,34-39,"SQL, Python",4,B.Sc,,Cybersecurity Analyst,58607,8,54.72,South,2024-10-02,10,0.82,54.72,Hire,Hire,True
+836,Kunal Johnson,Male,Minority,22-27,"Java, SQL",1,B.Sc,,Data Scientist,119920,4,22.59,North,2024-10-13,10,0.82,22.59,Reject,Reject,False
+837,Anjali Pillai,Female,OBC,22-27,"Pytorch, TensorFlow",6,B.Tech,Deep Learning Specialization,Data Scientist,85587,6,60.87,South,2024-10-01,10,0.82,60.87,Hire,Hire,True
+838,Deepika Harris,Female,Minority,34-39,"C++, React",3,M.Tech,AWS Certified,Software Engineer,54314,9,73.92,East,2024-10-18,10,0.82,73.92,Hire,Hire,True
+839,Ishita Thomas,Female,SC,40-45,"Java, SQL",7,B.Tech,Google ML,AI Researcher,57284,8,81.24,South,2024-10-01,10,0.82,81.24,Hire,Reject,False
+840,Tanvi Gupta,Female,General,22-27,"Python, NLP",3,M.Tech,AWS Certified,AI Researcher,119691,9,68.99,North,2024-10-01,10,0.82,68.99,Hire,Reject,False
+841,Aditya White,Male,OBC,46+,"SQL, Machine Learning",10,MBA,Deep Learning Specialization,Cybersecurity Analyst,102941,2,77.23,South,2024-10-21,10,0.82,77.23,Hire,Hire,True
+842,Ankit Kumar,Male,General,34-39,"TensorFlow, NLP",9,PhD,Deep Learning Specialization,Cybersecurity Analyst,76194,9,85.77,North,2024-10-09,10,0.82,85.77,Hire,Hire,True
+843,Ananya Bose,Female,General,28-33,"SQL, Java",10,B.Sc,,AI Researcher,97712,10,70.57,East,2024-10-19,10,0.82,70.57,Hire,Reject,False
+844,Kavya Jackson,Female,ST,28-33,"Java, SQL",3,B.Sc,Google ML,AI Researcher,45863,4,37.78,West,2024-10-20,10,0.82,37.78,Reject,Reject,False
+845,Tushar Mehta,Male,ST,34-39,"SQL, Python",1,B.Tech,Deep Learning Specialization,AI Researcher,49357,1,31.27,East,2024-10-21,10,0.82,31.27,Reject,Reject,False
+846,Ishita Nair,Female,Minority,22-27,"C++, React",0,MBA,Google ML,Software Engineer,44083,5,39.19,South,2024-10-06,10,0.82,39.19,Reject,Reject,False
+847,Kavya Saxena,Female,SC,28-33,"Linux, Cybersecurity",2,PhD,Deep Learning Specialization,Software Engineer,116216,9,68.47,South,2024-10-23,10,0.82,68.47,Hire,Reject,False
+848,Aditi Pillai,Female,Minority,22-27,"AWS, Docker, Kubernetes",9,B.Sc,Google ML,AI Researcher,105994,6,74.51,North,2024-10-19,10,0.82,74.51,Hire,Reject,False
+849,Rachel Joshi,Female,General,28-33,"Cybersecurity, Ethical Hacking, Networking, Linux",8,M.Tech,Google ML,Data Scientist,71985,10,77.0,South,2024-10-11,10,0.82,77.0,Hire,Reject,False
+850,Rishabh Bose,Male,General,28-33,"SQL, Machine Learning",7,MBA,,Data Scientist,106275,3,57.11,West,2024-10-03,10,0.82,57.11,Hire,Hire,True
+851,Amanda Martin,Female,ST,34-39,"TensorFlow, NLP, Python",3,B.Tech,AWS Certified,Software Engineer,58106,9,59.81,North,2024-10-20,10,0.82,59.81,Hire,Reject,False
+852,Ishita Desai,Female,SC,40-45,"TensorFlow, NLP, Python",5,B.Sc,AWS Certified,Data Scientist,99515,8,66.58,East,2024-10-01,10,0.82,66.58,Hire,Reject,False
+853,Nikhil Rajan,Male,ST,22-27,"Deep Learning, Computer Vision",4,M.Tech,Google ML,AI Researcher,61880,7,62.78,West,2024-10-03,10,0.82,62.78,Hire,Hire,True
+854,David Taylor,Male,General,40-45,"R, Statistics, Python",6,PhD,AWS Certified,Data Scientist,84124,6,76.38,East,2024-10-19,10,0.82,76.38,Hire,Hire,True
+855,Vikram Patel,Male,SC,34-39,"SQL, Machine Learning",5,PhD,,Data Scientist,64045,10,66.44,South,2024-10-24,10,0.82,66.44,Hire,Hire,True
+856,Devraj Sharma,Male,SC,22-27,"Python, NLP",9,B.Tech,Google ML,Cybersecurity Analyst,52700,7,86.86,North,2024-10-08,10,0.82,86.86,Hire,Hire,True
+857,Ashley Desai,Female,General,22-27,"Cybersecurity, Ethical Hacking, Networking, Linux",0,B.Tech,,Software Engineer,63385,9,17.12,South,2024-10-05,10,0.82,17.12,Reject,Reject,False
+858,Prateek Brown,Male,General,28-33,"Ethical Hacking, Linux, Networking",8,MBA,,Cybersecurity Analyst,69312,5,58.22,North,2024-10-06,10,0.82,58.22,Hire,Hire,True
+859,Deepika Martin,Female,SC,22-27,"Ethical Hacking, Linux, Networking",1,PhD,Google ML,AI Researcher,45209,2,40.16,West,2024-10-18,10,0.82,40.16,Reject,Reject,False
+860,Aarav Miller,Male,ST,22-27,"C++, React",0,MBA,AWS Certified,Data Scientist,54367,9,51.18,South,2024-10-23,10,0.82,51.18,Hire,Hire,True
+861,Kunal Brown,Male,SC,34-39,"Deep Learning, Computer Vision",7,MBA,,Data Scientist,69155,4,59.6,West,2024-10-24,10,0.82,59.6,Hire,Hire,True
+862,Yash Iyer,Male,General,40-45,"Java, Spring, Microservices",8,MBA,AWS Certified,Data Scientist,96803,8,84.91,East,2024-10-04,10,0.82,84.91,Hire,Hire,True
+863,Kritika Jackson,Female,General,40-45,"AWS, Docker, Kubernetes",10,PhD,Google ML,AI Researcher,65647,10,90.52,North,2024-10-09,10,0.82,90.52,Hire,Hire,True
+864,Divya Miller,Female,ST,34-39,"AWS, Docker, Kubernetes",2,M.Tech,AWS Certified,Software Engineer,40419,3,37.21,West,2024-10-14,10,0.82,37.21,Reject,Reject,False
+865,Michael Jackson,Male,OBC,28-33,"R, Statistics, Python",9,MBA,Deep Learning Specialization,Cybersecurity Analyst,103469,6,82.44,South,2024-10-17,10,0.82,82.44,Hire,Hire,True
+866,Aditya Bose,Male,General,22-27,"Python, NLP",4,M.Tech,AWS Certified,Data Scientist,77653,10,66.21,South,2024-10-14,10,0.82,66.21,Hire,Hire,True
+867,Shweta Mishra,Female,SC,34-39,"Java, Spring, Microservices",10,B.Tech,Deep Learning Specialization,AI Researcher,103404,5,79.34,East,2024-10-27,10,0.82,79.34,Hire,Reject,False
+868,Lisa Rajan,Female,General,34-39,"Linux, Cybersecurity",10,MBA,AWS Certified,Software Engineer,74289,8,94.4,East,2024-10-22,10,0.82,94.4,Hire,Reject,False
+869,Ankita Menon,Female,OBC,22-27,"Java, SQL",7,B.Tech,Deep Learning Specialization,Cybersecurity Analyst,98672,0,45.07,North,2024-10-14,10,0.82,45.07,Hire,Reject,False
+870,Matthew Iyer,Male,General,34-39,"Linux, Cybersecurity, Ethical Hacking",8,MBA,Google ML,Cybersecurity Analyst,89700,9,88.1,East,2024-10-03,10,0.82,88.1,Hire,Hire,True
+871,Preeti Jackson,Female,OBC,40-45,"TensorFlow, NLP",1,M.Tech,AWS Certified,AI Researcher,70059,5,41.16,North,2024-11-10,11,0.91,41.16,Reject,Reject,False
+872,Rishabh Desai,Male,OBC,28-33,"SQL, Java",6,MBA,Google ML,Software Engineer,103556,0,49.56,East,2024-11-02,11,0.91,49.56,Hire,Hire,True
+873,Deepak Malhotra,Male,SC,34-39,"SQL, Java",0,MBA,Google ML,Cybersecurity Analyst,57195,3,22.08,North,2024-11-27,11,0.91,22.08,Reject,Reject,False
+874,Neha Patel,Female,OBC,22-27,"Python, Machine Learning",1,B.Tech,Google ML,AI Researcher,117095,6,47.3,West,2024-11-26,11,0.91,47.3,Hire,Hire,True
+875,Kritika Martin,Female,General,34-39,"Networking, Ethical Hacking",4,M.Tech,AWS Certified,Cybersecurity Analyst,101787,0,44.52,North,2024-11-13,11,0.91,44.52,Reject,Reject,False
+876,Sarah Gupta,Female,General,22-27,"Networking, Ethical Hacking",3,PhD,Google ML,Software Engineer,105147,7,37.37,South,2024-11-24,11,0.91,37.37,Reject,Reject,False
+877,Jyoti Thomas,Female,OBC,22-27,"Python, NLP",1,B.Tech,Google ML,Data Scientist,80712,0,19.27,South,2024-11-11,11,0.91,19.27,Reject,Reject,False
+878,Rohan Mehta,Male,OBC,28-33,"Pytorch, Python",8,B.Sc,,AI Researcher,114270,7,67.59,North,2024-11-25,11,0.91,67.59,Hire,Hire,True
+879,Rahul Miller,Male,OBC,22-27,"SQL, Java",4,B.Tech,Google ML,Cybersecurity Analyst,67423,2,41.9,South,2024-11-25,11,0.91,41.9,Reject,Reject,False
+880,Rachel Miller,Female,SC,34-39,"R, Statistics, Python",5,PhD,Deep Learning Specialization,Cybersecurity Analyst,53768,7,82.9,South,2024-11-14,11,0.91,82.9,Hire,Reject,False
+881,Abhinav Rao,Male,General,28-33,"Linux, Cybersecurity",0,B.Sc,Google ML,Cybersecurity Analyst,62376,2,36.12,West,2024-11-21,11,0.91,36.12,Reject,Reject,False
+882,Ananya Jackson,Female,General,22-27,"Networking, Ethical Hacking",6,MBA,AWS Certified,Data Scientist,88710,6,65.6,West,2024-11-19,11,0.91,65.6,Hire,Reject,False
+883,Devraj Saxena,Male,General,22-27,"Cybersecurity, Ethical Hacking, Networking, Linux",8,M.Tech,,Data Scientist,57739,5,62.53,South,2024-11-06,11,0.91,62.53,Hire,Hire,True
+884,Priya Shah,Female,General,28-33,"Networking, Ethical Hacking",6,B.Sc,AWS Certified,Data Scientist,52414,0,63.37,North,2024-11-02,11,0.91,63.37,Hire,Reject,False
+885,Lisa Iyer,Female,General,34-39,"NLP, Pytorch, TensorFlow",1,MBA,Google ML,Data Scientist,95858,3,34.99,West,2024-11-19,11,0.91,34.99,Reject,Reject,False
+886,Jyoti Thompson,Female,General,22-27,"Java, Spring, Microservices",6,PhD,Google ML,AI Researcher,63373,10,80.35,East,2024-11-09,11,0.91,80.35,Hire,Reject,False
+887,Karan Taylor,Male,SC,28-33,"Pytorch, Python",9,M.Tech,AWS Certified,Data Scientist,102050,9,83.02,West,2024-11-07,11,0.91,83.02,Hire,Hire,True
+888,Aarav Bose,Male,General,40-45,"TensorFlow, NLP, Python",3,B.Sc,,AI Researcher,46840,2,22.56,West,2024-11-05,11,0.91,22.56,Reject,Reject,False
+889,Sarah Davis,Female,SC,28-33,"TensorFlow, NLP",5,MBA,Google ML,Cybersecurity Analyst,108417,3,47.11,East,2024-11-11,11,0.91,47.11,Hire,Reject,False
+890,Andrew Chatterjee,Male,SC,34-39,"C++, React",2,PhD,,Data Scientist,113125,2,30.57,South,2024-11-14,11,0.91,30.57,Reject,Reject,False
+891,Swati Verma,Female,ST,40-45,"Deep Learning, Computer Vision",5,PhD,Google ML,Cybersecurity Analyst,65032,5,51.75,East,2024-11-13,11,0.91,51.75,Hire,Reject,False
+892,Swati Sharma,Female,General,22-27,"Pytorch, Python",3,B.Tech,AWS Certified,Cybersecurity Analyst,41703,0,22.46,North,2024-11-20,11,0.91,22.46,Reject,Reject,False
+893,Kavya Agarwal,Female,ST,40-45,"Java, SQL",10,B.Tech,Deep Learning Specialization,Data Scientist,101709,4,77.66,West,2024-11-20,11,0.91,77.66,Hire,Reject,False
+894,Ashley Reddy,Female,ST,22-27,"Ethical Hacking, Linux, Networking",7,M.Tech,Google ML,AI Researcher,63187,8,73.03,North,2024-11-28,11,0.91,73.03,Hire,Reject,False
+895,Rohan Rajan,Male,Minority,22-27,"Cybersecurity, Networking",1,B.Sc,Google ML,AI Researcher,42185,0,25.05,South,2024-11-11,11,0.91,25.05,Reject,Reject,False
+896,Meera Harris,Female,General,34-39,"C++, React",5,B.Tech,,Software Engineer,105735,6,34.5,East,2024-11-05,11,0.91,34.5,Reject,Reject,False
+897,Neha Reddy,Female,ST,22-27,"C++, React",7,B.Sc,Google ML,AI Researcher,75882,8,68.22,East,2024-11-18,11,0.91,68.22,Hire,Reject,False
+898,Shreya Desai,Female,General,22-27,"SQL, Machine Learning",7,B.Tech,Google ML,AI Researcher,81615,9,75.71,West,2024-11-19,11,0.91,75.71,Hire,Reject,False
+899,Manish Sharma,Male,ST,22-27,"Networking, Ethical Hacking",3,M.Tech,AWS Certified,Software Engineer,57397,3,43.45,East,2024-11-10,11,0.91,43.45,Hire,Hire,True
+900,Abhinav Saxena,Male,General,46+,"SQL, Python",2,MBA,Google ML,Software Engineer,73994,6,54.61,North,2024-11-23,11,0.91,54.61,Hire,Hire,True
+901,Deepika Gupta,Female,ST,22-27,"Cybersecurity, Ethical Hacking, Networking, Linux",7,MBA,AWS Certified,Cybersecurity Analyst,116706,10,94.71,East,2024-11-13,11,0.91,94.71,Hire,Reject,False
+902,William White,Male,SC,28-33,"Java, Spring, Microservices",3,PhD,AWS Certified,Software Engineer,75251,10,61.83,North,2024-11-03,11,0.91,61.83,Hire,Hire,True
+903,Gaurav Chatterjee,Male,OBC,22-27,"Java, Spring, Microservices",7,MBA,,Data Scientist,113894,8,51.07,South,2024-11-13,11,0.91,51.07,Hire,Hire,True
+904,Yash Mehta,Male,ST,22-27,"C++, React",10,MBA,,Cybersecurity Analyst,86924,2,66.14,South,2024-11-10,11,0.91,66.14,Hire,Hire,True
+905,Siddarth Thomas,Male,SC,28-33,"SQL, Machine Learning",2,M.Tech,AWS Certified,Data Scientist,71927,9,43.85,East,2024-11-09,11,0.91,43.85,Reject,Reject,False
+906,Lisa Desai,Female,General,28-33,"Cybersecurity, Ethical Hacking, Networking, Linux",7,M.Tech,AWS Certified,AI Researcher,117735,3,60.14,South,2024-11-01,11,0.91,60.14,Hire,Reject,False
+907,David Iyer,Male,General,34-39,"Linux, Cybersecurity",4,PhD,,Software Engineer,47051,8,70.9,South,2024-11-03,11,0.91,70.9,Hire,Hire,True
+908,Divya Kapoor,Female,General,22-27,"TensorFlow, NLP, Python",7,MBA,AWS Certified,AI Researcher,66649,10,77.35,North,2024-11-14,11,0.91,77.35,Hire,Reject,False
+909,Vivek Nair,Male,OBC,28-33,"Linux, Ethical Hacking",10,B.Tech,Google ML,AI Researcher,67851,0,47.79,North,2024-11-16,11,0.91,47.79,Hire,Hire,True
+910,Jessica Mishra,Female,SC,34-39,"Python, NLP",1,MBA,AWS Certified,Data Scientist,95652,2,30.81,West,2024-11-20,11,0.91,30.81,Reject,Reject,False
+911,Rachel Patel,Female,SC,28-33,"Python, Machine Learning",5,B.Tech,Google ML,AI Researcher,84544,9,63.95,East,2024-11-17,11,0.91,63.95,Hire,Reject,False
+912,Joshua Martin,Male,OBC,22-27,"Linux, Ethical Hacking",6,PhD,Google ML,AI Researcher,63576,2,58.2,North,2024-11-14,11,0.91,58.2,Hire,Hire,True
+913,Deepak Malhotra,Male,OBC,22-27,"C++, React",6,M.Tech,AWS Certified,AI Researcher,50831,4,63.35,South,2024-11-12,11,0.91,63.35,Hire,Hire,True
+914,Shubham Sharma,Male,Minority,28-33,"Java, Spring, Microservices",2,MBA,Google ML,Cybersecurity Analyst,47144,6,37.28,South,2024-11-10,11,0.91,37.28,Reject,Reject,False
+915,Deepika Joshi,Female,ST,46+,"NLP, Pytorch, TensorFlow",9,M.Tech,,Software Engineer,54637,8,75.71,East,2024-11-26,11,0.91,75.71,Hire,Reject,False
+916,Varun Thomas,Male,General,28-33,"Cybersecurity, Networking",6,PhD,Deep Learning Specialization,Software Engineer,99636,0,62.67,East,2024-11-14,11,0.91,62.67,Hire,Hire,True
+917,Siddarth Saxena,Male,General,22-27,"SQL, Java",0,B.Sc,AWS Certified,Software Engineer,78816,5,39.13,East,2024-11-25,11,0.91,39.13,Reject,Reject,False
+918,William Agarwal,Male,General,34-39,"Cybersecurity, Networking",2,MBA,AWS Certified,Cybersecurity Analyst,109634,7,44.6,North,2024-11-24,11,0.91,44.6,Reject,Reject,False
+919,Simran Reddy,Female,General,28-33,"AWS, Docker, Kubernetes",1,B.Tech,Deep Learning Specialization,Cybersecurity Analyst,71994,2,22.35,West,2024-11-27,11,0.91,22.35,Reject,Reject,False
+920,Kavya Patel,Female,General,40-45,"Ethical Hacking, Linux, Networking",5,MBA,Deep Learning Specialization,Cybersecurity Analyst,79581,10,71.23,West,2024-11-14,11,0.91,71.23,Hire,Reject,False
+921,Anjali Reddy,Female,OBC,46+,"C++, React",4,M.Tech,Google ML,Software Engineer,107376,1,43.47,East,2024-11-18,11,0.91,43.47,Hire,Reject,False
+922,Rahul Chandra,Male,General,34-39,"Java, SQL",9,B.Tech,Google ML,Data Scientist,119249,6,71.11,East,2024-11-13,11,0.91,71.11,Hire,Hire,True
+923,Deepak Agarwal,Male,OBC,46+,"Java, Spring, Microservices",0,MBA,Deep Learning Specialization,AI Researcher,81701,6,40.28,North,2024-11-04,11,0.91,40.28,Reject,Reject,False
+924,Ashwin Verma,Male,General,28-33,"SQL, Machine Learning",5,MBA,Google ML,Data Scientist,113093,9,77.13,East,2024-11-01,11,0.91,77.13,Hire,Hire,True
+925,Megha Shah,Female,General,28-33,"Linux, Cybersecurity",5,PhD,Deep Learning Specialization,Data Scientist,114883,7,77.76,North,2024-11-03,11,0.91,77.76,Hire,Reject,False
+926,Jennifer Kapoor,Female,OBC,22-27,"Networking, Ethical Hacking",1,MBA,,Cybersecurity Analyst,116668,5,25.83,South,2024-11-06,11,0.91,25.83,Reject,Reject,False
+927,Michelle Brown,Female,General,28-33,"TensorFlow, NLP",6,PhD,Deep Learning Specialization,Data Scientist,89601,4,57.45,West,2024-11-20,11,0.91,57.45,Hire,Reject,False
+928,Sanjay Menon,Male,Minority,46+,"Pytorch, TensorFlow",3,MBA,Deep Learning Specialization,Software Engineer,112098,4,55.5,East,2024-11-14,11,0.91,55.5,Hire,Hire,True
+929,Aditi Rajan,Female,OBC,28-33,"Ethical Hacking, Linux, Networking",9,MBA,Google ML,Data Scientist,105838,10,98.64,East,2024-11-18,11,0.91,98.64,Hire,Reject,False
+930,Nidhi Menon,Female,General,28-33,"Pytorch, TensorFlow",7,M.Tech,AWS Certified,Software Engineer,83785,7,76.31,North,2024-11-25,11,0.91,76.31,Hire,Hire,True
+931,Swati Mehta,Female,General,28-33,"C++, React",6,B.Tech,AWS Certified,AI Researcher,105976,6,61.93,North,2024-11-03,11,0.91,61.93,Hire,Reject,False
+932,Anjali Shah,Female,SC,40-45,"Java, Spring, Microservices",9,MBA,Google ML,AI Researcher,91031,7,86.35,South,2024-11-18,11,0.91,86.35,Hire,Reject,False
+933,Manish Johnson,Male,General,40-45,"R, Statistics, Python",5,M.Tech,Deep Learning Specialization,Software Engineer,67132,7,76.43,South,2024-11-19,11,0.91,76.43,Hire,Hire,True
+934,Jessica Mishra,Female,OBC,22-27,"SQL, Machine Learning",10,B.Tech,,Cybersecurity Analyst,60875,2,70.26,North,2024-11-08,11,0.91,70.26,Hire,Reject,False
+935,Pooja Sharma,Female,OBC,22-27,"Linux, Ethical Hacking",0,M.Tech,AWS Certified,Software Engineer,110430,8,36.27,North,2024-11-04,11,0.91,36.27,Reject,Reject,False
+936,Kunal Davis,Male,OBC,28-33,"NLP, Pytorch, TensorFlow",0,MBA,AWS Certified,Cybersecurity Analyst,56260,0,14.15,West,2024-11-04,11,0.91,14.15,Reject,Reject,False
+937,Gaurav Harris,Male,OBC,22-27,"Cybersecurity, Networking",1,M.Tech,AWS Certified,AI Researcher,83257,10,52.04,North,2024-11-21,11,0.91,52.04,Hire,Hire,True
+938,Siddarth Miller,Male,OBC,28-33,"Cybersecurity, Networking",3,M.Tech,AWS Certified,Software Engineer,58352,7,66.48,East,2024-11-05,11,0.91,66.48,Hire,Hire,True
+939,Anjali Bose,Female,OBC,28-33,"R, Statistics, Python",5,B.Tech,Google ML,AI Researcher,78650,4,48.0,East,2024-11-05,11,0.91,48.0,Hire,Reject,False
+940,Devraj Martin,Male,General,22-27,"Python, Machine Learning",4,PhD,Deep Learning Specialization,Software Engineer,87731,3,42.03,East,2024-11-24,11,0.91,42.03,Reject,Reject,False
+941,Amanda Thompson,Female,ST,28-33,"Cybersecurity, Ethical Hacking, Networking, Linux",2,PhD,Google ML,Cybersecurity Analyst,62167,9,67.22,South,2024-11-28,11,0.91,67.22,Hire,Reject,False
+942,Swati Davis,Female,General,34-39,"SQL, Python",6,B.Sc,,Cybersecurity Analyst,55675,5,39.63,North,2024-11-21,11,0.91,39.63,Reject,Reject,False
+943,Tushar Miller,Male,OBC,22-27,"Deep Learning, Computer Vision",7,B.Tech,Google ML,Software Engineer,66546,0,51.29,East,2024-11-12,11,0.91,51.29,Hire,Hire,True
+944,Shubham Mehta,Male,SC,28-33,"Deep Learning, Computer Vision",5,B.Tech,Deep Learning Specialization,Data Scientist,108543,8,58.02,North,2024-11-08,11,0.91,58.02,Hire,Hire,True
+945,Gaurav Reddy,Male,OBC,22-27,"Pytorch, TensorFlow",10,PhD,Deep Learning Specialization,AI Researcher,64905,7,88.71,East,2024-11-24,11,0.91,88.71,Hire,Hire,True
+946,Karan Taylor,Male,ST,22-27,"Pytorch, Python",4,B.Sc,Deep Learning Specialization,Cybersecurity Analyst,49575,9,64.87,North,2024-11-07,11,0.91,64.87,Hire,Hire,True
+947,Shreya Wilson,Female,General,28-33,"Linux, Cybersecurity",1,B.Tech,Deep Learning Specialization,Data Scientist,54617,9,45.51,North,2024-11-24,11,0.91,45.51,Hire,Reject,False
+948,Kritika Harris,Female,OBC,22-27,"Java, SQL",10,M.Tech,AWS Certified,Data Scientist,106491,0,69.29,East,2024-11-16,11,0.91,69.29,Hire,Hire,True
+949,Pallavi Tiwari,Female,Minority,40-45,"Cybersecurity, Ethical Hacking, Networking, Linux",8,MBA,Deep Learning Specialization,Cybersecurity Analyst,103908,8,77.93,South,2024-11-01,11,0.91,77.93,Hire,Reject,False
+950,Melissa Davis,Female,OBC,28-33,"Java, Spring, Microservices",7,B.Sc,Deep Learning Specialization,Cybersecurity Analyst,110594,6,70.99,West,2024-11-27,11,0.91,70.99,Hire,Reject,False
+951,Rakesh Mehta,Male,Minority,22-27,"Cybersecurity, Ethical Hacking, Networking, Linux",3,MBA,AWS Certified,Cybersecurity Analyst,60263,5,54.58,East,2024-12-11,12,1.0,54.58,Hire,Hire,True
+952,Rakesh Menon,Male,OBC,34-39,"Cybersecurity, Networking",2,PhD,Google ML,Software Engineer,75308,2,51.38,West,2024-12-08,12,1.0,51.38,Hire,Hire,True
+953,Amanda Malhotra,Female,OBC,34-39,"Deep Learning, Computer Vision",5,B.Sc,AWS Certified,Cybersecurity Analyst,40743,5,53.14,North,2024-12-25,12,1.0,53.14,Hire,Reject,False
+954,Sneha Rajan,Female,General,34-39,"Java, SQL",5,M.Tech,Deep Learning Specialization,AI Researcher,78639,7,53.43,East,2024-12-27,12,1.0,53.43,Hire,Reject,False
+955,Anjali Shah,Female,OBC,40-45,"Deep Learning, Computer Vision",6,M.Tech,AWS Certified,AI Researcher,54003,8,62.45,North,2024-12-03,12,1.0,62.45,Hire,Reject,False
+956,Manish Shah,Male,SC,22-27,"Java, Spring, Microservices",7,PhD,Google ML,Cybersecurity Analyst,119522,0,73.36,West,2024-12-19,12,1.0,73.36,Hire,Hire,True
+957,Sneha Mehta,Female,General,34-39,"SQL, Machine Learning",0,M.Tech,Deep Learning Specialization,Software Engineer,82538,5,43.6,North,2024-12-25,12,1.0,43.6,Reject,Reject,False
+958,Divya Nair,Female,SC,22-27,"SQL, Machine Learning",9,MBA,Deep Learning Specialization,AI Researcher,109602,1,52.59,East,2024-12-27,12,1.0,52.59,Hire,Reject,False
+959,Anjali Rao,Female,ST,22-27,"NLP, Pytorch, TensorFlow",1,PhD,Google ML,Software Engineer,101384,5,38.7,South,2024-12-08,12,1.0,38.7,Reject,Reject,False
+960,Jyoti Desai,Female,General,28-33,"Linux, Cybersecurity, Ethical Hacking",3,M.Tech,Google ML,Data Scientist,91944,4,46.15,North,2024-12-26,12,1.0,46.15,Hire,Reject,False
+961,Sneha Taylor,Female,OBC,34-39,"Pytorch, Python",0,PhD,AWS Certified,Cybersecurity Analyst,110622,0,13.17,North,2024-12-16,12,1.0,13.17,Reject,Reject,False
+962,Michelle Desai,Female,SC,34-39,"TensorFlow, NLP",10,B.Sc,Deep Learning Specialization,Software Engineer,51498,1,58.92,South,2024-12-19,12,1.0,58.92,Hire,Reject,False
+963,Karen Das,Female,SC,34-39,"SQL, Machine Learning",1,M.Tech,AWS Certified,Cybersecurity Analyst,49571,4,56.09,West,2024-12-06,12,1.0,56.09,Hire,Reject,False
+964,Jessica Taylor,Female,General,22-27,"Python, Machine Learning",6,PhD,AWS Certified,Data Scientist,59725,4,45.76,South,2024-12-09,12,1.0,45.76,Hire,Reject,False
+965,Christopher Shah,Male,OBC,22-27,"NLP, Pytorch, TensorFlow",8,B.Tech,Google ML,Software Engineer,59435,9,87.31,East,2024-12-07,12,1.0,87.31,Hire,Hire,True
+966,Swati Mehta,Female,General,22-27,"TensorFlow, NLP, Python",0,B.Tech,,Data Scientist,70160,0,2.16,West,2024-12-22,12,1.0,2.16,Reject,Reject,False
+967,Rakesh Malhotra,Male,Minority,22-27,"NLP, Pytorch, TensorFlow",2,B.Tech,Deep Learning Specialization,AI Researcher,89166,3,34.78,West,2024-12-01,12,1.0,34.78,Reject,Reject,False
+968,Aditi Pillai,Female,Minority,28-33,"Python, NLP",0,B.Tech,AWS Certified,Data Scientist,115799,3,49.65,North,2024-12-24,12,1.0,49.65,Hire,Reject,False
+969,Manish Chatterjee,Male,General,22-27,"Deep Learning, Computer Vision",1,PhD,Google ML,Software Engineer,106441,5,47.03,South,2024-12-12,12,1.0,47.03,Hire,Hire,True
+970,Deepika Anderson,Female,General,40-45,"C++, React",1,PhD,Deep Learning Specialization,Cybersecurity Analyst,48559,6,58.19,West,2024-12-14,12,1.0,58.19,Hire,Reject,False
+971,Nidhi Gupta,Female,OBC,22-27,"Python, Machine Learning",10,M.Tech,AWS Certified,Software Engineer,58446,7,89.96,North,2024-12-28,12,1.0,89.96,Hire,Reject,False
+972,Suresh White,Male,ST,34-39,"SQL, Java",0,B.Sc,Deep Learning Specialization,AI Researcher,88719,7,39.65,East,2024-12-20,12,1.0,39.65,Reject,Reject,False
+973,Meera Rajan,Female,General,40-45,"Deep Learning, Computer Vision",2,B.Sc,AWS Certified,Software Engineer,61282,2,37.97,East,2024-12-01,12,1.0,37.97,Reject,Reject,False
+974,Aditi Malhotra,Female,General,40-45,"Linux, Cybersecurity, Ethical Hacking",6,M.Tech,,Cybersecurity Analyst,44485,4,56.02,East,2024-12-24,12,1.0,56.02,Hire,Reject,False
+975,Ankit Singh,Male,ST,22-27,"Pytorch, TensorFlow",8,MBA,Google ML,AI Researcher,48693,8,87.01,North,2024-12-04,12,1.0,87.01,Hire,Hire,True
+976,Jessica Rajan,Female,ST,22-27,"Python, Machine Learning",8,B.Tech,,Cybersecurity Analyst,110777,10,58.82,South,2024-12-12,12,1.0,58.82,Hire,Reject,False
+977,James Miller,Male,General,28-33,"TensorFlow, NLP, Python",9,B.Sc,Deep Learning Specialization,AI Researcher,53792,2,58.25,North,2024-12-08,12,1.0,58.25,Hire,Hire,True
+978,Gaurav Reddy,Male,Minority,22-27,"Java, Spring, Microservices",10,MBA,Google ML,Data Scientist,57263,7,79.73,South,2024-12-11,12,1.0,79.73,Hire,Hire,True
+979,Jyoti Nair,Female,General,22-27,"AWS, Docker, Kubernetes",9,M.Tech,,AI Researcher,44471,6,54.41,North,2024-12-27,12,1.0,54.41,Hire,Reject,False
+980,Manish Menon,Male,OBC,28-33,"Linux, Cybersecurity",5,B.Sc,AWS Certified,Data Scientist,68159,5,62.45,West,2024-12-15,12,1.0,62.45,Hire,Hire,True
+981,Rachel Wilson,Female,General,34-39,"Cybersecurity, Networking",1,M.Tech,Google ML,Cybersecurity Analyst,103878,8,48.06,West,2024-12-25,12,1.0,48.06,Hire,Reject,False
+982,Riya Desai,Female,General,46+,"AWS, Docker, Kubernetes",8,MBA,Google ML,AI Researcher,54566,6,77.17,South,2024-12-04,12,1.0,77.17,Hire,Reject,False
+983,Ananya Kapoor,Female,ST,28-33,"Cybersecurity, Ethical Hacking, Networking, Linux",4,B.Tech,Google ML,AI Researcher,58574,1,44.94,West,2024-12-27,12,1.0,44.94,Reject,Reject,False
+984,Arjun Das,Male,General,22-27,"Cybersecurity, Ethical Hacking, Networking, Linux",5,B.Tech,Google ML,Data Scientist,109582,9,63.42,East,2024-12-06,12,1.0,63.42,Hire,Hire,True
+985,Meera Mehta,Female,General,40-45,"SQL, Python",10,B.Sc,Google ML,Software Engineer,119910,9,83.94,East,2024-12-14,12,1.0,83.94,Hire,Reject,False
+986,Mohit Kumar,Male,Minority,22-27,"Linux, Ethical Hacking",6,MBA,,Cybersecurity Analyst,72942,6,60.75,North,2024-12-23,12,1.0,60.75,Hire,Hire,True
+987,Aditi Thompson,Female,SC,34-39,"TensorFlow, NLP, Python",9,PhD,Deep Learning Specialization,AI Researcher,71780,6,90.75,West,2024-12-13,12,1.0,90.75,Hire,Reject,False
+988,Ankit Menon,Male,ST,22-27,"SQL, Python",9,B.Sc,,Software Engineer,116798,1,52.85,North,2024-12-22,12,1.0,52.85,Hire,Hire,True
+989,Prateek Wilson,Male,General,28-33,"AWS, Docker, Kubernetes",2,M.Tech,Google ML,AI Researcher,101749,0,41.99,South,2024-12-08,12,1.0,41.99,Reject,Reject,False
+990,Pallavi Joshi,Female,Minority,28-33,"Deep Learning, Computer Vision",8,M.Tech,AWS Certified,Cybersecurity Analyst,73482,1,57.32,North,2024-12-04,12,1.0,57.32,Hire,Reject,False
+991,Sarah Harris,Female,Minority,28-33,"Networking, Ethical Hacking",2,PhD,Google ML,AI Researcher,118518,7,46.73,North,2024-12-28,12,1.0,46.73,Hire,Reject,False
+992,Simran Miller,Female,OBC,22-27,"Deep Learning, Computer Vision",6,B.Tech,Google ML,Data Scientist,72931,4,51.99,West,2024-12-12,12,1.0,51.99,Hire,Reject,False
+993,Aarav Mehta,Male,SC,34-39,"C++, React",7,MBA,AWS Certified,Data Scientist,113488,9,84.63,North,2024-12-20,12,1.0,84.63,Hire,Hire,True
+994,Lisa Taylor,Female,General,34-39,"AWS, Docker, Kubernetes",10,MBA,Google ML,Software Engineer,87277,9,95.3,East,2024-12-19,12,1.0,95.3,Hire,Reject,False
+995,Nisha Singh,Female,General,34-39,"Pytorch, Python",5,M.Tech,AWS Certified,Software Engineer,96596,7,59.87,North,2024-12-22,12,1.0,59.87,Hire,Reject,False
+996,Prateek White,Male,SC,34-39,"Networking, Ethical Hacking",2,B.Sc,,Software Engineer,73228,1,27.9,East,2024-12-12,12,1.0,27.9,Reject,Reject,False
+997,Preeti Mishra,Female,SC,22-27,"R, Statistics, Python",4,B.Tech,Deep Learning Specialization,Software Engineer,111732,7,67.01,North,2024-12-21,12,1.0,67.01,Hire,Reject,False
+998,Nisha Kapoor,Female,ST,22-27,"NLP, Pytorch, TensorFlow",2,PhD,,Data Scientist,80086,5,44.31,East,2024-12-04,12,1.0,44.31,Reject,Reject,False
+999,Shubham Shah,Male,General,34-39,"Linux, Cybersecurity",9,B.Tech,Deep Learning Specialization,Cybersecurity Analyst,87377,6,77.29,East,2024-12-25,12,1.0,77.29,Hire,Hire,True
+1000,Manish Shah,Male,OBC,22-27,"R, Statistics, Python",0,B.Sc,Google ML,Data Scientist,49952,8,36.7,North,2024-12-07,12,1.0,36.7,Reject,Reject,False

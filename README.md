@@ -1,217 +1,98 @@
-<h1 align="Left">FairWatch – AI Hiring Bias Detection System</h1>
+# FairWatch — Bias Drift Detection System
 
-<p align="Left">
-An AI-powered fairness monitoring platform that detects, analyzes, and visualizes bias in recruitment pipelines using Machine Learning, Explainable AI (SHAP), FastAPI, React, and interactive dashboards.
-</p>
+A full-stack web application that detects, visualises, and validates bias drift in AI-powered hiring pipelines.
 
----
+## Project Structure
 
-## Overview
-
-FairWatch is an AI-driven hiring fairness monitoring system designed to identify and mitigate bias in recruitment processes. The platform evaluates hiring decisions using fairness metrics, explainable AI techniques, and interactive visualizations to promote transparency, accountability, and ethical AI practices.
-
-The system combines a **FastAPI backend**, **React frontend**, **Machine Learning models**, and **SHAP Explainability** to help organizations build fair and trustworthy AI-assisted recruitment systems.
-
----
-
-## Key Features
-
-- AI Hiring Bias Detection
-- Fairness Metrics Dashboard
-- Explainable AI using SHAP
-- Candidate Score Prediction
-- Interactive Data Visualization
-- What-If Analysis
-- Bias Drift Monitoring
-- Protected Attribute Analysis
-- Real-Time Analytics
-- Responsive User Interface
-
----
-
-## System Architecture
-
-<p align="center">
-    <img src="Images/architecture.png" alt="FairWatch Architecture" width="950">
-</p>
-
-### Workflow
-
-```text
-Candidate Dataset
-        │
-        ▼
-Data Collection
-        │
-        ▼
-Data Preprocessing
-        │
-        ▼
-Feature Engineering
-        │
-        ▼
-Machine Learning Model
-        │
-        ▼
-Bias Detection & Fairness Evaluation
-        │
-        ├── Fairness Metrics
-        ├── SHAP Explainability
-        ├── Bias Analysis
-        └── What-If Simulation
-                │
-                ▼
-          FastAPI Backend
-                │
-                ▼
-         React + Tailwind UI
-                │
-                ▼
-      Interactive Dashboard
+```
+fairwatch/
+├── backend/
+│   ├── main.py                  # FastAPI app + all endpoints
+│   ├── requirements.txt
+│   ├── data/
+│   │   └── FairWatch_Demo_1000.csv   ← place your dataset here
+│   └── services/
+│       └── metrics.py           # All fairness metric computations
+└── frontend/
+    ├── index.html
+    ├── package.json
+    ├── vite.config.js
+    └── src/
+        ├── App.jsx              # Main app + navigation
+        ├── api.js               # Axios API client
+        ├── main.jsx
+        ├── index.css
+        ├── components/
+        │   └── UI.jsx           # Shared components
+        └── tabs/
+            ├── CompanyMetrics.jsx
+            ├── BiasDetection.jsx
+            ├── FairnessValidation.jsx
+            ├── ResumeExplorer.jsx
+            └── InjectionLab.jsx
 ```
 
----
+## Setup & Run
 
-## Technologies Used
+### 1. Backend
 
-### Backend
+```bash
+cd backend
 
-- Python
-- FastAPI
-- Pandas
-- NumPy
+# Install dependencies
+pip install -r requirements.txt
 
-### Frontend
+# Make sure FairWatch_Demo_1000.csv is in backend/data/
 
-- React
-- Vite
-- Tailwind CSS
-- Chart.js
-- Axios
-
-### Machine Learning & AI
-
-- Scikit-learn
-- SHAP (Explainable AI)
-- Fairness Metrics
-- Bias Detection
-
----
-
-## Features Demonstrated
-
-- Candidate Evaluation
-- Fair Hiring Analytics
-- AI Explainability
-- Dashboard Visualizations
-- Interactive Bias Monitoring
-- Candidate Score Prediction
-- Ethical AI Evaluation
-
----
-
-## Dashboard Preview
-
-<p align="Left">
-    <img src="Image/Screenshot%202026-07-08%20220339.png" alt="FairWatch Dashboard" width="900">
-</p>
-
-<p align="Left">
-    <img src="Image/Screenshot%202026-07-08%20220347.png" alt="Bias Detection Dashboard" width="900">
-</p>
-
----
-
-## Repository Structure
-
-```text
-FairWatch – AI Hiring Bias Detection System
-│
-├── README.md
-│
-├── backend
-│   ├── data
-│   ├── services
-│   ├── models
-│   ├── main.py
-│   └── requirements.txt
-│
-├── frontend
-│   ├── public
-│   ├── src
-│   ├── package.json
-│   ├── vite.config.js
-│   └── tailwind.config.js
-│
-├── Images
-│   ├── architecture.png
-│   ├── Screenshot 2026-07-08 220339.png
-│   └── Screenshot 2026-07-08 220347.png
-│
-├── Documentation
-│
-├── requirements.txt
-└── LICENSE
+# Start the API server
+uvicorn main:app --reload --port 8000
 ```
 
----
+The API will be available at http://localhost:8000
+API docs at http://localhost:8000/docs
 
-## Project Workflow
+### 2. Frontend
 
-1. Data Collection
-2. Data Preprocessing
-3. Feature Engineering
-4. Machine Learning Model Development
-5. Candidate Score Prediction
-6. Fairness Evaluation
-7. SHAP Explainability
-8. Bias Detection
-9. FastAPI API Development
-10. React Dashboard Development
-11. Interactive Analytics & Reporting
+```bash
+cd frontend
 
----
+# Install dependencies
+npm install
 
-## Applications
+# Start dev server
+npm run dev
+```
 
-- AI Recruitment Systems
-- Ethical AI
-- Responsible AI
-- Human Resource Analytics
-- Hiring Bias Detection
-- Explainable AI
-- Fairness Monitoring
-- AI Governance
+The app will open at http://localhost:5173
 
----
+## API Endpoints
 
-## Future Scope
+| Method | Endpoint | Description |
+|--------|----------|-------------|
+| GET | /api/overview | Summary metrics for Tab 1 |
+| GET | /api/metrics/monthly | Monthly SPD, DI, BDS for charts |
+| GET | /api/metrics/fairness | All 6 fairness metrics |
+| GET | /api/metrics/heatmap | Intersectional hire rate heatmap |
+| GET | /api/metrics/comparison | FairWatch vs baseline methods |
+| GET | /api/thresholds | Company rules and feature weights |
+| GET | /api/candidates?panel=hired|rejected|flagged | Resume explorer data |
+| POST | /api/candidate/whatif | Live resume what-if prediction |
+| POST | /api/inject | Inject bias into pipeline |
+| POST | /api/reset | Reset to clean baseline |
 
-- Resume Parsing using NLP
-- AI-powered Candidate Ranking
-- Integration with ATS & HRMS
-- Cloud Deployment
-- Role-based Authentication
-- Real-Time Hiring Analytics
-- LLM-powered Recruitment Assistant
-- Automated Fairness Reporting
+## Features
 
----
+- **Tab 1 — Company Metrics**: Model performance radar, monthly volume, selection rules, feature weights
+- **Tab 2 — Bias Detection**: Real SPD/DI/BDS charts, statistical proof stack, alerts, recommendations
+- **Tab 3 — Fairness Validation**: 6 scorecard metrics, confusion matrix, ROC curve, intersectional heatmap
+- **Tab 4 — Resume Explorer**: Editable resumes, live SHAP updates, what-if gender/name/gap toggles
+- **Tab 5 — Injection Lab**: Live bias injection, alert sequence, before/after chart, detection validation
 
-## Project Goal
+## Dataset
 
-The objective of FairWatch is to build a transparent and responsible AI-powered hiring system that detects bias, explains AI decisions using SHAP, and provides fairness analytics through an intuitive dashboard. The project promotes ethical AI practices and supports organizations in making fair, data-driven recruitment decisions.
-
----
-
-## Author
-
-**Mehir Saxena**
-
-B.Tech Computer Science Engineering (Data Science)
-
-University of Petroleum and Energy Studies (UPES), Dehradun
-
-GitHub: https://github.com/MehirSaxena736
-
-LinkedIn: *(Add your LinkedIn Profile URL here)*
+Place `FairWatch_Demo_1000.csv` in `backend/data/`. The dataset should have these columns:
+- Resume_ID, Name, Gender, Ethnicity, Age_Group, Skills
+- Experience (Years), Education, Certifications, Job Role
+- Salary Expectation ($), Projects Count, AI Score (0-100)
+- Region, Timestamp, Month, Drift_Fraction
+- AI_Score_Original, Recruiter_Decision_Original, Recruiter Decision, hired

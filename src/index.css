@@ -1,0 +1,55 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --page-bg: #F8F9FA;
+  --card: #FFFFFF;
+  --border: #E5E7EB;
+  --border2: #D1D5DB;
+  --text: #111827;
+  --text2: #6B7280;
+  --text3: #9CA3AF;
+  --blue: #2563EB;
+  --blue-d: #1D4ED8;
+  --blue-l: #DBEAFE;
+  --blue-ll: #EFF6FF;
+  --red: #DC2626;
+  --red-l: #FEE2E2;
+  --red-ll: #FFF5F5;
+  --amber: #D97706;
+  --amber-l: #FEF3C7;
+  --amber-ll: #FFFBEB;
+  --green: #16A34A;
+  --green-l: #DCFCE7;
+  --green-ll: #F0FDF4;
+  --purple: #7C3AED;
+  --purple-l: #EDE9FE;
+}
+
+* { box-sizing: border-box; }
+html, body { height: 100%; background: var(--page-bg); color: var(--text); font-family: 'Plus Jakarta Sans', sans-serif; }
+body { margin: 0; padding: 0; }
+
+::-webkit-scrollbar { width: 5px; height: 5px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: var(--border2); border-radius: 3px; }
+
+.card {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  padding: 24px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.06), 0 1px 2px rgba(0,0,0,0.04);
+  transition: box-shadow 0.2s ease;
+}
+.card:hover { box-shadow: 0 4px 12px rgba(0,0,0,0.08); }
+
+.screen-enter { animation: fadeUp 0.2s ease both; }
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.shap-fill { transition: width 0.5s cubic-bezier(0.4, 0, 0.2, 1); }
+.dec-badge-transition { transition: all 0.3s ease; }
