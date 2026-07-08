@@ -113,11 +113,11 @@ Bias Detection & Fairness Evaluation
 ## Dashboard Preview
 
 <p align="Left">
-    <img src="Images/Screenshot%202026-07-08%20220339.png" alt="FairWatch Dashboard" width="900">
+    <img src="Image/Screenshot%202026-07-08%20220339.png" alt="FairWatch Dashboard" width="900">
 </p>
 
 <p align="Left">
-    <img src="Images/Screenshot%202026-07-08%20220347.png" alt="Bias Detection Dashboard" width="900">
+    <img src="Image/Screenshot%202026-07-08%20220347.png" alt="Bias Detection Dashboard" width="900">
 </p>
 
 ---
